@@ -1,0 +1,52 @@
+{
+    "dense_act": "linear",
+    "index_ac": {
+        "0": "start",
+        "1": "A_ACCEPTED",
+        "2": "A_ACTIVATED",
+        "3": "A_APPROVED",
+        "4": "A_CANCELLED",
+        "5": "A_DECLINED",
+        "6": "A_FINALIZED",
+        "7": "A_PARTLYSUBMITTED",
+        "8": "A_PREACCEPTED",
+        "9": "A_REGISTERED",
+        "10": "A_SUBMITTED",
+        "11": "O_ACCEPTED",
+        "12": "O_CANCELLED",
+        "13": "O_CREATED",
+        "14": "O_DECLINED",
+        "15": "O_SELECTED",
+        "16": "O_SENT",
+        "17": "O_SENT_BACK",
+        "18": "W_Assess_application",
+        "19": "W_Assess_fraud",
+        "20": "W_Call_after_offer",
+        "21": "W_Call_missing_information",
+        "22": "W_Complete_preaccepted_appl",
+        "23": "W_Fix_incomplete_submission",
+        "24": "end"
+    },
+    "index_rl": {
+        "0": "start",
+        "1": "Role 1",
+        "2": "Role 2",
+        "3": "Role 3",
+        "4": "end"
+    },
+    "l_size": 50,
+    "lstm_act": "selu",
+    "max_trace_size": 88,
+    "model_type": "concatenated",
+    "n_size": 15,
+    "norm_method": "max",
+    "optim": "Nadam",
+    "scale_args": {
+        "dur": {
+            "max_value": 37066.0
+        },
+        "wait": {
+            "max_value": 361137.0
+        }
+    }
+}

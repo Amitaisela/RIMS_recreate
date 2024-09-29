@@ -1,0 +1,5 @@
+caseid,task,start:timestamp,time:timestamp,role,st_wip,st_tsk_wip,queue
+1,Create Purchase Requisition,2011-06-21 00:00:00,2011-06-21 00:00:00,Role 1,41,2.1258027956176804,-1
+2,Create Purchase Requisition,2011-06-21 00:00:00,2011-06-21 00:00:00,Role 1,42,2.1258027956176804,-1
+1,Analyze Purchase Requisition,2011-06-21 00:00:00,2011-06-21 00:00:00,Role 3,42,2.0333396297695505,-1
+2,Analyze Purchase Requisition,2011-06-21 00:00:00,2011-06-21 00:00:00,Role 3,42,2.0333396297695505,-1

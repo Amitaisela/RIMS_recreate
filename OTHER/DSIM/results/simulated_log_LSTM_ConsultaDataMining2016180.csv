@@ -1,0 +1,2 @@
+caseid,task,start:timestamp,time:timestamp,role,st_wip,st_tsk_wip,queue
+1,Traer informacion estudiante - banner,2016-05-18 22:25:46,2016-05-18 22:26:04,Role 1,43,1.0,-1

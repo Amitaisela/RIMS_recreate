@@ -1,0 +1,1540 @@
+caseid,task,role,start_timestamp,end_timestamp
+Case000,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case000,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case000,Create Request for Quotation,Role 4,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case000,end,Role 4,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case001,start,start,2011-06-20 17:41:44,2011-06-20 17:41:44
+Case001,Create Purchase Requisition,Role 1,2011-06-20 23:17:35,2011-06-20 23:39:23
+Case001,Analyze Purchase Requisition,Role 4,2011-06-21 05:00:39,2011-06-21 05:21:08
+Case001,Create Request for Quotation,Role 4,2011-06-21 12:04:50,2011-06-21 12:22:07
+Case001,Analyze Request for Quotation,Role 3,2011-06-21 19:24:27,2011-06-21 19:40:54
+Case001,Amend Request for Quotation,Role 3,2011-06-22 02:51:16,2011-06-22 03:07:29
+Case001,Analyze Request for Quotation,Role 3,2011-06-22 09:43:32,2011-06-22 10:01:43
+Case001,Send Request for Quotation to Supplier,Role 1,2011-06-22 16:45:46,2011-06-22 17:04:12
+Case001,Create Quotation comparison Map,Role 1,2011-06-23 00:07:20,2011-06-23 00:24:58
+Case001,Analyze Quotation Comparison Map,Role 1,2011-06-23 07:32:57,2011-06-23 07:49:04
+Case001,Choose best option,Role 1,2011-06-23 15:16:25,2011-06-23 15:29:20
+Case001,Settle Conditions With Supplier,Role 3,2011-06-23 22:58:29,2011-06-23 23:10:54
+Case001,Create Purchase Order,Role 3,2011-06-24 07:20:22,2011-06-24 07:35:58
+Case001,Confirm Purchase Order,Role 2,2011-06-24 16:13:28,2011-06-24 16:29:18
+Case001,Deliver Goods Services,Role 2,2011-06-25 01:10:18,2011-06-25 01:25:17
+Case001,Release Purchase Order,Role 1,2011-06-25 10:18:40,2011-06-25 10:35:13
+Case001,Approve Purchase Order for payment,Role 3,2011-06-25 19:00:20,2011-06-25 19:14:28
+Case001,Send Invoice,Role 2,2011-06-26 03:11:46,2011-06-26 03:24:33
+Case001,Release Supplier's Invoice,Role 5,2011-06-26 11:51:53,2011-06-26 12:05:56
+Case001,Settle Dispute With Supplier,Role 5,2011-06-26 19:48:34,2011-06-26 20:00:05
+Case001,Authorize Supplier's Invoice payment,Role 5,2011-06-27 02:58:48,2011-06-27 03:08:34
+Case001,Pay Invoice,Role 5,2011-06-27 09:38:36,2011-06-27 09:49:23
+Case001,end,end,2011-06-27 16:15:17,2011-06-27 16:27:20
+Case002,start,start,2011-06-27 16:15:17,2011-06-27 16:15:17
+Case002,Create Purchase Requisition,Role 1,2011-06-27 21:48:06,2011-06-27 22:10:05
+Case002,Analyze Purchase Requisition,Role 1,2011-06-28 03:28:12,2011-06-28 03:48:50
+Case002,Create Request for Quotation,Role 3,2011-06-28 10:31:02,2011-06-28 10:48:23
+Case002,Analyze Request for Quotation,Role 4,2011-06-28 17:50:14,2011-06-28 18:06:41
+Case002,Amend Request for Quotation,Role 3,2011-06-29 01:17:27,2011-06-29 01:33:39
+Case002,Analyze Request for Quotation,Role 3,2011-06-29 08:08:28,2011-06-29 08:26:42
+Case002,Amend Request for Quotation,Role 3,2011-06-29 15:08:35,2011-06-29 15:27:01
+Case002,Analyze Request for Quotation,Role 3,2011-06-29 22:26:48,2011-06-29 22:44:27
+Case002,Send Request for Quotation to Supplier,Role 1,2011-06-30 06:03:58,2011-06-30 06:20:25
+Case002,Create Quotation comparison Map,Role 3,2011-06-30 13:42:00,2011-06-30 13:56:09
+Case002,Analyze Quotation Comparison Map,Role 1,2011-06-30 21:13:27,2011-06-30 21:26:42
+Case002,Choose best option,Role 1,2011-07-01 05:12:18,2011-07-01 05:28:22
+Case002,Settle Conditions With Supplier,Role 3,2011-07-01 13:41:03,2011-07-01 13:57:20
+Case002,Create Purchase Order,Role 3,2011-07-01 22:21:43,2011-07-01 22:36:54
+Case002,Confirm Purchase Order,Role 2,2011-07-02 07:31:20,2011-07-02 07:47:11
+Case002,Deliver Goods Services,Role 2,2011-07-02 16:21:29,2011-07-02 16:36:08
+Case002,Release Purchase Order,Role 1,2011-07-03 00:26:50,2011-07-03 00:39:34
+Case002,Approve Purchase Order for payment,Role 3,2011-07-03 08:26:57,2011-07-03 08:39:15
+Case002,Send Invoice,Role 2,2011-07-03 16:34:04,2011-07-03 16:46:06
+Case002,Release Supplier's Invoice,Role 5,2011-07-03 23:50:38,2011-07-04 00:00:19
+Case002,Authorize Supplier's Invoice payment,Role 5,2011-07-04 06:41:55,2011-07-04 06:50:41
+Case002,Pay Invoice,Role 5,2011-07-04 13:39:21,2011-07-04 13:50:22
+Case002,end,end,2011-07-04 20:41:59,2011-07-04 20:54:36
+Case003,start,start,2011-07-04 20:41:59,2011-07-04 20:41:59
+Case003,Create Purchase Requisition,Role 1,2011-07-05 02:24:09,2011-07-05 02:45:36
+Case003,Analyze Purchase Requisition,Role 4,2011-07-05 09:46:38,2011-07-05 10:05:24
+Case003,end,Role 4,2011-07-05 17:15:26,2011-07-05 17:33:14
+Case004,start,start,2011-07-05 17:15:26,2011-07-05 17:15:26
+Case004,Create Purchase Requisition,Role 1,2011-07-06 00:56:56,2011-07-06 01:15:22
+Case004,Analyze Purchase Requisition,Role 1,2011-07-06 08:08:25,2011-07-06 08:29:43
+Case004,Analyze Request for Quotation,Role 4,2011-07-06 15:04:50,2011-07-06 15:27:03
+Case004,end,Role 3,2011-07-06 21:53:26,2011-07-06 22:16:09
+Case005,start,start,2011-07-06 21:53:26,2011-07-06 21:53:26
+Case005,Create Purchase Requisition,Role 1,2011-07-07 05:10:21,2011-07-07 05:29:31
+Case005,Create Request for Quotation,Role 1,2011-07-07 12:46:08,2011-07-07 13:06:56
+Case005,Analyze Request for Quotation,Role 3,2011-07-07 20:30:24,2011-07-07 20:50:46
+Case005,Send Request for Quotation to Supplier,Role 3,2011-07-08 04:09:55,2011-07-08 04:29:44
+Case005,Create Quotation comparison Map,Role 3,2011-07-08 11:36:04,2011-07-08 11:57:12
+Case005,Analyze Quotation Comparison Map,Role 1,2011-07-08 19:26:50,2011-07-08 19:46:48
+Case005,Choose best option,Role 1,2011-07-09 03:45:08,2011-07-09 04:03:51
+Case005,Settle Conditions With Supplier,Role 3,2011-07-09 12:12:47,2011-07-09 12:30:38
+Case005,Create Purchase Order,Role 3,2011-07-09 20:35:46,2011-07-09 20:50:43
+Case005,Confirm Purchase Order,Role 2,2011-07-10 04:16:47,2011-07-10 04:28:17
+Case005,Deliver Goods Services,Role 2,2011-07-10 12:08:23,2011-07-10 12:19:47
+Case005,Release Purchase Order,Role 1,2011-07-10 19:09:44,2011-07-10 19:18:56
+Case005,Settle Dispute With Supplier,Role 3,2011-07-11 01:44:16,2011-07-11 01:52:35
+Case005,Release Purchase Order,Role 2,2011-07-11 08:25:41,2011-07-11 08:36:05
+Case005,Approve Purchase Order for payment,Role 3,2011-07-11 15:09:48,2011-07-11 15:21:45
+Case005,Send Invoice,Role 2,2011-07-11 22:11:47,2011-07-11 22:25:08
+Case005,Release Supplier's Invoice,Role 5,2011-07-12 05:22:46,2011-07-12 05:38:09
+Case005,Pay Invoice,Role 5,2011-07-12 13:45:38,2011-07-12 13:58:09
+Case005,Pay Invoice,Role 5,2011-07-12 22:04:28,2011-07-12 22:16:14
+Case005,end,end,2011-07-13 06:14:52,2011-07-13 06:26:31
+Case006,start,start,2011-07-13 06:14:52,2011-07-13 06:14:52
+Case006,Create Purchase Requisition,Role 1,2011-07-13 13:13:45,2011-07-13 13:34:19
+Case006,Analyze Purchase Requisition,Role 4,2011-07-13 20:35:16,2011-07-13 20:56:35
+Case006,end,Role 4,2011-07-14 03:50:49,2011-07-14 04:12:57
+Case007,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case007,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case007,Create Request for Quotation,Role 4,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case007,Create Request for Quotation,Role 4,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case007,Analyze Request for Quotation,Role 3,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case007,Amend Request for Quotation,Role 3,2011-06-21 04:08:27,2011-06-21 04:24:54
+Case007,Analyze Request for Quotation,Role 3,2011-06-21 10:58:11,2011-06-21 11:12:30
+Case007,end,Role 3,2011-06-21 18:14:34,2011-06-21 18:28:43
+Case008,start,start,2011-06-21 18:14:34,2011-06-21 18:14:34
+Case008,Create Purchase Requisition,Role 1,2011-06-22 01:56:38,2011-06-22 02:15:00
+Case008,Analyze Purchase Requisition,Role 4,2011-06-22 09:09:18,2011-06-22 09:30:30
+Case008,Create Request for Quotation,Role 4,2011-06-22 16:06:51,2011-06-22 16:28:59
+Case008,Analyze Request for Quotation,Role 3,2011-06-22 22:56:04,2011-06-22 23:18:44
+Case008,end,Role 3,2011-06-23 05:43:30,2011-06-23 06:06:33
+Case009,start,start,2011-06-23 05:43:30,2011-06-23 05:43:30
+Case009,Create Purchase Requisition,Role 1,2011-06-23 13:11:35,2011-06-23 13:31:28
+Case009,Create Request for Quotation,Role 4,2011-06-23 21:20:08,2011-06-23 21:39:44
+Case009,Create Request for Quotation,Role 4,2011-06-24 05:32:50,2011-06-24 05:52:17
+Case009,Analyze Request for Quotation,Role 3,2011-06-24 13:19:49,2011-06-24 13:41:16
+Case009,end,Role 3,2011-06-24 21:18:05,2011-06-24 21:38:59
+Case010,start,start,2011-06-24 21:18:05,2011-06-24 21:18:05
+Case010,Create Purchase Requisition,Role 1,2011-06-25 04:37:59,2011-06-25 04:56:49
+Case010,Analyze Purchase Requisition,Role 4,2011-06-25 11:59:38,2011-06-25 12:18:56
+Case010,Create Request for Quotation,Role 4,2011-06-25 19:03:44,2011-06-25 19:22:09
+Case010,Analyze Request for Quotation,Role 3,2011-06-26 01:50:25,2011-06-26 02:07:51
+Case010,Send Request for Quotation to Supplier,Role 3,2011-06-26 08:20:30,2011-06-26 08:38:33
+Case010,Create Quotation comparison Map,Role 3,2011-06-26 15:00:03,2011-06-26 15:17:02
+Case010,Analyze Quotation Comparison Map,Role 1,2011-06-26 21:54:53,2011-06-26 22:10:33
+Case010,Choose best option,Role 1,2011-06-27 05:08:46,2011-06-27 05:23:24
+Case010,Settle Conditions With Supplier,Role 3,2011-06-27 12:03:16,2011-06-27 12:21:01
+Case010,Create Purchase Order,Role 3,2011-06-27 19:11:58,2011-06-27 19:26:45
+Case010,Confirm Purchase Order,Role 2,2011-06-28 02:12:38,2011-06-28 02:30:07
+Case010,Deliver Goods Services,Role 2,2011-06-28 10:38:46,2011-06-28 10:52:39
+Case010,Release Purchase Order,Role 1,2011-06-28 19:04:24,2011-06-28 19:17:08
+Case010,Approve Purchase Order for payment,Role 3,2011-06-29 03:15:27,2011-06-29 03:27:38
+Case010,Send Invoice,Role 2,2011-06-29 11:16:29,2011-06-29 11:29:27
+Case010,Release Supplier's Invoice,Role 5,2011-06-29 18:53:29,2011-06-29 19:05:42
+Case010,Authorize Supplier's Invoice payment,Role 5,2011-06-30 02:05:13,2011-06-30 02:17:02
+Case010,Pay Invoice,Role 5,2011-06-30 09:04:42,2011-06-30 09:19:58
+Case010,end,end,2011-06-30 16:36:37,2011-06-30 16:50:31
+Case011,start,start,2011-06-30 16:36:37,2011-06-30 16:36:37
+Case011,Create Purchase Requisition,Role 1,2011-07-01 00:15:04,2011-07-01 00:33:55
+Case011,Analyze Purchase Requisition,Role 4,2011-07-01 07:51:47,2011-07-01 08:12:46
+Case011,end,Role 4,2011-07-01 15:30:11,2011-07-01 15:50:45
+Case012,start,start,2011-07-01 15:30:11,2011-07-01 15:30:11
+Case012,Create Purchase Requisition,Role 1,2011-07-01 22:44:17,2011-07-01 23:03:39
+Case012,Analyze Purchase Requisition,Role 1,2011-07-02 06:28:58,2011-07-02 06:47:44
+Case012,Analyze Request for Quotation,end,2011-07-02 13:48:52,2011-07-02 14:08:24
+Case012,Amend Request for Quotation,end,2011-07-02 20:44:14,2011-07-02 21:02:47
+Case012,Analyze Request for Quotation,Role 3,2011-07-03 03:25:01,2011-07-03 03:41:49
+Case012,Send Request for Quotation to Supplier,Role 1,2011-07-03 10:13:49,2011-07-03 10:30:10
+Case012,Create Quotation comparison Map,Role 3,2011-07-03 17:17:20,2011-07-03 17:31:38
+Case012,Analyze Quotation Comparison Map,Role 1,2011-07-04 00:31:03,2011-07-04 00:43:27
+Case012,Choose best option,Role 1,2011-07-04 07:33:15,2011-07-04 07:47:15
+Case012,Settle Conditions With Supplier,Role 3,2011-07-04 14:34:25,2011-07-04 14:46:37
+Case012,Create Purchase Order,Role 3,2011-07-04 21:40:14,2011-07-04 21:53:12
+Case012,Confirm Purchase Order,Role 2,2011-07-05 04:58:52,2011-07-05 05:14:06
+Case012,Deliver Goods Services,Role 2,2011-07-05 13:19:16,2011-07-05 13:31:29
+Case012,Release Purchase Order,Role 1,2011-07-05 21:32:50,2011-07-05 21:44:22
+Case012,Approve Purchase Order for payment,Role 3,2011-07-06 05:35:03,2011-07-06 05:46:31
+Case012,Send Invoice,Role 2,2011-07-06 13:15:04,2011-07-06 13:27:19
+Case012,Release Supplier's Invoice,Role 5,2011-07-06 20:29:00,2011-07-06 20:41:12
+Case012,Authorize Supplier's Invoice payment,Role 5,2011-07-07 03:18:44,2011-07-07 03:34:25
+Case012,Pay Invoice,Role 5,2011-07-07 10:42:48,2011-07-07 10:58:03
+Case012,end,end,2011-07-07 18:25:52,2011-07-07 18:39:32
+Case013,start,start,2011-07-07 18:25:52,2011-07-07 18:25:52
+Case013,Create Purchase Requisition,Role 1,2011-07-08 02:05:49,2011-07-08 02:24:31
+Case013,Create Request for Quotation,Role 1,2011-07-08 09:44:44,2011-07-08 10:05:29
+Case013,Analyze Request for Quotation,Role 3,2011-07-08 17:25:05,2011-07-08 17:45:25
+Case013,Send Request for Quotation to Supplier,Role 1,2011-07-09 01:05:54,2011-07-09 01:25:49
+Case013,Create Quotation comparison Map,Role 3,2011-07-09 08:27:38,2011-07-09 08:47:51
+Case013,Analyze Quotation Comparison Map,Role 1,2011-07-09 15:39:34,2011-07-09 15:57:36
+Case013,Choose best option,Role 1,2011-07-09 22:51:55,2011-07-09 23:07:08
+Case013,Settle Conditions With Supplier,Role 3,2011-07-10 06:00:19,2011-07-10 06:12:46
+Case013,Create Purchase Order,Role 3,2011-07-10 13:05:32,2011-07-10 13:15:59
+Case013,Confirm Purchase Order,Role 2,2011-07-10 19:37:40,2011-07-10 19:46:00
+Case013,Deliver Goods Services,Role 2,2011-07-11 02:16:56,2011-07-11 02:25:47
+Case013,Release Purchase Order,Role 1,2011-07-11 08:55:17,2011-07-11 09:07:00
+Case013,Settle Dispute With Supplier,Role 3,2011-07-11 15:40:14,2011-07-11 15:54:53
+Case013,Send Invoice,Role 1,2011-07-11 22:25:57,2011-07-11 22:43:44
+Case013,Release Supplier's Invoice,Role 5,2011-07-12 06:00:02,2011-07-12 06:15:44
+Case013,Authorize Supplier's Invoice payment,Role 5,2011-07-12 14:30:02,2011-07-12 14:42:33
+Case013,Pay Invoice,Role 5,2011-07-12 22:52:03,2011-07-12 23:03:47
+Case013,end,end,2011-07-13 07:06:22,2011-07-13 07:18:02
+Case014,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case014,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case014,Create Request for Quotation,Role 1,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case014,Analyze Request for Quotation,Role 3,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case014,Send Request for Quotation to Supplier,end,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case014,Create Quotation comparison Map,Role 3,2011-06-21 04:08:27,2011-06-21 04:24:54
+Case014,Analyze Quotation Comparison Map,Role 1,2011-06-21 10:58:11,2011-06-21 11:12:30
+Case014,Choose best option,Role 1,2011-06-21 18:14:34,2011-06-21 18:28:43
+Case014,Settle Conditions With Supplier,Role 3,2011-06-22 01:47:27,2011-06-22 02:01:54
+Case014,Create Purchase Order,Role 3,2011-06-22 08:44:24,2011-06-22 09:00:13
+Case014,Confirm Purchase Order,Role 2,2011-06-22 15:42:02,2011-06-22 15:57:08
+Case014,Deliver Goods Services,Role 2,2011-06-22 23:15:12,2011-06-22 23:29:30
+Case014,Release Purchase Order,Role 1,2011-06-23 07:06:58,2011-06-23 07:21:13
+Case014,Approve Purchase Order for payment,Role 3,2011-06-23 14:43:24,2011-06-23 14:57:14
+Case014,Send Invoice,Role 2,2011-06-23 22:18:30,2011-06-23 22:31:49
+Case014,Release Supplier's Invoice,Role 5,2011-06-24 06:23:08,2011-06-24 06:39:30
+Case014,Authorize Supplier's Invoice payment,Role 5,2011-06-24 14:56:32,2011-06-24 15:12:57
+Case014,Pay Invoice,Role 5,2011-06-24 23:40:27,2011-06-24 23:55:41
+Case014,end,end,2011-06-25 08:52:31,2011-06-25 09:08:21
+Case015,start,start,2011-06-25 08:52:31,2011-06-25 08:52:31
+Case015,Create Purchase Requisition,Role 1,2011-06-25 15:51:50,2011-06-25 16:10:56
+Case015,Analyze Purchase Requisition,Role 4,2011-06-25 23:00:02,2011-06-25 23:17:58
+Case015,Create Request for Quotation,Role 4,2011-06-26 05:50:33,2011-06-26 06:07:57
+Case015,Analyze Request for Quotation,Role 3,2011-06-26 12:10:48,2011-06-26 12:29:38
+Case015,Amend Request for Quotation,Role 3,2011-06-26 18:29:37,2011-06-26 18:48:34
+Case015,Analyze Request for Quotation,Role 3,2011-06-27 00:55:25,2011-06-27 01:14:25
+Case015,Amend Request for Quotation,Role 1,2011-06-27 06:06:32,2011-06-27 06:31:38
+Case015,Analyze Request for Quotation,Role 3,2011-06-27 11:41:50,2011-06-27 12:07:05
+Case015,Amend Request for Quotation,Role 4,2011-06-27 18:30:30,2011-06-27 18:52:36
+Case015,Analyze Request for Quotation,Role 3,2011-06-28 02:08:06,2011-06-28 02:23:47
+Case015,Amend Request for Quotation,Role 3,2011-06-28 10:34:37,2011-06-28 10:46:46
+Case015,Analyze Request for Quotation,Role 3,2011-06-28 18:50:34,2011-06-28 19:01:54
+Case015,Amend Request for Quotation,Role 1,2011-06-29 02:56:39,2011-06-29 03:07:55
+Case015,Analyze Request for Quotation,Role 3,2011-06-29 10:34:32,2011-06-29 10:46:21
+Case015,Amend Request for Quotation,Role 1,2011-06-29 17:43:56,2011-06-29 17:55:45
+Case015,Analyze Request for Quotation,Role 3,2011-06-30 00:15:26,2011-06-30 00:30:45
+Case015,end,end,2011-06-30 07:15:06,2011-06-30 07:29:56
+Case016,start,start,2011-06-30 07:15:06,2011-06-30 07:15:06
+Case016,Create Purchase Requisition,Role 1,2011-06-30 14:44:54,2011-06-30 15:04:38
+Case016,Analyze Purchase Requisition,Role 1,2011-06-30 22:54:15,2011-06-30 23:13:42
+Case016,Analyze Request for Quotation,Role 3,2011-07-01 07:06:50,2011-07-01 07:26:09
+Case016,Amend Request for Quotation,Role 3,2011-07-01 14:55:14,2011-07-01 15:16:28
+Case016,Analyze Request for Quotation,Role 3,2011-07-01 22:53:56,2011-07-01 23:14:36
+Case016,Amend Request for Quotation,Role 1,2011-07-02 07:03:58,2011-07-02 07:23:48
+Case016,Analyze Request for Quotation,Role 3,2011-07-02 15:12:30,2011-07-02 15:32:30
+Case016,Send Request for Quotation to Supplier,Role 1,2011-07-02 23:21:28,2011-07-02 23:38:57
+Case016,Create Quotation comparison Map,Role 3,2011-07-03 07:22:59,2011-07-03 07:37:16
+Case016,Analyze Quotation Comparison Map,Role 1,2011-07-03 15:15:42,2011-07-03 15:26:58
+Case016,Choose best option,Role 1,2011-07-03 22:13:32,2011-07-03 22:22:36
+Case016,Settle Conditions With Supplier,Role 3,2011-07-04 04:48:28,2011-07-04 04:56:45
+Case016,Create Purchase Order,Role 3,2011-07-04 11:36:10,2011-07-04 11:46:27
+Case016,Confirm Purchase Order,Role 2,2011-07-04 18:30:53,2011-07-04 18:42:49
+Case016,Deliver Goods Services,Role 2,2011-07-05 01:41:12,2011-07-05 01:54:20
+Case016,Release Purchase Order,Role 1,2011-07-05 10:10:24,2011-07-05 10:24:34
+Case016,Approve Purchase Order for payment,Role 3,2011-07-05 18:56:34,2011-07-05 19:09:29
+Case016,Send Invoice,Role 2,2011-07-06 03:31:44,2011-07-06 03:43:56
+Case016,Release Supplier's Invoice,Role 5,2011-07-06 11:37:48,2011-07-06 11:51:06
+Case016,Authorize Supplier's Invoice payment,Role 5,2011-07-06 19:20:22,2011-07-06 19:32:51
+Case016,Pay Invoice,Role 5,2011-07-07 02:35:53,2011-07-07 02:47:55
+Case016,end,end,2011-07-07 09:34:47,2011-07-07 09:50:23
+Case017,start,start,2011-07-07 09:34:47,2011-07-07 09:34:47
+Case017,Create Purchase Requisition,Role 1,2011-07-07 17:07:06,2011-07-07 17:26:36
+Case017,Analyze Purchase Requisition,Role 1,2011-07-08 01:17:29,2011-07-08 01:36:43
+Case017,end,Role 3,2011-07-08 08:58:37,2011-07-08 09:19:56
+Case018,start,start,2011-07-08 08:58:37,2011-07-08 08:58:37
+Case018,Create Purchase Requisition,Role 1,2011-07-08 16:05:37,2011-07-08 16:25:38
+Case018,Create Request for Quotation,Role 4,2011-07-08 23:44:35,2011-07-09 00:03:58
+Case018,Create Request for Quotation,Role 4,2011-07-09 07:22:15,2011-07-09 07:41:26
+Case018,Analyze Request for Quotation,Role 3,2011-07-09 14:30:16,2011-07-09 14:50:13
+Case018,end,Role 1,2011-07-09 21:19:06,2011-07-09 21:37:22
+Case019,start,start,2011-07-09 21:19:06,2011-07-09 21:19:06
+Case019,Create Purchase Requisition,Role 1,2011-07-10 04:27:29,2011-07-10 04:45:35
+Case019,Create Request for Quotation,Role 4,2011-07-10 11:15:41,2011-07-10 11:34:52
+Case019,Create Request for Quotation,Role 4,2011-07-10 17:57:45,2011-07-10 18:16:59
+Case019,Analyze Request for Quotation,Role 3,2011-07-11 00:36:57,2011-07-11 00:56:15
+Case019,Amend Request for Quotation,Role 3,2011-07-11 05:14:19,2011-07-11 05:39:22
+Case019,Analyze Request for Quotation,Role 3,2011-07-11 09:45:38,2011-07-11 10:10:22
+Case019,Amend Request for Quotation,Role 1,2011-07-11 14:57:47,2011-07-11 15:20:16
+Case019,Analyze Request for Quotation,Role 3,2011-07-11 21:12:38,2011-07-11 21:32:16
+Case019,Send Request for Quotation to Supplier,Role 1,2011-07-12 04:24:17,2011-07-12 04:40:41
+Case019,Create Quotation comparison Map,Role 3,2011-07-12 12:26:47,2011-07-12 12:37:56
+Case019,Analyze Quotation Comparison Map,Role 1,2011-07-12 20:15:14,2011-07-12 20:26:00
+Case019,Choose best option,Role 1,2011-07-13 03:59:31,2011-07-13 04:10:05
+Case019,Settle Conditions With Supplier,Role 3,2011-07-13 11:06:00,2011-07-13 11:17:23
+Case019,Create Purchase Order,Role 3,2011-07-13 17:35:43,2011-07-13 17:51:01
+Case019,Confirm Purchase Order,Role 2,2011-07-14 00:48:26,2011-07-14 01:03:02
+Case019,Deliver Goods Services,Role 2,2011-07-14 08:09:44,2011-07-14 08:24:13
+Case019,Release Purchase Order,Role 1,2011-07-14 15:46:25,2011-07-14 15:59:45
+Case019,Approve Purchase Order for payment,Role 3,2011-07-14 23:32:57,2011-07-14 23:45:56
+Case019,Send Invoice,Role 2,2011-07-15 07:59:22,2011-07-15 08:15:15
+Case019,Release Supplier's Invoice,Role 5,2011-07-15 17:00:46,2011-07-15 17:16:52
+Case019,Authorize Supplier's Invoice payment,Role 5,2011-07-16 02:02:02,2011-07-16 02:17:03
+Case019,Pay Invoice,Role 5,2011-07-16 11:14:15,2011-07-16 11:30:45
+Case019,end,end,2011-07-16 19:56:42,2011-07-16 20:10:49
+Case020,start,start,2011-07-16 19:56:42,2011-07-16 19:56:42
+Case020,Create Purchase Requisition,Role 1,2011-07-17 03:04:15,2011-07-17 03:22:27
+Case020,Analyze Purchase Requisition,Role 4,2011-07-17 09:50:49,2011-07-17 10:10:08
+Case020,Create Request for Quotation,end,2011-07-17 16:31:11,2011-07-17 16:50:33
+Case020,Analyze Request for Quotation,Role 3,2011-07-17 23:08:54,2011-07-17 23:28:20
+Case020,Amend Request for Quotation,Role 1,2011-07-18 05:50:22,2011-07-18 06:09:43
+Case020,Analyze Request for Quotation,Role 3,2011-07-18 10:43:05,2011-07-18 11:08:19
+Case020,end,Role 1,2011-07-18 15:45:49,2011-07-18 16:10:59
+Case021,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case021,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case021,Analyze Purchase Requisition,Role 1,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case021,Amend Purchase Requisition,Role 4,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case021,Analyze Request for Quotation,Role 3,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case021,Create Quotation comparison Map,Role 3,2011-06-21 04:08:27,2011-06-21 04:24:54
+Case021,Analyze Quotation Comparison Map,Role 1,2011-06-21 10:58:11,2011-06-21 11:12:30
+Case021,Choose best option,Role 1,2011-06-21 18:14:34,2011-06-21 18:28:43
+Case021,Settle Conditions With Supplier,Role 3,2011-06-22 01:47:27,2011-06-22 02:01:54
+Case021,Create Purchase Order,Role 3,2011-06-22 08:44:24,2011-06-22 09:00:13
+Case021,Confirm Purchase Order,Role 2,2011-06-22 15:42:02,2011-06-22 15:57:08
+Case021,Deliver Goods Services,Role 2,2011-06-22 23:15:12,2011-06-22 23:29:30
+Case021,Release Purchase Order,Role 1,2011-06-23 07:06:58,2011-06-23 07:21:13
+Case021,Approve Purchase Order for payment,Role 3,2011-06-23 14:43:24,2011-06-23 14:57:14
+Case021,Send Invoice,Role 2,2011-06-23 22:18:30,2011-06-23 22:31:49
+Case021,Release Supplier's Invoice,Role 5,2011-06-24 06:23:08,2011-06-24 06:39:30
+Case021,Settle Dispute With Supplier,Role 5,2011-06-24 14:56:32,2011-06-24 15:12:57
+Case021,Authorize Supplier's Invoice payment,Role 5,2011-06-24 23:40:27,2011-06-24 23:55:41
+Case021,Pay Invoice,Role 5,2011-06-25 08:52:31,2011-06-25 09:08:21
+Case021,end,end,2011-06-25 17:44:06,2011-06-25 17:58:48
+Case022,start,start,2011-06-25 17:44:06,2011-06-25 17:44:06
+Case022,Create Purchase Requisition,Role 1,2011-06-26 00:50:11,2011-06-26 01:08:33
+Case022,Analyze Purchase Requisition,Role 4,2011-06-26 07:33:50,2011-06-26 07:53:23
+Case022,Create Request for Quotation,Role 4,2011-06-26 14:11:29,2011-06-26 14:31:05
+Case022,Analyze Request for Quotation,Role 3,2011-06-26 20:46:19,2011-06-26 21:06:00
+Case022,Amend Request for Quotation,Role 3,2011-06-27 03:25:23,2011-06-27 03:45:01
+Case022,Analyze Request for Quotation,Role 3,2011-06-27 08:07:56,2011-06-27 08:33:41
+Case022,Send Request for Quotation to Supplier,Role 4,2011-06-27 12:57:30,2011-06-27 13:23:02
+Case022,Create Quotation comparison Map,Role 3,2011-06-27 18:47:53,2011-06-27 19:10:56
+Case022,Analyze Quotation Comparison Map,Role 1,2011-06-28 01:48:57,2011-06-28 02:08:00
+Case022,Choose best option,Role 1,2011-06-28 10:04:29,2011-06-28 10:16:59
+Case022,Settle Conditions With Supplier,Role 3,2011-06-28 18:02:37,2011-06-28 18:14:11
+Case022,Create Purchase Order,Role 3,2011-06-29 02:11:21,2011-06-29 02:22:32
+Case022,Confirm Purchase Order,Role 2,2011-06-29 09:50:21,2011-06-29 10:01:50
+Case022,Deliver Goods Services,Role 2,2011-06-29 17:04:17,2011-06-29 17:15:46
+Case022,Release Purchase Order,Role 1,2011-06-29 23:54:41,2011-06-30 00:09:31
+Case022,Approve Purchase Order for payment,Role 3,2011-06-30 07:21:14,2011-06-30 07:35:55
+Case022,Send Invoice,Role 2,2011-06-30 14:47:15,2011-06-30 15:01:56
+Case022,Release Supplier's Invoice,Role 5,2011-06-30 22:17:43,2011-06-30 22:31:41
+Case022,Settle Dispute With Supplier,Role 5,2011-07-01 06:13:48,2011-07-01 06:30:00
+Case022,Authorize Supplier's Invoice payment,Role 5,2011-07-01 14:47:20,2011-07-01 15:03:55
+Case022,Pay Invoice,Role 5,2011-07-01 23:34:54,2011-07-01 23:50:16
+Case022,end,end,2011-07-02 08:50:18,2011-07-02 09:06:10
+Case023,start,start,2011-07-02 08:50:18,2011-07-02 08:50:18
+Case023,Create Purchase Requisition,Role 1,2011-07-02 15:49:36,2011-07-02 16:08:42
+Case023,Create Request for Quotation,Role 4,2011-07-02 22:57:47,2011-07-02 23:15:44
+Case023,Amend Purchase Requisition,Role 4,2011-07-03 05:48:20,2011-07-03 06:05:44
+Case023,Analyze Request for Quotation,Role 3,2011-07-03 12:08:35,2011-07-03 12:27:25
+Case023,Send Request for Quotation to Supplier,Role 3,2011-07-03 18:27:24,2011-07-03 18:46:21
+Case023,Create Quotation comparison Map,Role 3,2011-07-04 00:53:13,2011-07-04 01:12:13
+Case023,Analyze Quotation Comparison Map,Role 1,2011-07-04 06:04:12,2011-07-04 06:29:18
+Case023,Choose best option,Role 1,2011-07-04 11:39:17,2011-07-04 12:04:32
+Case023,Settle Conditions With Supplier,Role 3,2011-07-04 18:27:42,2011-07-04 18:49:48
+Case023,Create Purchase Order,Role 3,2011-07-05 02:05:05,2011-07-05 02:20:46
+Case023,Confirm Purchase Order,Role 2,2011-07-05 10:31:29,2011-07-05 10:43:38
+Case023,Deliver Goods Services,Role 2,2011-07-05 18:47:23,2011-07-05 18:58:43
+Case023,Release Purchase Order,Role 1,2011-07-06 02:53:24,2011-07-06 03:04:40
+Case023,Approve Purchase Order for payment,Role 3,2011-07-06 10:31:15,2011-07-06 10:43:04
+Case023,Send Invoice,Role 2,2011-07-06 17:40:32,2011-07-06 17:52:22
+Case023,Release Supplier's Invoice,Role 5,2011-07-07 00:11:34,2011-07-07 00:26:54
+Case023,Authorize Supplier's Invoice payment,Role 5,2011-07-07 07:10:54,2011-07-07 07:25:45
+Case023,Pay Invoice,Role 5,2011-07-07 14:38:38,2011-07-07 14:52:31
+Case023,end,end,2011-07-07 22:18:34,2011-07-07 22:31:56
+Case024,start,start,2011-07-07 22:18:34,2011-07-07 22:18:34
+Case024,Create Purchase Requisition,Role 1,2011-07-08 06:01:29,2011-07-08 06:19:52
+Case024,Analyze Purchase Requisition,Role 4,2011-07-08 13:44:40,2011-07-08 14:04:58
+Case024,end,Role 1,2011-07-08 21:28:34,2011-07-08 21:48:28
+Case025,start,start,2011-07-08 21:28:34,2011-07-08 21:28:34
+Case025,Create Purchase Requisition,Role 1,2011-07-09 04:48:37,2011-07-09 05:07:26
+Case025,Create Request for Quotation,Role 4,2011-07-09 12:10:23,2011-07-09 12:29:40
+Case025,Create Request for Quotation,Role 4,2011-07-09 19:14:27,2011-07-09 19:32:51
+Case025,Analyze Request for Quotation,Role 3,2011-07-10 02:00:59,2011-07-10 02:18:24
+Case025,Send Request for Quotation to Supplier,Role 3,2011-07-10 08:31:02,2011-07-10 08:49:05
+Case025,Create Quotation comparison Map,Role 3,2011-07-10 15:10:39,2011-07-10 15:27:37
+Case025,Analyze Quotation Comparison Map,Role 1,2011-07-10 22:05:36,2011-07-10 22:21:15
+Case025,Choose best option,Role 1,2011-07-11 05:19:41,2011-07-11 05:34:18
+Case025,Settle Conditions With Supplier,Role 3,2011-07-11 12:15:01,2011-07-11 12:32:45
+Case025,Create Purchase Order,Role 3,2011-07-11 19:24:24,2011-07-11 19:39:10
+Case025,Confirm Purchase Order,Role 2,2011-07-12 02:26:26,2011-07-12 02:43:56
+Case025,Deliver Goods Services,Role 2,2011-07-12 10:53:09,2011-07-12 11:07:02
+Case025,Release Purchase Order,Role 1,2011-07-12 19:19:05,2011-07-12 19:31:50
+Case025,Approve Purchase Order for payment,Role 3,2011-07-13 03:30:35,2011-07-13 03:42:46
+Case025,Send Invoice,Role 2,2011-07-13 11:31:53,2011-07-13 11:44:50
+Case025,Release Supplier's Invoice,Role 5,2011-07-13 19:08:55,2011-07-13 19:21:08
+Case025,Authorize Supplier's Invoice payment,Role 5,2011-07-14 02:20:52,2011-07-14 02:32:40
+Case025,Pay Invoice,Role 5,2011-07-14 09:22:06,2011-07-14 09:37:20
+Case025,end,end,2011-07-14 16:54:43,2011-07-14 17:08:35
+Case026,start,start,2011-07-14 16:54:43,2011-07-14 16:54:43
+Case026,Create Purchase Requisition,Role 1,2011-07-15 00:33:25,2011-07-15 00:52:15
+Case026,Analyze Purchase Requisition,Role 1,2011-07-15 08:10:32,2011-07-15 08:31:29
+Case026,Create Request for Quotation,Role 4,2011-07-15 15:49:18,2011-07-15 16:09:50
+Case026,Analyze Request for Quotation,Role 3,2011-07-15 23:29:12,2011-07-15 23:49:18
+Case026,Amend Request for Quotation,Role 1,2011-07-16 07:05:34,2011-07-16 07:25:09
+Case026,Analyze Request for Quotation,Role 3,2011-07-16 14:25:09,2011-07-16 14:44:33
+Case026,Send Request for Quotation to Supplier,Role 3,2011-07-16 21:41:12,2011-07-16 21:57:48
+Case026,Create Quotation comparison Map,Role 3,2011-07-17 04:52:12,2011-07-17 05:05:27
+Case026,Analyze Quotation Comparison Map,Role 1,2011-07-17 12:07:19,2011-07-17 12:18:03
+Case026,Choose best option,Role 1,2011-07-17 18:48:30,2011-07-17 18:56:45
+Case026,Settle Conditions With Supplier,Role 3,2011-07-18 01:41:22,2011-07-18 01:49:53
+Case026,Create Purchase Order,Role 3,2011-07-18 08:32:24,2011-07-18 08:42:48
+Case026,Confirm Purchase Order,Role 2,2011-07-18 15:27:42,2011-07-18 15:39:44
+Case026,Deliver Goods Services,Role 2,2011-07-18 22:35:08,2011-07-18 22:48:12
+Case026,Release Purchase Order,Role 1,2011-07-19 05:58:37,2011-07-19 06:14:09
+Case026,Approve Purchase Order for payment,Role 3,2011-07-19 14:24:01,2011-07-19 14:36:27
+Case026,Send Invoice,Role 2,2011-07-19 22:43:11,2011-07-19 22:54:54
+Case026,Release Supplier's Invoice,Role 5,2011-07-20 06:54:18,2011-07-20 07:05:59
+Case026,Authorize Supplier's Invoice payment,Role 5,2011-07-20 14:39:52,2011-07-20 14:52:05
+Case026,Pay Invoice,Role 5,2011-07-20 21:59:48,2011-07-20 22:11:59
+Case026,end,end,2011-07-21 05:03:27,2011-07-21 05:19:09
+Case027,start,start,2011-07-21 05:03:27,2011-07-21 05:03:27
+Case027,Create Purchase Requisition,Role 1,2011-07-21 12:30:46,2011-07-21 12:50:43
+Case027,Create Request for Quotation,Role 4,2011-07-21 20:38:52,2011-07-21 20:58:32
+Case027,Create Request for Quotation,Role 4,2011-07-22 04:51:42,2011-07-22 05:11:13
+Case027,Analyze Request for Quotation,Role 3,2011-07-22 12:38:00,2011-07-22 12:59:32
+Case027,end,end,2011-07-22 20:36:01,2011-07-22 20:57:02
+Case028,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case028,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case028,Create Request for Quotation,Role 1,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case028,Analyze Request for Quotation,Role 3,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case028,Amend Request for Quotation,Role 3,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case028,Analyze Request for Quotation,Role 3,2011-06-21 04:08:27,2011-06-21 04:24:54
+Case028,Amend Request for Quotation,Role 3,2011-06-21 10:58:11,2011-06-21 11:12:30
+Case028,Analyze Request for Quotation,Role 3,2011-06-21 18:14:34,2011-06-21 18:28:43
+Case028,Send Request for Quotation to Supplier,Role 1,2011-06-22 01:47:27,2011-06-22 02:01:54
+Case028,Create Quotation comparison Map,Role 3,2011-06-22 08:44:24,2011-06-22 09:00:13
+Case028,Analyze Quotation Comparison Map,Role 1,2011-06-22 15:42:02,2011-06-22 15:57:08
+Case028,Choose best option,Role 1,2011-06-22 23:15:12,2011-06-22 23:29:30
+Case028,Settle Conditions With Supplier,Role 3,2011-06-23 07:06:58,2011-06-23 07:21:13
+Case028,Create Purchase Order,Role 3,2011-06-23 14:43:24,2011-06-23 14:57:14
+Case028,Confirm Purchase Order,Role 2,2011-06-23 22:18:30,2011-06-23 22:31:49
+Case028,Deliver Goods Services,Role 2,2011-06-24 06:23:08,2011-06-24 06:39:30
+Case028,Release Purchase Order,Role 1,2011-06-24 14:56:32,2011-06-24 15:12:57
+Case028,Approve Purchase Order for payment,Role 3,2011-06-24 23:40:27,2011-06-24 23:55:41
+Case028,Send Invoice,Role 2,2011-06-25 08:52:31,2011-06-25 09:08:21
+Case028,Release Supplier's Invoice,Role 5,2011-06-25 17:44:06,2011-06-25 17:58:48
+Case028,Settle Dispute With Supplier,Role 5,2011-06-26 01:50:03,2011-06-26 02:02:52
+Case028,Pay Invoice,Role 5,2011-06-26 09:50:17,2011-06-26 10:02:35
+Case028,Pay Invoice,Role 5,2011-06-26 17:56:00,2011-06-26 18:07:53
+Case028,end,end,2011-06-27 01:11:26,2011-06-27 01:21:03
+Case029,start,start,2011-06-27 01:11:26,2011-06-27 01:11:26
+Case029,Create Purchase Requisition,Role 1,2011-06-27 06:10:18,2011-06-27 06:34:21
+Case029,Analyze Purchase Requisition,Role 4,2011-06-27 11:10:24,2011-06-27 11:32:59
+Case029,Send Request for Quotation to Supplier,Role 1,2011-06-27 16:08:34,2011-06-27 16:28:40
+Case029,Send Request for Quotation to Supplier,Role 3,2011-06-27 21:14:08,2011-06-27 21:32:05
+Case029,Create Quotation comparison Map,Role 3,2011-06-28 02:29:21,2011-06-28 02:45:51
+Case029,Analyze Quotation Comparison Map,Role 1,2011-06-28 09:18:07,2011-06-28 09:32:27
+Case029,Choose best option,Role 1,2011-06-28 16:32:38,2011-06-28 16:46:51
+Case029,Settle Conditions With Supplier,Role 3,2011-06-29 00:01:16,2011-06-29 00:15:52
+Case029,Create Purchase Order,Role 3,2011-06-29 06:46:27,2011-06-29 07:02:33
+Case029,Confirm Purchase Order,Role 2,2011-06-29 13:25:00,2011-06-29 13:40:22
+Case029,Deliver Goods Services,Role 2,2011-06-29 20:43:40,2011-06-29 20:58:02
+Case029,Release Purchase Order,Role 1,2011-06-30 04:26:19,2011-06-30 04:40:40
+Case029,Approve Purchase Order for payment,Role 3,2011-06-30 11:57:05,2011-06-30 12:11:06
+Case029,Send Invoice,Role 2,2011-06-30 19:27:23,2011-06-30 19:40:55
+Case029,Release Supplier's Invoice,Role 5,2011-07-01 03:22:39,2011-07-01 03:38:59
+Case029,Authorize Supplier's Invoice payment,Role 5,2011-07-01 11:48:53,2011-07-01 12:05:37
+Case029,Pay Invoice,Role 5,2011-07-01 20:29:35,2011-07-01 20:45:10
+Case029,end,end,2011-07-02 05:41:27,2011-07-02 05:57:53
+Case030,start,start,2011-07-02 05:41:27,2011-07-02 05:41:27
+Case030,Create Purchase Requisition,Role 1,2011-07-02 12:37:59,2011-07-02 12:57:22
+Case030,Create Request for Quotation,Role 4,2011-07-02 19:44:42,2011-07-02 20:02:52
+Case030,Create Request for Quotation,Role 4,2011-07-03 02:36:08,2011-07-03 02:53:41
+Case030,Analyze Request for Quotation,Role 3,2011-07-03 08:55:31,2011-07-03 09:14:35
+Case030,Send Request for Quotation to Supplier,Role 1,2011-07-03 15:13:05,2011-07-03 15:32:18
+Case030,Create Quotation comparison Map,Role 3,2011-07-03 21:38:45,2011-07-03 21:58:03
+Case030,Analyze Quotation Comparison Map,Role 1,2011-07-04 04:21:32,2011-07-04 04:41:16
+Case030,Choose best option,Role 1,2011-07-04 09:58:35,2011-07-04 10:25:02
+Case030,Settle Conditions With Supplier,Role 3,2011-07-04 16:12:30,2011-07-04 16:38:00
+Case030,Create Purchase Order,Role 3,2011-07-04 23:27:24,2011-07-04 23:45:20
+Case030,Confirm Purchase Order,Role 2,2011-07-05 06:55:16,2011-07-05 07:10:25
+Case030,Deliver Goods Services,Role 2,2011-07-05 15:07:59,2011-07-05 15:20:19
+Case030,Release Purchase Order,Role 1,2011-07-05 23:09:06,2011-07-05 23:20:46
+Case030,Approve Purchase Order for payment,Role 3,2011-07-06 07:17:58,2011-07-06 07:29:15
+Case030,Send Invoice,Role 2,2011-07-06 14:56:17,2011-07-06 15:07:46
+Case030,Release Supplier's Invoice,Role 5,2011-07-06 22:13:40,2011-07-06 22:25:12
+Case030,Authorize Supplier's Invoice payment,Role 5,2011-07-07 05:29:04,2011-07-07 05:44:00
+Case030,Pay Invoice,Role 5,2011-07-07 13:00:44,2011-07-07 13:15:22
+Case030,end,end,2011-07-07 20:45:42,2011-07-07 20:58:55
+Case031,start,start,2011-07-07 20:45:42,2011-07-07 20:45:42
+Case031,Create Purchase Requisition,Role 1,2011-07-08 04:27:30,2011-07-08 04:46:01
+Case031,Create Request for Quotation,Role 1,2011-07-08 12:09:02,2011-07-08 12:29:30
+Case031,Analyze Request for Quotation,Role 3,2011-07-08 19:51:32,2011-07-08 20:11:36
+Case031,end,end,2011-07-09 03:33:27,2011-07-09 03:53:07
+Case032,start,start,2011-07-09 03:33:27,2011-07-09 03:33:27
+Case032,Create Purchase Requisition,Role 1,2011-07-09 10:28:05,2011-07-09 10:47:40
+Case032,Analyze Purchase Requisition,Role 4,2011-07-09 17:33:38,2011-07-09 17:51:59
+Case032,Create Request for Quotation,Role 4,2011-07-10 00:25:30,2011-07-10 00:43:10
+Case032,Analyze Request for Quotation,Role 3,2011-07-10 06:43:48,2011-07-10 07:03:05
+Case032,Amend Request for Quotation,end,2011-07-10 12:59:35,2011-07-10 13:19:03
+Case032,Analyze Request for Quotation,Role 3,2011-07-10 19:24:14,2011-07-10 19:43:49
+Case032,Amend Request for Quotation,Role 1,2011-07-11 02:05:18,2011-07-11 02:25:22
+Case032,Analyze Request for Quotation,Role 3,2011-07-11 07:28:18,2011-07-11 07:55:21
+Case032,Amend Request for Quotation,end,2011-07-11 13:21:51,2011-07-11 13:47:50
+Case032,Analyze Request for Quotation,Role 3,2011-07-11 20:18:21,2011-07-11 20:36:14
+Case032,Amend Request for Quotation,end,2011-07-12 03:35:51,2011-07-12 03:50:55
+Case032,Analyze Request for Quotation,Role 3,2011-07-12 11:43:55,2011-07-12 11:56:13
+Case032,Amend Request for Quotation,Role 4,2011-07-12 19:40:11,2011-07-12 19:51:45
+Case032,Analyze Request for Quotation,Role 3,2011-07-13 03:46:20,2011-07-13 03:57:35
+Case032,Amend Request for Quotation,Role 1,2011-07-13 11:24:06,2011-07-13 11:35:46
+Case032,Analyze Request for Quotation,Role 3,2011-07-13 18:36:11,2011-07-13 18:47:52
+Case032,Send Request for Quotation to Supplier,Role 3,2011-07-14 01:22:27,2011-07-14 01:37:29
+Case032,Create Quotation comparison Map,Role 3,2011-07-14 08:33:30,2011-07-14 08:48:11
+Case032,Analyze Quotation Comparison Map,Role 1,2011-07-14 16:06:40,2011-07-14 16:20:14
+Case032,Choose best option,Role 1,2011-07-14 23:51:47,2011-07-15 00:04:57
+Case032,Settle Conditions With Supplier,Role 3,2011-07-15 08:13:33,2011-07-15 08:29:22
+Case032,Create Purchase Order,Role 3,2011-07-15 17:12:25,2011-07-15 17:28:31
+Case032,Confirm Purchase Order,Role 2,2011-07-16 02:14:53,2011-07-16 02:30:00
+Case032,Deliver Goods Services,Role 2,2011-07-16 11:26:54,2011-07-16 11:43:22
+Case032,Release Purchase Order,Role 1,2011-07-16 20:08:41,2011-07-16 20:22:44
+Case032,Approve Purchase Order for payment,Role 3,2011-07-17 04:19:20,2011-07-17 04:32:04
+Case032,Send Invoice,Role 2,2011-07-17 13:02:47,2011-07-17 13:16:46
+Case032,Release Supplier's Invoice,Role 5,2011-07-17 20:58:05,2011-07-17 21:09:28
+Case032,Authorize Supplier's Invoice payment,Role 5,2011-07-18 04:07:07,2011-07-18 04:16:49
+Case032,Pay Invoice,Role 5,2011-07-18 10:47:01,2011-07-18 10:57:45
+Case032,end,end,2011-07-18 17:27:02,2011-07-18 17:39:02
+Case033,start,start,2011-07-18 17:27:02,2011-07-18 17:27:02
+Case033,Create Purchase Requisition,Role 1,2011-07-18 23:02:21,2011-07-18 23:24:11
+Case033,Analyze Purchase Requisition,Role 4,2011-07-19 04:44:56,2011-07-19 05:05:27
+Case033,Create Request for Quotation,Role 4,2011-07-19 11:48:54,2011-07-19 12:06:11
+Case033,Analyze Request for Quotation,Role 3,2011-07-19 19:08:27,2011-07-19 19:24:54
+Case033,Send Request for Quotation to Supplier,Role 3,2011-07-20 02:35:21,2011-07-20 02:51:34
+Case033,Create Quotation comparison Map,Role 3,2011-07-20 09:27:26,2011-07-20 09:45:37
+Case033,Analyze Quotation Comparison Map,Role 1,2011-07-20 16:29:19,2011-07-20 16:47:44
+Case033,Choose best option,Role 1,2011-07-20 23:50:20,2011-07-21 00:07:58
+Case033,Settle Conditions With Supplier,Role 3,2011-07-21 07:30:58,2011-07-21 07:47:23
+Case033,Create Purchase Order,Role 3,2011-07-21 15:13:15,2011-07-21 15:27:16
+Case033,Confirm Purchase Order,Role 2,2011-07-21 22:48:00,2011-07-21 23:01:07
+Case033,Deliver Goods Services,Role 2,2011-07-22 06:54:22,2011-07-22 07:10:30
+Case033,Release Purchase Order,Role 1,2011-07-22 15:28:31,2011-07-22 15:44:37
+Case033,Approve Purchase Order for payment,Role 3,2011-07-23 00:08:43,2011-07-23 00:23:33
+Case033,Send Invoice,Role 2,2011-07-23 09:03:51,2011-07-23 09:19:51
+Case033,Release Supplier's Invoice,Role 5,2011-07-23 17:39:18,2011-07-23 17:52:56
+Case033,Authorize Supplier's Invoice payment,Role 5,2011-07-24 01:31:29,2011-07-24 01:43:14
+Case033,Pay Invoice,Role 5,2011-07-24 09:17:27,2011-07-24 09:28:55
+Case033,end,end,2011-07-24 17:13:19,2011-07-24 17:24:57
+Case034,start,start,2011-07-24 17:13:19,2011-07-24 17:13:19
+Case034,Create Purchase Requisition,Role 1,2011-07-25 00:14:59,2011-07-25 00:33:50
+Case034,Analyze Purchase Requisition,Role 1,2011-07-25 05:21:23,2011-07-25 05:45:19
+Case034,Analyze Request for Quotation,Role 3,2011-07-25 09:59:28,2011-07-25 10:22:44
+Case034,Send Request for Quotation to Supplier,Role 3,2011-07-25 14:39:48,2011-07-25 15:00:59
+Case034,Create Quotation comparison Map,Role 3,2011-07-25 19:36:21,2011-07-25 19:55:14
+Case034,Analyze Quotation Comparison Map,Role 1,2011-07-26 00:58:12,2011-07-26 01:15:15
+Case034,Choose best option,Role 1,2011-07-26 08:07:45,2011-07-26 08:22:06
+Case034,Settle Conditions With Supplier,Role 3,2011-07-26 15:50:47,2011-07-26 16:04:29
+Case034,Create Purchase Order,Role 3,2011-07-26 23:47:47,2011-07-27 00:00:40
+Case034,Confirm Purchase Order,Role 2,2011-07-27 07:16:44,2011-07-27 07:27:35
+Case034,Deliver Goods Services,Role 2,2011-07-27 13:46:59,2011-07-27 14:02:10
+Case034,Release Purchase Order,Role 1,2011-07-27 20:57:35,2011-07-27 21:12:16
+Case034,Approve Purchase Order for payment,Role 3,2011-07-28 04:30:49,2011-07-28 04:45:29
+Case034,Send Invoice,Role 2,2011-07-28 11:55:45,2011-07-28 12:10:09
+Case034,Release Supplier's Invoice,Role 5,2011-07-28 19:28:29,2011-07-28 19:42:20
+Case034,Authorize Supplier's Invoice payment,Role 5,2011-07-29 03:30:26,2011-07-29 03:46:39
+Case034,Pay Invoice,Role 5,2011-07-29 12:23:09,2011-07-29 12:40:17
+Case034,end,end,2011-07-29 21:23:52,2011-07-29 21:39:26
+Case035,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case035,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case035,Analyze Purchase Requisition,Role 4,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case035,Settle Conditions With Supplier,Role 4,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case035,Amend Request for Quotation,Role 1,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case035,Analyze Request for Quotation,Role 3,2011-06-21 04:08:27,2011-06-21 04:24:54
+Case035,Send Request for Quotation to Supplier,Role 1,2011-06-21 10:58:11,2011-06-21 11:12:30
+Case035,Create Quotation comparison Map,Role 3,2011-06-21 18:14:34,2011-06-21 18:28:43
+Case035,Analyze Quotation Comparison Map,Role 1,2011-06-22 01:47:27,2011-06-22 02:01:54
+Case035,Choose best option,Role 1,2011-06-22 08:44:24,2011-06-22 09:00:13
+Case035,Settle Conditions With Supplier,Role 3,2011-06-22 15:42:02,2011-06-22 15:57:08
+Case035,Create Purchase Order,Role 3,2011-06-22 23:15:12,2011-06-22 23:29:30
+Case035,Confirm Purchase Order,Role 2,2011-06-23 07:06:58,2011-06-23 07:21:13
+Case035,Deliver Goods Services,Role 2,2011-06-23 14:43:24,2011-06-23 14:57:14
+Case035,Release Purchase Order,Role 1,2011-06-23 22:18:30,2011-06-23 22:31:49
+Case035,Approve Purchase Order for payment,Role 3,2011-06-24 06:23:08,2011-06-24 06:39:30
+Case035,Send Invoice,Role 2,2011-06-24 14:56:32,2011-06-24 15:12:57
+Case035,Release Supplier's Invoice,Role 5,2011-06-24 23:40:27,2011-06-24 23:55:41
+Case035,Authorize Supplier's Invoice payment,Role 5,2011-06-25 08:52:31,2011-06-25 09:08:21
+Case035,Pay Invoice,Role 5,2011-06-25 17:44:06,2011-06-25 17:58:48
+Case035,end,end,2011-06-26 01:50:03,2011-06-26 02:02:52
+Case036,start,start,2011-06-26 01:50:03,2011-06-26 01:50:03
+Case036,Create Purchase Requisition,Role 1,2011-06-26 08:29:39,2011-06-26 08:50:06
+Case036,Analyze Purchase Requisition,Role 4,2011-06-26 15:27:40,2011-06-26 15:47:39
+Case036,Create Request for Quotation,Role 4,2011-06-26 22:21:10,2011-06-26 22:41:02
+Case036,Analyze Request for Quotation,Role 3,2011-06-27 05:11:27,2011-06-27 05:31:18
+Case036,Send Request for Quotation to Supplier,Role 3,2011-06-27 09:41:01,2011-06-27 10:07:12
+Case036,Create Quotation comparison Map,Role 3,2011-06-27 14:02:01,2011-06-27 14:28:27
+Case036,Analyze Quotation Comparison Map,Role 1,2011-06-27 19:11:39,2011-06-27 19:36:11
+Case036,Choose best option,Role 1,2011-06-28 01:26:01,2011-06-28 01:47:29
+Case036,Settle Conditions With Supplier,Role 3,2011-06-28 09:50:11,2011-06-28 10:05:55
+Case036,Create Purchase Order,Role 3,2011-06-28 17:57:36,2011-06-28 18:09:21
+Case036,Confirm Purchase Order,Role 2,2011-06-29 02:07:46,2011-06-29 02:18:54
+Case036,Deliver Goods Services,Role 2,2011-06-29 09:47:26,2011-06-29 09:58:43
+Case036,Release Purchase Order,Role 1,2011-06-29 17:03:39,2011-06-29 17:14:53
+Case036,Approve Purchase Order for payment,Role 3,2011-06-30 00:07:20,2011-06-30 00:21:46
+Case036,Send Invoice,Role 2,2011-06-30 07:19:27,2011-06-30 07:33:38
+Case036,Release Supplier's Invoice,Role 5,2011-06-30 14:46:09,2011-06-30 14:59:28
+Case036,Authorize Supplier's Invoice payment,Role 5,2011-06-30 22:21:28,2011-06-30 22:34:34
+Case036,Pay Invoice,Role 5,2011-07-01 06:28:37,2011-07-01 06:44:11
+Case036,end,end,2011-07-01 15:18:47,2011-07-01 15:35:07
+Case037,start,start,2011-07-01 15:18:47,2011-07-01 15:18:47
+Case037,Create Purchase Requisition,Role 1,2011-07-01 22:32:41,2011-07-01 22:52:04
+Case037,Analyze Purchase Requisition,Role 1,2011-07-02 06:17:12,2011-07-02 06:35:59
+Case037,Analyze Request for Quotation,Role 3,2011-07-02 13:37:04,2011-07-02 13:56:37
+Case037,end,Role 1,2011-07-02 20:32:32,2011-07-02 20:51:06
+Case038,start,start,2011-07-02 20:32:32,2011-07-02 20:32:32
+Case038,Create Purchase Requisition,Role 1,2011-07-03 03:40:27,2011-07-03 03:58:37
+Case038,Create Request for Quotation,Role 4,2011-07-03 10:27:44,2011-07-03 10:47:00
+Case038,Create Request for Quotation,Role 4,2011-07-03 17:08:52,2011-07-03 17:28:10
+Case038,Analyze Request for Quotation,Role 3,2011-07-03 23:47:17,2011-07-04 00:06:39
+Case038,Send Request for Quotation to Supplier,Role 1,2011-07-04 06:29:19,2011-07-04 06:48:36
+Case038,Create Quotation comparison Map,Role 3,2011-07-04 11:24:29,2011-07-04 11:49:36
+Case038,Analyze Quotation Comparison Map,Role 1,2011-07-04 16:30:34,2011-07-04 16:55:40
+Case038,Choose best option,Role 1,2011-07-04 22:38:42,2011-07-04 23:01:35
+Case038,Settle Conditions With Supplier,Role 3,2011-07-05 05:57:11,2011-07-05 06:16:26
+Case038,Create Purchase Order,Role 3,2011-07-05 14:18:27,2011-07-05 14:31:02
+Case038,Confirm Purchase Order,Role 2,2011-07-05 22:23:21,2011-07-05 22:35:04
+Case038,Deliver Goods Services,Role 2,2011-07-06 06:33:09,2011-07-06 06:44:19
+Case038,Release Purchase Order,Role 1,2011-07-06 14:12:59,2011-07-06 14:24:16
+Case038,Settle Dispute With Supplier,Role 3,2011-07-06 21:32:11,2011-07-06 21:43:25
+Case038,Release Purchase Order,Role 1,2011-07-07 04:57:27,2011-07-07 05:12:00
+Case038,Approve Purchase Order for payment,Role 3,2011-07-07 12:28:35,2011-07-07 12:42:52
+Case038,Send Invoice,Role 2,2011-07-07 20:09:45,2011-07-07 20:22:51
+Case038,Release Supplier's Invoice,Role 5,2011-07-08 03:59:41,2011-07-08 04:12:27
+Case038,Authorize Supplier's Invoice payment,Role 5,2011-07-08 12:39:11,2011-07-08 12:56:22
+Case038,Pay Invoice,Role 5,2011-07-08 21:39:16,2011-07-08 21:55:04
+Case038,end,end,2011-07-09 06:23:13,2011-07-09 06:37:16
+Case039,start,start,2011-07-09 06:23:13,2011-07-09 06:23:13
+Case039,Create Purchase Requisition,Role 1,2011-07-09 13:20:22,2011-07-09 13:39:41
+Case039,Analyze Purchase Requisition,Role 4,2011-07-09 20:27:27,2011-07-09 20:45:34
+Case039,end,Role 4,2011-07-10 03:18:42,2011-07-10 03:36:13
+Case040,start,start,2011-07-10 03:18:42,2011-07-10 03:18:42
+Case040,Create Purchase Requisition,Role 1,2011-07-10 10:00:52,2011-07-10 10:21:08
+Case040,Create Request for Quotation,Role 1,2011-07-10 17:01:24,2011-07-10 17:21:11
+Case040,Analyze Request for Quotation,Role 3,2011-07-10 23:57:20,2011-07-11 00:17:00
+Case040,Send Request for Quotation to Supplier,end,2011-07-11 06:49:40,2011-07-11 07:09:19
+Case040,Create Quotation comparison Map,Role 3,2011-07-11 11:26:23,2011-07-11 11:52:13
+Case040,Analyze Quotation Comparison Map,Role 1,2011-07-11 15:56:14,2011-07-11 16:22:23
+Case040,Choose best option,Role 1,2011-07-11 21:15:30,2011-07-11 21:39:55
+Case040,Settle Conditions With Supplier,Role 3,2011-07-12 03:38:31,2011-07-12 03:59:54
+Case040,Create Purchase Order,Role 3,2011-07-12 12:06:30,2011-07-12 12:22:15
+Case040,Confirm Purchase Order,Role 2,2011-07-12 20:17:41,2011-07-12 20:29:31
+Case040,Deliver Goods Services,Role 2,2011-07-13 04:27:27,2011-07-13 04:38:33
+Case040,Release Purchase Order,Role 1,2011-07-13 12:07:19,2011-07-13 12:18:30
+Case040,Approve Purchase Order for payment,Role 3,2011-07-13 19:25:49,2011-07-13 19:36:55
+Case040,Send Invoice,Role 2,2011-07-14 02:46:57,2011-07-14 03:01:15
+Case040,Release Supplier's Invoice,Role 5,2011-07-14 10:11:16,2011-07-14 10:25:18
+Case040,Authorize Supplier's Invoice payment,Role 5,2011-07-14 17:45:04,2011-07-14 17:58:06
+Case040,Pay Invoice,Role 5,2011-07-15 01:26:57,2011-07-15 01:39:46
+Case040,end,end,2011-07-15 09:48:36,2011-07-15 10:05:41
+Case041,start,start,2011-07-15 09:48:36,2011-07-15 09:48:36
+Case041,Create Purchase Requisition,Role 1,2011-07-15 16:56:32,2011-07-15 17:16:27
+Case041,Create Request for Quotation,Role 4,2011-07-16 00:36:18,2011-07-16 00:55:36
+Case041,Create Request for Quotation,Role 4,2011-07-16 07:54:21,2011-07-16 08:14:24
+Case041,Analyze Request for Quotation,Role 3,2011-07-16 14:51:44,2011-07-16 15:10:40
+Case041,Send Request for Quotation to Supplier,Role 4,2011-07-16 21:40:19,2011-07-16 21:57:25
+Case041,Create Quotation comparison Map,Role 3,2011-07-17 04:24:28,2011-07-17 04:39:37
+Case041,Analyze Quotation Comparison Map,Role 1,2011-07-17 11:13:25,2011-07-17 11:27:46
+Case041,Choose best option,Role 1,2011-07-17 18:08:39,2011-07-17 18:21:07
+Case041,Settle Conditions With Supplier,Role 3,2011-07-18 01:12:01,2011-07-18 01:23:19
+Case041,Create Purchase Order,Role 3,2011-07-18 07:55:58,2011-07-18 08:07:56
+Case041,Confirm Purchase Order,Role 2,2011-07-18 14:39:03,2011-07-18 14:53:43
+Case041,Deliver Goods Services,Role 2,2011-07-18 21:18:53,2011-07-18 21:36:31
+Case041,Release Purchase Order,Role 1,2011-07-19 04:47:29,2011-07-19 05:02:56
+Case041,Approve Purchase Order for payment,Role 3,2011-07-19 13:11:33,2011-07-19 13:23:51
+Case041,Send Invoice,Role 2,2011-07-19 21:27:58,2011-07-19 21:39:33
+Case041,Release Supplier's Invoice,Role 5,2011-07-20 05:34:32,2011-07-20 05:46:03
+Case041,Settle Dispute With Supplier,Role 5,2011-07-20 13:16:52,2011-07-20 13:29:01
+Case041,Authorize Supplier's Invoice payment,Role 5,2011-07-20 20:32:58,2011-07-20 20:45:04
+Case041,Pay Invoice,Role 5,2011-07-21 03:26:50,2011-07-21 03:42:25
+Case041,end,end,2011-07-21 10:50:49,2011-07-21 11:05:57
+Case042,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case042,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case042,Analyze Purchase Requisition,Role 1,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case042,Analyze Request for Quotation,Role 4,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case042,end,Role 1,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case043,start,start,2011-06-20 22:50:26,2011-06-20 22:50:26
+Case043,Create Purchase Requisition,Role 1,2011-06-21 04:36:56,2011-06-21 04:58:09
+Case043,Create Request for Quotation,Role 1,2011-06-21 12:01:14,2011-06-21 12:19:49
+Case043,Analyze Request for Quotation,Role 3,2011-06-21 19:31:14,2011-06-21 19:48:55
+Case043,Amend Request for Quotation,Role 3,2011-06-22 03:00:08,2011-06-22 03:17:31
+Case043,Analyze Request for Quotation,Role 3,2011-06-22 09:42:09,2011-06-22 10:01:49
+Case043,Amend Request for Quotation,Role 3,2011-06-22 16:23:38,2011-06-22 16:44:01
+Case043,Analyze Request for Quotation,Role 3,2011-06-22 23:21:43,2011-06-22 23:41:39
+Case043,Send Request for Quotation to Supplier,Role 1,2011-06-23 06:44:11,2011-06-23 07:03:24
+Case043,Create Quotation comparison Map,Role 3,2011-06-23 14:20:50,2011-06-23 14:38:19
+Case043,Analyze Quotation Comparison Map,Role 1,2011-06-23 22:02:31,2011-06-23 22:15:51
+Case043,Choose best option,Role 1,2011-06-24 06:08:07,2011-06-24 06:24:05
+Case043,Settle Conditions With Supplier,Role 3,2011-06-24 14:41:26,2011-06-24 14:57:22
+Case043,Create Purchase Order,Role 3,2011-06-24 23:18:51,2011-06-24 23:33:29
+Case043,Confirm Purchase Order,Role 2,2011-06-25 08:25:55,2011-06-25 08:41:16
+Case043,Deliver Goods Services,Role 2,2011-06-25 17:12:18,2011-06-25 17:26:39
+Case043,Release Purchase Order,Role 1,2011-06-26 01:14:11,2011-06-26 01:26:46
+Case043,Settle Dispute With Supplier,Role 3,2011-06-26 09:11:11,2011-06-26 09:23:20
+Case043,Release Purchase Order,Role 1,2011-06-26 17:15:16,2011-06-26 17:27:07
+Case043,Approve Purchase Order for payment,Role 3,2011-06-27 00:30:28,2011-06-27 00:40:06
+Case043,Send Invoice,Role 2,2011-06-27 07:15:14,2011-06-27 07:25:23
+Case043,Release Supplier's Invoice,Role 5,2011-06-27 14:04:58,2011-06-27 14:15:55
+Case043,Authorize Supplier's Invoice payment,Role 5,2011-06-27 21:08:08,2011-06-27 21:19:46
+Case043,Pay Invoice,Role 5,2011-06-28 04:18:56,2011-06-28 04:30:51
+Case043,end,end,2011-06-28 12:27:51,2011-06-28 12:40:17
+Case044,start,start,2011-06-28 12:27:51,2011-06-28 12:27:51
+Case044,Create Purchase Requisition,Role 1,2011-06-28 20:06:32,2011-06-28 20:25:21
+Case044,Analyze Purchase Requisition,Role 4,2011-06-29 04:02:06,2011-06-29 04:20:41
+Case044,Create Request for Quotation,Role 4,2011-06-29 11:00:41,2011-06-29 11:22:04
+Case044,Analyze Request for Quotation,Role 3,2011-06-29 17:41:58,2011-06-29 18:04:18
+Case044,end,Role 4,2011-06-30 00:19:30,2011-06-30 00:42:15
+Case045,start,start,2011-06-30 00:19:30,2011-06-30 00:19:30
+Case045,Create Purchase Requisition,Role 1,2011-06-30 07:41:06,2011-06-30 08:01:34
+Case045,Create Request for Quotation,Role 1,2011-06-30 15:45:49,2011-06-30 16:06:02
+Case045,Analyze Request for Quotation,Role 3,2011-06-30 23:58:40,2011-07-01 00:18:41
+Case045,Send Request for Quotation to Supplier,end,2011-07-01 08:12:16,2011-07-01 08:32:14
+Case045,Create Quotation comparison Map,Role 3,2011-07-01 16:08:02,2011-07-01 16:30:00
+Case045,Analyze Quotation Comparison Map,Role 1,2011-07-02 00:23:27,2011-07-02 00:44:49
+Case045,Choose best option,Role 1,2011-07-02 08:39:27,2011-07-02 09:01:30
+Case045,Settle Conditions With Supplier,Role 3,2011-07-02 17:20:48,2011-07-02 17:40:43
+Case045,Create Purchase Order,Role 3,2011-07-03 02:09:04,2011-07-03 02:25:37
+Case045,Confirm Purchase Order,Role 2,2011-07-03 10:56:16,2011-07-03 11:10:11
+Case045,Deliver Goods Services,Role 2,2011-07-03 18:49:11,2011-07-03 19:00:20
+Case045,Release Purchase Order,Role 1,2011-07-04 01:56:02,2011-07-04 02:05:32
+Case045,Approve Purchase Order for payment,Role 3,2011-07-04 08:33:19,2011-07-04 08:43:51
+Case045,Send Invoice,Role 2,2011-07-04 15:06:44,2011-07-04 15:18:30
+Case045,Release Supplier's Invoice,Role 5,2011-07-04 21:58:15,2011-07-04 22:11:34
+Case045,Authorize Supplier's Invoice payment,Role 5,2011-07-05 04:49:23,2011-07-05 05:04:25
+Case045,Pay Invoice,Role 5,2011-07-05 12:57:56,2011-07-05 13:10:13
+Case045,end,end,2011-07-05 21:06:27,2011-07-05 21:18:03
+Case046,start,start,2011-07-05 21:06:27,2011-07-05 21:06:27
+Case046,Create Purchase Requisition,Role 1,2011-07-06 04:50:04,2011-07-06 05:08:13
+Case046,Create Request for Quotation,Role 4,2011-07-06 12:05:55,2011-07-06 12:26:52
+Case046,Create Request for Quotation,Role 4,2011-07-06 19:06:34,2011-07-06 19:28:31
+Case046,Analyze Request for Quotation,Role 3,2011-07-07 01:57:24,2011-07-07 02:19:57
+Case046,Amend Request for Quotation,Role 3,2011-07-07 08:35:10,2011-07-07 08:58:03
+Case046,Analyze Request for Quotation,Role 3,2011-07-07 15:37:23,2011-07-07 15:58:13
+Case046,Amend Request for Quotation,Role 1,2011-07-07 23:06:56,2011-07-07 23:26:00
+Case046,Analyze Request for Quotation,Role 3,2011-07-08 07:10:35,2011-07-08 07:28:12
+Case046,end,Role 3,2011-07-08 16:01:16,2011-07-08 16:18:43
+Case047,start,start,2011-07-08 16:01:16,2011-07-08 16:01:16
+Case047,Create Purchase Requisition,Role 1,2011-07-08 23:15:54,2011-07-08 23:35:13
+Case047,Analyze Purchase Requisition,Role 4,2011-07-09 07:01:00,2011-07-09 07:19:43
+Case047,end,Role 4,2011-07-09 14:21:02,2011-07-09 14:40:32
+Case048,start,start,2011-07-09 14:21:02,2011-07-09 14:21:02
+Case048,Create Purchase Requisition,Role 1,2011-07-09 21:24:42,2011-07-09 21:43:20
+Case048,Analyze Purchase Requisition,Role 1,2011-07-10 04:34:27,2011-07-10 04:52:03
+Case048,Analyze Request for Quotation,Role 3,2011-07-10 11:07:02,2011-07-10 11:25:59
+Case048,end,Role 3,2011-07-10 17:34:55,2011-07-10 17:54:01
+Case049,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case049,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case049,Create Request for Quotation,Role 1,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case049,Analyze Request for Quotation,Role 3,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case049,Send Request for Quotation to Supplier,end,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case049,Create Quotation comparison Map,Role 3,2011-06-21 04:08:27,2011-06-21 04:24:54
+Case049,Analyze Quotation Comparison Map,Role 1,2011-06-21 10:58:11,2011-06-21 11:12:30
+Case049,Choose best option,Role 1,2011-06-21 18:14:34,2011-06-21 18:28:43
+Case049,Settle Conditions With Supplier,Role 3,2011-06-22 01:47:27,2011-06-22 02:01:54
+Case049,Create Purchase Order,Role 3,2011-06-22 08:44:24,2011-06-22 09:00:13
+Case049,Confirm Purchase Order,Role 2,2011-06-22 15:42:02,2011-06-22 15:57:08
+Case049,Deliver Goods Services,Role 2,2011-06-22 23:15:12,2011-06-22 23:29:30
+Case049,Release Purchase Order,Role 1,2011-06-23 07:06:58,2011-06-23 07:21:13
+Case049,Approve Purchase Order for payment,Role 3,2011-06-23 14:43:24,2011-06-23 14:57:14
+Case049,Send Invoice,Role 2,2011-06-23 22:18:30,2011-06-23 22:31:49
+Case049,Release Supplier's Invoice,Role 5,2011-06-24 06:23:08,2011-06-24 06:39:30
+Case049,Authorize Supplier's Invoice payment,Role 5,2011-06-24 14:56:32,2011-06-24 15:12:57
+Case049,Pay Invoice,Role 5,2011-06-24 23:40:27,2011-06-24 23:55:41
+Case049,end,end,2011-06-25 08:52:31,2011-06-25 09:08:21
+Case050,start,start,2011-06-25 08:52:31,2011-06-25 08:52:31
+Case050,Create Purchase Requisition,Role 1,2011-06-25 15:51:50,2011-06-25 16:10:56
+Case050,Create Request for Quotation,Role 1,2011-06-25 23:00:02,2011-06-25 23:17:58
+Case050,Analyze Request for Quotation,Role 3,2011-06-26 05:50:33,2011-06-26 06:07:57
+Case050,Send Request for Quotation to Supplier,Role 3,2011-06-26 12:10:48,2011-06-26 12:29:38
+Case050,Create Quotation comparison Map,Role 3,2011-06-26 18:29:37,2011-06-26 18:48:34
+Case050,Analyze Quotation Comparison Map,Role 1,2011-06-27 00:55:25,2011-06-27 01:14:25
+Case050,Choose best option,Role 1,2011-06-27 06:06:32,2011-06-27 06:31:38
+Case050,Settle Conditions With Supplier,Role 3,2011-06-27 11:41:50,2011-06-27 12:07:05
+Case050,Create Purchase Order,Role 3,2011-06-27 18:30:30,2011-06-27 18:52:36
+Case050,Confirm Purchase Order,Role 2,2011-06-28 02:08:06,2011-06-28 02:23:47
+Case050,Deliver Goods Services,Role 2,2011-06-28 10:34:37,2011-06-28 10:46:46
+Case050,Release Purchase Order,Role 1,2011-06-28 18:50:34,2011-06-28 19:01:54
+Case050,Approve Purchase Order for payment,Role 3,2011-06-29 02:56:39,2011-06-29 03:07:55
+Case050,Send Invoice,Role 2,2011-06-29 10:34:32,2011-06-29 10:46:21
+Case050,Release Supplier's Invoice,Role 5,2011-06-29 17:43:56,2011-06-29 17:55:45
+Case050,Authorize Supplier's Invoice payment,Role 5,2011-06-30 00:15:26,2011-06-30 00:30:45
+Case050,Pay Invoice,Role 5,2011-06-30 07:15:06,2011-06-30 07:29:56
+Case050,end,end,2011-06-30 14:42:59,2011-06-30 14:56:52
+Case051,start,start,2011-06-30 14:42:59,2011-06-30 14:42:59
+Case051,Create Purchase Requisition,Role 1,2011-06-30 22:19:54,2011-06-30 22:38:55
+Case051,Analyze Purchase Requisition,Role 1,2011-07-01 06:32:21,2011-07-01 06:51:09
+Case051,Analyze Request for Quotation,Role 4,2011-07-01 14:18:54,2011-07-01 14:39:35
+Case051,Send Request for Quotation to Supplier,Role 3,2011-07-01 22:08:51,2011-07-01 22:29:10
+Case051,Create Quotation comparison Map,Role 3,2011-07-02 05:59:46,2011-07-02 06:19:20
+Case051,Analyze Quotation Comparison Map,Role 1,2011-07-02 13:37:53,2011-07-02 13:57:27
+Case051,Choose best option,Role 1,2011-07-02 21:11:23,2011-07-02 21:28:40
+Case051,Settle Conditions With Supplier,Role 3,2011-07-03 04:42:07,2011-07-03 04:56:38
+Case051,Create Purchase Order,Role 3,2011-07-03 12:29:36,2011-07-03 12:42:03
+Case051,Confirm Purchase Order,Role 2,2011-07-03 19:35:17,2011-07-03 19:44:31
+Case051,Deliver Goods Services,Role 2,2011-07-04 02:12:12,2011-07-04 02:20:30
+Case051,Release Purchase Order,Role 1,2011-07-04 08:59:31,2011-07-04 09:09:51
+Case051,Approve Purchase Order for payment,Role 3,2011-07-04 15:50:58,2011-07-04 16:02:54
+Case051,Send Invoice,Role 2,2011-07-04 22:56:34,2011-07-04 23:09:40
+Case051,Release Supplier's Invoice,Role 5,2011-07-05 06:16:04,2011-07-05 06:31:29
+Case051,Authorize Supplier's Invoice payment,Role 5,2011-07-05 14:39:13,2011-07-05 14:51:38
+Case051,Pay Invoice,Role 5,2011-07-05 22:56:44,2011-07-05 23:08:26
+Case051,end,end,2011-07-06 07:06:54,2011-07-06 07:18:32
+Case052,start,start,2011-07-06 07:06:54,2011-07-06 07:06:54
+Case052,Create Purchase Requisition,Role 1,2011-07-06 14:06:55,2011-07-06 14:27:24
+Case052,Create Request for Quotation,Role 4,2011-07-06 21:29:26,2011-07-06 21:50:40
+Case052,end,Role 4,2011-07-07 04:45:53,2011-07-07 05:07:58
+Case053,start,start,2011-07-07 04:45:53,2011-07-07 04:45:53
+Case053,Create Purchase Requisition,Role 1,2011-07-07 12:12:51,2011-07-07 12:32:50
+Case053,Analyze Purchase Requisition,Role 1,2011-07-07 20:20:46,2011-07-07 20:40:28
+Case053,Analyze Request for Quotation,Role 3,2011-07-08 04:33:38,2011-07-08 04:53:10
+Case053,Amend Request for Quotation,Role 3,2011-07-08 12:19:37,2011-07-08 12:41:12
+Case053,Analyze Request for Quotation,Role 3,2011-07-08 20:17:31,2011-07-08 20:38:35
+Case053,Send Request for Quotation to Supplier,end,2011-07-09 04:26:51,2011-07-09 04:47:03
+Case053,Analyze Quotation Comparison Map,Role 3,2011-07-09 12:33:02,2011-07-09 12:53:26
+Case053,Choose best option,Role 1,2011-07-09 20:43:35,2011-07-09 21:01:26
+Case053,Settle Conditions With Supplier,Role 1,2011-07-10 04:48:44,2011-07-10 05:03:12
+Case053,Create Purchase Order,Role 3,2011-07-10 12:46:49,2011-07-10 12:58:24
+Case053,Confirm Purchase Order,Role 2,2011-07-10 19:47:57,2011-07-10 19:57:08
+Case053,Deliver Goods Services,Role 2,2011-07-11 02:22:23,2011-07-11 02:30:41
+Case053,Release Purchase Order,Role 1,2011-07-11 09:04:37,2011-07-11 09:14:56
+Case053,Settle Dispute With Supplier,Role 3,2011-07-11 15:50:20,2011-07-11 16:02:12
+Case053,Send Invoice,Role 2,2011-07-11 22:52:57,2011-07-11 23:06:07
+Case053,Release Supplier's Invoice,Role 5,2011-07-12 06:06:18,2011-07-12 06:21:36
+Case053,Authorize Supplier's Invoice payment,Role 5,2011-07-12 14:27:37,2011-07-12 14:40:04
+Case053,Pay Invoice,Role 5,2011-07-12 22:45:04,2011-07-12 22:56:47
+Case053,end,end,2011-07-13 06:56:05,2011-07-13 07:07:44
+Case054,start,start,2011-07-13 06:56:05,2011-07-13 06:56:05
+Case054,Create Purchase Requisition,Role 1,2011-07-13 13:55:52,2011-07-13 14:16:22
+Case054,Analyze Purchase Requisition,Role 1,2011-07-13 21:18:10,2011-07-13 21:39:25
+Case054,Analyze Request for Quotation,Role 3,2011-07-14 04:34:26,2011-07-14 04:56:31
+Case054,Amend Request for Quotation,Role 3,2011-07-14 11:27:38,2011-07-14 11:50:28
+Case054,Analyze Request for Quotation,Role 3,2011-07-14 18:23:59,2011-07-14 18:45:11
+Case054,Amend Request for Quotation,Role 1,2011-07-15 01:24:54,2011-07-15 01:44:20
+Case054,Analyze Request for Quotation,Role 3,2011-07-15 08:43:50,2011-07-15 09:03:45
+Case054,end,Role 1,2011-07-15 16:57:33,2011-07-15 17:15:57
+Case055,start,start,2011-07-15 16:57:33,2011-07-15 16:57:33
+Case055,Create Purchase Requisition,Role 1,2011-07-16 00:13:12,2011-07-16 00:32:26
+Case055,Create Request for Quotation,Role 1,2011-07-16 07:31:40,2011-07-16 07:51:23
+Case055,Analyze Request for Quotation,Role 3,2011-07-16 14:35:33,2011-07-16 14:54:18
+Case055,Amend Request for Quotation,Role 1,2011-07-16 21:25:59,2011-07-16 21:43:39
+Case055,Analyze Request for Quotation,Role 3,2011-07-17 04:02:28,2011-07-17 04:18:57
+Case055,Amend Request for Quotation,Role 1,2011-07-17 10:30:45,2011-07-17 10:47:37
+Case055,Analyze Request for Quotation,Role 3,2011-07-17 17:09:49,2011-07-17 17:25:25
+Case055,Amend Request for Quotation,Role 1,2011-07-18 00:03:38,2011-07-18 00:18:09
+Case055,Analyze Request for Quotation,Role 3,2011-07-18 06:37:33,2011-07-18 06:54:59
+Case055,Amend Request for Quotation,Role 1,2011-07-18 13:27:12,2011-07-18 13:42:15
+Case055,Analyze Request for Quotation,Role 3,2011-07-18 20:03:27,2011-07-18 20:21:02
+Case055,Amend Request for Quotation,Role 1,2011-07-19 03:29:08,2011-07-19 03:44:27
+Case055,Analyze Request for Quotation,Role 3,2011-07-19 11:51:39,2011-07-19 12:03:50
+Case055,Send Request for Quotation to Supplier,Role 1,2011-07-19 20:06:23,2011-07-19 20:17:52
+Case055,Create Quotation comparison Map,Role 3,2011-07-20 04:09:53,2011-07-20 04:21:18
+Case055,Analyze Quotation Comparison Map,Role 1,2011-07-20 11:48:40,2011-07-20 12:00:50
+Case055,Choose best option,Role 1,2011-07-20 18:59:31,2011-07-20 19:11:39
+Case055,Settle Conditions With Supplier,Role 3,2011-07-21 01:37:13,2011-07-21 01:52:49
+Case055,Create Purchase Order,Role 3,2011-07-21 08:49:58,2011-07-21 09:05:05
+Case055,Confirm Purchase Order,Role 2,2011-07-21 16:25:57,2011-07-21 16:39:42
+Case055,Deliver Goods Services,Role 2,2011-07-22 00:11:24,2011-07-22 00:24:36
+Case055,Release Purchase Order,Role 1,2011-07-22 08:34:05,2011-07-22 08:51:25
+Case055,Approve Purchase Order for payment,Role 3,2011-07-22 17:26:08,2011-07-22 17:42:14
+Case055,Send Invoice,Role 2,2011-07-23 02:16:33,2011-07-23 02:31:19
+Case055,Release Supplier's Invoice,Role 5,2011-07-23 11:18:18,2011-07-23 11:34:05
+Case055,Authorize Supplier's Invoice payment,Role 5,2011-07-23 19:42:07,2011-07-23 19:55:26
+Case055,Pay Invoice,Role 5,2011-07-24 03:27:56,2011-07-24 03:39:43
+Case055,end,end,2011-07-24 11:25:05,2011-07-24 11:37:12
+Case056,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case056,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case056,Create Request for Quotation,Role 4,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case056,Create Request for Quotation,end,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case056,Analyze Request for Quotation,Role 3,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case056,Send Request for Quotation to Supplier,end,2011-06-21 04:08:27,2011-06-21 04:24:54
+Case056,Create Quotation comparison Map,Role 3,2011-06-21 10:58:11,2011-06-21 11:12:30
+Case056,Analyze Quotation Comparison Map,Role 1,2011-06-21 18:14:34,2011-06-21 18:28:43
+Case056,Choose best option,Role 1,2011-06-22 01:47:27,2011-06-22 02:01:54
+Case056,Settle Conditions With Supplier,Role 3,2011-06-22 08:44:24,2011-06-22 09:00:13
+Case056,Create Purchase Order,Role 3,2011-06-22 15:42:02,2011-06-22 15:57:08
+Case056,Confirm Purchase Order,Role 2,2011-06-22 23:15:12,2011-06-22 23:29:30
+Case056,Deliver Goods Services,Role 2,2011-06-23 07:06:58,2011-06-23 07:21:13
+Case056,Release Purchase Order,Role 1,2011-06-23 14:43:24,2011-06-23 14:57:14
+Case056,Approve Purchase Order for payment,Role 3,2011-06-23 22:18:30,2011-06-23 22:31:49
+Case056,Send Invoice,Role 2,2011-06-24 06:23:08,2011-06-24 06:39:30
+Case056,Release Supplier's Invoice,Role 5,2011-06-24 14:56:32,2011-06-24 15:12:57
+Case056,Authorize Supplier's Invoice payment,Role 5,2011-06-24 23:40:27,2011-06-24 23:55:41
+Case056,Pay Invoice,Role 5,2011-06-25 08:52:31,2011-06-25 09:08:21
+Case056,end,end,2011-06-25 17:44:06,2011-06-25 17:58:48
+Case057,start,start,2011-06-25 17:44:06,2011-06-25 17:44:06
+Case057,Create Purchase Requisition,Role 1,2011-06-26 00:50:11,2011-06-26 01:08:33
+Case057,Analyze Purchase Requisition,Role 4,2011-06-26 07:33:50,2011-06-26 07:53:23
+Case057,Create Request for Quotation,Role 4,2011-06-26 14:11:29,2011-06-26 14:31:05
+Case057,Analyze Request for Quotation,Role 3,2011-06-26 20:46:19,2011-06-26 21:06:00
+Case057,Send Request for Quotation to Supplier,end,2011-06-27 03:25:23,2011-06-27 03:45:01
+Case057,Create Quotation comparison Map,Role 3,2011-06-27 08:07:56,2011-06-27 08:33:41
+Case057,Analyze Quotation Comparison Map,Role 1,2011-06-27 12:57:30,2011-06-27 13:23:02
+Case057,Choose best option,Role 1,2011-06-27 18:47:53,2011-06-27 19:10:56
+Case057,Settle Conditions With Supplier,Role 3,2011-06-28 01:48:57,2011-06-28 02:08:00
+Case057,Create Purchase Order,Role 3,2011-06-28 10:04:29,2011-06-28 10:16:59
+Case057,Confirm Purchase Order,Role 2,2011-06-28 18:02:37,2011-06-28 18:14:11
+Case057,Deliver Goods Services,Role 2,2011-06-29 02:11:21,2011-06-29 02:22:32
+Case057,Release Purchase Order,Role 1,2011-06-29 09:50:21,2011-06-29 10:01:50
+Case057,Approve Purchase Order for payment,Role 3,2011-06-29 17:04:17,2011-06-29 17:15:46
+Case057,Send Invoice,Role 2,2011-06-29 23:54:41,2011-06-30 00:09:31
+Case057,Release Supplier's Invoice,Role 5,2011-06-30 07:21:14,2011-06-30 07:35:55
+Case057,Authorize Supplier's Invoice payment,Role 5,2011-06-30 14:47:15,2011-06-30 15:01:56
+Case057,Pay Invoice,Role 5,2011-06-30 22:17:43,2011-06-30 22:31:41
+Case057,end,end,2011-07-01 06:13:48,2011-07-01 06:30:00
+Case058,start,start,2011-07-01 06:13:48,2011-07-01 06:13:48
+Case058,Create Purchase Requisition,Role 1,2011-07-01 13:17:31,2011-07-01 13:37:49
+Case058,Analyze Purchase Requisition,Role 1,2011-07-01 20:53:41,2011-07-01 21:13:21
+Case058,end,Role 4,2011-07-02 04:30:09,2011-07-02 04:49:34
+Case059,start,start,2011-07-02 04:30:09,2011-07-02 04:30:09
+Case059,Create Purchase Requisition,Role 1,2011-07-02 11:25:37,2011-07-02 11:45:07
+Case059,Create Request for Quotation,Role 1,2011-07-02 18:31:41,2011-07-02 18:49:57
+Case059,Analyze Request for Quotation,Role 3,2011-07-03 01:23:25,2011-07-03 01:41:02
+Case059,end,Role 3,2011-07-03 07:42:16,2011-07-03 08:01:27
+Case060,start,start,2011-07-03 07:42:16,2011-07-03 07:42:16
+Case060,Create Purchase Requisition,Role 1,2011-07-03 14:31:22,2011-07-03 14:51:09
+Case060,Create Request for Quotation,Role 4,2011-07-03 21:38:27,2011-07-03 21:57:44
+Case060,Create Request for Quotation,Role 4,2011-07-04 04:40:18,2011-07-04 04:59:28
+Case060,Analyze Request for Quotation,Role 3,2011-07-04 09:21:06,2011-07-04 09:45:58
+Case060,Amend Request for Quotation,Role 1,2011-07-04 13:44:09,2011-07-04 14:08:54
+Case060,Analyze Request for Quotation,Role 3,2011-07-04 18:38:09,2011-07-04 19:01:05
+Case060,Send Request for Quotation to Supplier,end,2011-07-05 00:23:53,2011-07-05 00:44:27
+Case060,Create Quotation comparison Map,Role 3,2011-07-05 08:24:39,2011-07-05 08:41:00
+Case060,Analyze Quotation Comparison Map,Role 1,2011-07-05 16:57:25,2011-07-05 17:11:24
+Case060,Choose best option,Role 1,2011-07-06 01:14:32,2011-07-06 01:25:51
+Case060,Settle Conditions With Supplier,Role 3,2011-07-06 08:54:52,2011-07-06 09:06:13
+Case060,Create Purchase Order,Role 3,2011-07-06 16:11:05,2011-07-06 16:22:22
+Case060,Confirm Purchase Order,Role 2,2011-07-06 23:10:15,2011-07-06 23:24:48
+Case060,Deliver Goods Services,Role 2,2011-07-07 06:39:22,2011-07-07 06:53:49
+Case060,Release Purchase Order,Role 1,2011-07-07 14:02:39,2011-07-07 14:17:06
+Case060,Approve Purchase Order for payment,Role 3,2011-07-07 21:27:16,2011-07-07 21:41:09
+Case060,Send Invoice,Role 2,2011-07-08 05:14:08,2011-07-08 05:30:06
+Case060,Release Supplier's Invoice,Role 5,2011-07-08 13:40:15,2011-07-08 13:56:51
+Case060,Authorize Supplier's Invoice payment,Role 5,2011-07-08 22:25:46,2011-07-08 22:41:18
+Case060,Pay Invoice,Role 5,2011-07-09 07:41:30,2011-07-09 07:57:37
+Case060,end,end,2011-07-09 16:36:45,2011-07-09 16:51:35
+Case061,start,start,2011-07-09 16:36:45,2011-07-09 16:36:45
+Case061,Create Purchase Requisition,Role 1,2011-07-09 23:42:03,2011-07-10 00:00:30
+Case061,Create Request for Quotation,Role 1,2011-07-10 06:52:32,2011-07-10 07:10:01
+Case061,Analyze Request for Quotation,Role 3,2011-07-10 13:26:32,2011-07-10 13:45:21
+Case061,Send Request for Quotation to Supplier,Role 3,2011-07-10 19:55:45,2011-07-10 20:14:42
+Case061,Create Quotation comparison Map,Role 3,2011-07-11 02:25:15,2011-07-11 02:44:12
+Case061,Analyze Quotation Comparison Map,Role 1,2011-07-11 07:24:12,2011-07-11 07:48:46
+Case061,Choose best option,Role 1,2011-07-11 12:32:47,2011-07-11 12:57:12
+Case061,Settle Conditions With Supplier,Role 3,2011-07-11 18:39:06,2011-07-11 19:01:22
+Case061,Create Purchase Order,Role 3,2011-07-12 01:55:28,2011-07-12 02:14:24
+Case061,Confirm Purchase Order,Role 2,2011-07-12 10:31:33,2011-07-12 10:44:00
+Case061,Deliver Goods Services,Role 2,2011-07-12 18:48:50,2011-07-12 19:00:12
+Case061,Release Purchase Order,Role 1,2011-07-13 02:57:24,2011-07-13 03:08:38
+Case061,Approve Purchase Order for payment,Role 3,2011-07-13 10:36:44,2011-07-13 10:48:21
+Case061,Send Invoice,Role 2,2011-07-13 17:49:36,2011-07-13 18:01:13
+Case061,Release Supplier's Invoice,Role 5,2011-07-14 00:33:24,2011-07-14 00:48:26
+Case061,Authorize Supplier's Invoice payment,Role 5,2011-07-14 07:38:33,2011-07-14 07:53:11
+Case061,Pay Invoice,Role 5,2011-07-14 15:06:36,2011-07-14 15:20:18
+Case061,end,end,2011-07-14 22:45:28,2011-07-14 22:58:45
+Case062,start,start,2011-07-14 22:45:28,2011-07-14 22:45:28
+Case062,Create Purchase Requisition,Role 1,2011-07-15 06:28:41,2011-07-15 06:47:02
+Case062,Analyze Purchase Requisition,Role 4,2011-07-15 14:12:21,2011-07-15 14:32:36
+Case062,Create Request for Quotation,Role 4,2011-07-15 21:56:40,2011-07-15 22:16:32
+Case062,Analyze Request for Quotation,Role 3,2011-07-16 05:39:09,2011-07-16 05:58:39
+Case062,Send Request for Quotation to Supplier,Role 1,2011-07-16 13:00:01,2011-07-16 13:19:42
+Case062,Create Quotation comparison Map,Role 3,2011-07-16 20:07:29,2011-07-16 20:25:03
+Case062,Analyze Quotation Comparison Map,Role 1,2011-07-17 03:12:46,2011-07-17 03:27:35
+Case062,Choose best option,Role 1,2011-07-17 10:38:21,2011-07-17 10:51:34
+Case062,Settle Conditions With Supplier,Role 3,2011-07-17 17:51:46,2011-07-17 18:02:11
+Case062,Create Purchase Order,Role 3,2011-07-18 00:34:55,2011-07-18 00:43:21
+Case062,Confirm Purchase Order,Role 2,2011-07-18 07:22:57,2011-07-18 07:33:21
+Case062,Deliver Goods Services,Role 2,2011-07-18 14:13:30,2011-07-18 14:25:28
+Case062,Release Purchase Order,Role 1,2011-07-18 21:16:47,2011-07-18 21:29:53
+Case062,Approve Purchase Order for payment,Role 3,2011-07-19 04:31:21,2011-07-19 04:46:39
+Case062,Send Invoice,Role 2,2011-07-19 12:51:52,2011-07-19 13:04:12
+Case062,Release Supplier's Invoice,Role 5,2011-07-19 21:07:37,2011-07-19 21:19:17
+Case062,Authorize Supplier's Invoice payment,Role 5,2011-07-20 05:13:01,2011-07-20 05:24:35
+Case062,Pay Invoice,Role 5,2011-07-20 12:56:13,2011-07-20 13:08:33
+Case062,end,end,2011-07-20 20:12:18,2011-07-20 20:24:33
+Case063,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case063,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case063,Create Request for Quotation,Role 4,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case063,end,Role 4,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case064,start,start,2011-06-20 17:41:44,2011-06-20 17:41:44
+Case064,Create Purchase Requisition,Role 1,2011-06-20 23:17:35,2011-06-20 23:39:23
+Case064,Analyze Purchase Requisition,Role 4,2011-06-21 05:00:39,2011-06-21 05:21:08
+Case064,Amend Purchase Requisition,Role 4,2011-06-21 12:04:50,2011-06-21 12:22:07
+Case064,Analyze Request for Quotation,end,2011-06-21 19:24:27,2011-06-21 19:40:54
+Case064,Send Request for Quotation to Supplier,Role 3,2011-06-22 02:51:16,2011-06-22 03:07:29
+Case064,Create Quotation comparison Map,Role 3,2011-06-22 09:43:32,2011-06-22 10:01:43
+Case064,Analyze Quotation Comparison Map,Role 1,2011-06-22 16:45:46,2011-06-22 17:04:12
+Case064,Choose best option,Role 1,2011-06-23 00:07:20,2011-06-23 00:24:58
+Case064,Settle Conditions With Supplier,Role 3,2011-06-23 07:32:57,2011-06-23 07:49:04
+Case064,Create Purchase Order,Role 3,2011-06-23 15:16:25,2011-06-23 15:29:20
+Case064,Confirm Purchase Order,Role 2,2011-06-23 22:58:29,2011-06-23 23:10:54
+Case064,Deliver Goods Services,Role 2,2011-06-24 07:20:22,2011-06-24 07:35:58
+Case064,Release Purchase Order,Role 1,2011-06-24 16:13:28,2011-06-24 16:29:18
+Case064,Approve Purchase Order for payment,Role 3,2011-06-25 01:10:18,2011-06-25 01:25:17
+Case064,Send Invoice,Role 2,2011-06-25 10:18:40,2011-06-25 10:35:13
+Case064,Release Supplier's Invoice,Role 5,2011-06-25 19:00:20,2011-06-25 19:14:28
+Case064,Authorize Supplier's Invoice payment,Role 5,2011-06-26 03:11:46,2011-06-26 03:24:33
+Case064,Pay Invoice,Role 5,2011-06-26 11:51:53,2011-06-26 12:05:56
+Case064,end,end,2011-06-26 19:48:34,2011-06-26 20:00:05
+Case065,start,start,2011-06-26 19:48:34,2011-06-26 19:48:34
+Case065,Create Purchase Requisition,Role 1,2011-06-27 02:53:08,2011-06-27 03:11:46
+Case065,Analyze Purchase Requisition,Role 1,2011-06-27 08:07:37,2011-06-27 08:31:08
+Case065,end,Role 3,2011-06-27 12:54:06,2011-06-27 13:16:59
+Case066,start,start,2011-06-27 12:54:06,2011-06-27 12:54:06
+Case066,Create Purchase Requisition,Role 1,2011-06-27 18:19:57,2011-06-27 18:42:21
+Case066,Analyze Purchase Requisition,Role 4,2011-06-27 23:52:23,2011-06-28 00:13:23
+Case066,Create Request for Quotation,end,2011-06-28 05:20:11,2011-06-28 05:39:14
+Case066,Analyze Request for Quotation,Role 3,2011-06-28 12:14:42,2011-06-28 12:30:47
+Case066,Send Request for Quotation to Supplier,Role 1,2011-06-28 19:31:20,2011-06-28 19:46:46
+Case066,Create Quotation comparison Map,Role 3,2011-06-29 03:05:52,2011-06-29 03:21:12
+Case066,Analyze Quotation Comparison Map,Role 1,2011-06-29 10:14:49,2011-06-29 10:31:51
+Case066,Choose best option,Role 1,2011-06-29 17:38:24,2011-06-29 17:55:17
+Case066,Settle Conditions With Supplier,Role 3,2011-06-30 01:17:24,2011-06-30 01:33:08
+Case066,Create Purchase Order,Role 3,2011-06-30 08:58:18,2011-06-30 09:12:26
+Case066,Confirm Purchase Order,Role 2,2011-06-30 16:36:46,2011-06-30 16:49:21
+Case066,Deliver Goods Services,Role 2,2011-07-01 00:19:53,2011-07-01 00:32:17
+Case066,Release Purchase Order,Role 1,2011-07-01 08:45:08,2011-07-01 09:02:21
+Case066,Approve Purchase Order for payment,Role 3,2011-07-01 17:33:12,2011-07-01 17:49:07
+Case066,Send Invoice,Role 2,2011-07-02 02:20:29,2011-07-02 02:35:14
+Case066,Release Supplier's Invoice,Role 5,2011-07-02 11:19:14,2011-07-02 11:35:05
+Case066,Authorize Supplier's Invoice payment,Role 5,2011-07-02 19:41:02,2011-07-02 19:54:24
+Case066,Pay Invoice,Role 5,2011-07-03 03:26:07,2011-07-03 03:37:56
+Case066,end,end,2011-07-03 11:23:26,2011-07-03 11:35:35
+Case067,start,start,2011-07-03 11:23:26,2011-07-03 11:23:26
+Case067,Create Purchase Requisition,Role 1,2011-07-03 18:17:56,2011-07-03 18:37:20
+Case067,Analyze Purchase Requisition,Role 4,2011-07-04 01:30:09,2011-07-04 01:49:02
+Case067,Create Request for Quotation,Role 4,2011-07-04 06:19:03,2011-07-04 06:43:27
+Case067,Analyze Request for Quotation,Role 3,2011-07-04 10:40:56,2011-07-04 11:05:01
+Case067,Amend Request for Quotation,Role 1,2011-07-04 15:16:16,2011-07-04 15:38:17
+Case067,Analyze Request for Quotation,Role 3,2011-07-04 20:26:22,2011-07-04 20:46:04
+Case067,Amend Request for Quotation,Role 1,2011-07-05 02:18:02,2011-07-05 02:35:40
+Case067,Analyze Request for Quotation,Role 3,2011-07-05 10:01:13,2011-07-05 10:15:30
+Case067,Amend Request for Quotation,Role 1,2011-07-05 18:13:36,2011-07-05 18:26:24
+Case067,Analyze Request for Quotation,Role 3,2011-07-06 02:04:40,2011-07-06 02:15:17
+Case067,Amend Request for Quotation,Role 3,2011-07-06 09:13:48,2011-07-06 09:25:02
+Case067,Analyze Request for Quotation,Role 3,2011-07-06 15:47:58,2011-07-06 16:03:00
+Case067,Amend Request for Quotation,Role 3,2011-07-06 23:04:35,2011-07-06 23:18:56
+Case067,Analyze Request for Quotation,Role 3,2011-07-07 06:44:10,2011-07-07 06:58:37
+Case067,Amend Request for Quotation,Role 3,2011-07-07 14:14:37,2011-07-07 14:28:53
+Case067,Analyze Request for Quotation,Role 3,2011-07-07 21:46:14,2011-07-07 21:59:56
+Case067,Amend Request for Quotation,Role 3,2011-07-08 05:43:36,2011-07-08 05:59:49
+Case067,Analyze Request for Quotation,Role 1,2011-07-08 14:15:40,2011-07-08 14:32:10
+Case067,Send Request for Quotation to Supplier,Role 1,2011-07-08 23:01:59,2011-07-08 23:17:20
+Case067,Create Quotation comparison Map,Role 3,2011-07-09 08:16:58,2011-07-09 08:32:55
+Case067,Analyze Quotation Comparison Map,Role 1,2011-07-09 17:10:42,2011-07-09 17:25:27
+Case067,Choose best option,Role 1,2011-07-10 01:17:17,2011-07-10 01:30:05
+Case067,Settle Conditions With Supplier,Role 3,2011-07-10 09:17:51,2011-07-10 09:30:09
+Case067,Create Purchase Order,Role 3,2011-07-10 17:24:03,2011-07-10 17:35:59
+Case067,Confirm Purchase Order,Role 2,2011-07-11 00:39:32,2011-07-11 00:49:10
+Case067,Deliver Goods Services,Role 2,2011-07-11 07:23:26,2011-07-11 07:33:32
+Case067,Release Purchase Order,Role 1,2011-07-11 14:11:49,2011-07-11 14:22:44
+Case067,Approve Purchase Order for payment,Role 3,2011-07-11 21:13:53,2011-07-11 21:25:29
+Case067,Send Invoice,Role 2,2011-07-12 04:24:16,2011-07-12 04:36:11
+Case067,Release Supplier's Invoice,Role 5,2011-07-12 12:32:32,2011-07-12 12:44:57
+Case067,Authorize Supplier's Invoice payment,Role 5,2011-07-12 20:43:45,2011-07-12 20:55:27
+Case067,Pay Invoice,Role 5,2011-07-13 04:44:42,2011-07-13 04:56:15
+Case067,end,end,2011-07-13 12:26:56,2011-07-13 12:39:22
+Case068,start,start,2011-07-13 12:26:56,2011-07-13 12:26:56
+Case068,Create Purchase Requisition,Role 1,2011-07-13 19:33:20,2011-07-13 19:53:18
+Case068,Analyze Purchase Requisition,Role 1,2011-07-14 03:01:35,2011-07-14 03:22:24
+Case068,Analyze Request for Quotation,Role 3,2011-07-14 10:16:13,2011-07-14 10:38:20
+Case068,Send Request for Quotation to Supplier,Role 3,2011-07-14 17:34:08,2011-07-14 17:55:15
+Case068,Create Quotation comparison Map,Role 3,2011-07-15 00:51:39,2011-07-15 01:11:32
+Case068,Analyze Quotation Comparison Map,Role 1,2011-07-15 08:06:54,2011-07-15 08:27:47
+Case068,Choose best option,Role 1,2011-07-15 16:02:39,2011-07-15 16:21:55
+Case068,Settle Conditions With Supplier,Role 3,2011-07-16 00:40:40,2011-07-16 00:58:34
+Case068,Create Purchase Order,Role 3,2011-07-16 09:34:14,2011-07-16 09:51:07
+Case068,Confirm Purchase Order,Role 2,2011-07-16 17:56:37,2011-07-16 18:09:43
+Case068,Deliver Goods Services,Role 2,2011-07-17 01:38:54,2011-07-17 01:50:21
+Case068,Release Purchase Order,Role 1,2011-07-17 09:35:47,2011-07-17 09:47:35
+Case068,Approve Purchase Order for payment,Role 3,2011-07-17 16:42:17,2011-07-17 16:51:44
+Case068,Send Invoice,Role 2,2011-07-17 23:18:11,2011-07-17 23:26:37
+Case068,Release Supplier's Invoice,Role 5,2011-07-18 06:06:55,2011-07-18 06:16:08
+Case068,Authorize Supplier's Invoice payment,Role 5,2011-07-18 12:49:36,2011-07-18 13:01:52
+Case068,Pay Invoice,Role 5,2011-07-18 19:40:34,2011-07-18 19:55:50
+Case068,end,end,2011-07-19 02:25:33,2011-07-19 02:43:26
+Case069,start,start,2011-07-19 02:25:33,2011-07-19 02:25:33
+Case069,Create Purchase Requisition,Role 1,2011-07-19 09:57:31,2011-07-19 10:17:14
+Case069,Create Request for Quotation,Role 4,2011-07-19 17:49:16,2011-07-19 18:08:39
+Case069,Create Request for Quotation,Role 4,2011-07-20 01:28:59,2011-07-20 01:48:04
+Case069,Analyze Request for Quotation,Role 3,2011-07-20 08:08:15,2011-07-20 08:30:08
+Case069,Send Request for Quotation to Supplier,Role 1,2011-07-20 14:35:06,2011-07-20 14:57:59
+Case069,Create Quotation comparison Map,Role 3,2011-07-20 21:07:33,2011-07-20 21:30:48
+Case069,Analyze Quotation Comparison Map,Role 1,2011-07-21 04:04:00,2011-07-21 04:27:19
+Case069,Choose best option,Role 1,2011-07-21 11:18:08,2011-07-21 11:40:50
+Case069,Settle Conditions With Supplier,Role 3,2011-07-21 19:06:54,2011-07-21 19:26:23
+Case069,Create Purchase Order,Role 3,2011-07-22 03:09:43,2011-07-22 03:25:47
+Case069,Confirm Purchase Order,Role 2,2011-07-22 11:33:42,2011-07-22 11:49:41
+Case069,Deliver Goods Services,Role 2,2011-07-22 20:09:31,2011-07-22 20:24:25
+Case069,Release Purchase Order,Role 1,2011-07-23 05:14:29,2011-07-23 05:30:07
+Case069,Settle Dispute With Supplier,Role 3,2011-07-23 14:01:06,2011-07-23 14:15:29
+Case069,Release Purchase Order,Role 1,2011-07-23 22:05:07,2011-07-23 22:17:38
+Case069,Approve Purchase Order for payment,Role 3,2011-07-24 05:36:23,2011-07-24 05:47:42
+Case069,Send Invoice,Role 2,2011-07-24 13:24:57,2011-07-24 13:36:30
+Case069,Release Supplier's Invoice,Role 5,2011-07-24 20:25:53,2011-07-24 20:35:14
+Case069,Authorize Supplier's Invoice payment,Role 5,2011-07-25 03:01:06,2011-07-25 03:09:32
+Case069,Pay Invoice,Role 5,2011-07-25 09:44:18,2011-07-25 09:54:55
+Case069,end,end,2011-07-25 16:34:34,2011-07-25 16:46:47
+Case070,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case070,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case070,Analyze Purchase Requisition,Role 4,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case070,Create Request for Quotation,Role 4,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case070,Analyze Request for Quotation,Role 3,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case070,Amend Request for Quotation,Role 1,2011-06-21 04:08:27,2011-06-21 04:24:54
+Case070,Analyze Request for Quotation,Role 3,2011-06-21 10:58:11,2011-06-21 11:12:30
+Case070,Amend Request for Quotation,Role 3,2011-06-21 18:14:34,2011-06-21 18:28:43
+Case070,Analyze Request for Quotation,Role 3,2011-06-22 01:47:27,2011-06-22 02:01:54
+Case070,Send Request for Quotation to Supplier,Role 3,2011-06-22 08:44:24,2011-06-22 09:00:13
+Case070,Create Quotation comparison Map,Role 3,2011-06-22 15:42:02,2011-06-22 15:57:08
+Case070,Analyze Quotation Comparison Map,Role 1,2011-06-22 23:15:12,2011-06-22 23:29:30
+Case070,Choose best option,Role 1,2011-06-23 07:06:58,2011-06-23 07:21:13
+Case070,Settle Conditions With Supplier,Role 3,2011-06-23 14:43:24,2011-06-23 14:57:14
+Case070,Create Purchase Order,Role 3,2011-06-23 22:18:30,2011-06-23 22:31:49
+Case070,Confirm Purchase Order,Role 2,2011-06-24 06:23:08,2011-06-24 06:39:30
+Case070,Deliver Goods Services,Role 2,2011-06-24 14:56:32,2011-06-24 15:12:57
+Case070,Release Purchase Order,Role 1,2011-06-24 23:40:27,2011-06-24 23:55:41
+Case070,Approve Purchase Order for payment,Role 3,2011-06-25 08:52:31,2011-06-25 09:08:21
+Case070,Send Invoice,Role 2,2011-06-25 17:44:06,2011-06-25 17:58:48
+Case070,Release Supplier's Invoice,Role 5,2011-06-26 01:50:03,2011-06-26 02:02:52
+Case070,Authorize Supplier's Invoice payment,Role 5,2011-06-26 09:50:17,2011-06-26 10:02:35
+Case070,Pay Invoice,Role 5,2011-06-26 17:56:00,2011-06-26 18:07:53
+Case070,end,end,2011-06-27 01:11:26,2011-06-27 01:21:03
+Case071,start,start,2011-06-27 01:11:26,2011-06-27 01:11:26
+Case071,Create Purchase Requisition,Role 1,2011-06-27 06:10:18,2011-06-27 06:34:21
+Case071,Analyze Purchase Requisition,Role 4,2011-06-27 11:10:24,2011-06-27 11:32:59
+Case071,Create Request for Quotation,Role 4,2011-06-27 16:08:34,2011-06-27 16:28:40
+Case071,Analyze Request for Quotation,Role 3,2011-06-27 21:14:08,2011-06-27 21:32:05
+Case071,Amend Request for Quotation,Role 3,2011-06-28 02:29:21,2011-06-28 02:45:51
+Case071,Analyze Request for Quotation,Role 3,2011-06-28 09:18:07,2011-06-28 09:32:27
+Case071,Send Request for Quotation to Supplier,Role 1,2011-06-28 16:32:38,2011-06-28 16:46:51
+Case071,Create Quotation comparison Map,Role 3,2011-06-29 00:01:16,2011-06-29 00:15:52
+Case071,Analyze Quotation Comparison Map,Role 1,2011-06-29 06:46:27,2011-06-29 07:02:33
+Case071,Choose best option,Role 1,2011-06-29 13:25:00,2011-06-29 13:40:22
+Case071,Settle Conditions With Supplier,Role 3,2011-06-29 20:43:40,2011-06-29 20:58:02
+Case071,Create Purchase Order,Role 3,2011-06-30 04:26:19,2011-06-30 04:40:40
+Case071,Confirm Purchase Order,Role 2,2011-06-30 11:57:05,2011-06-30 12:11:06
+Case071,Deliver Goods Services,Role 2,2011-06-30 19:27:23,2011-06-30 19:40:55
+Case071,Release Purchase Order,Role 1,2011-07-01 03:22:39,2011-07-01 03:38:59
+Case071,Approve Purchase Order for payment,Role 3,2011-07-01 11:48:53,2011-07-01 12:05:37
+Case071,Send Invoice,Role 2,2011-07-01 20:29:35,2011-07-01 20:45:10
+Case071,Release Supplier's Invoice,Role 5,2011-07-02 05:41:27,2011-07-02 05:57:53
+Case071,Authorize Supplier's Invoice payment,Role 5,2011-07-02 14:37:15,2011-07-02 14:52:17
+Case071,Pay Invoice,Role 5,2011-07-02 22:48:11,2011-07-02 23:01:07
+Case071,end,end,2011-07-03 06:24:50,2011-07-03 06:36:26
+Case072,start,start,2011-07-03 06:24:50,2011-07-03 06:24:50
+Case072,Create Purchase Requisition,Role 1,2011-07-03 13:11:57,2011-07-03 13:31:53
+Case072,Analyze Purchase Requisition,Role 1,2011-07-03 20:17:15,2011-07-03 20:36:41
+Case072,Analyze Request for Quotation,Role 3,2011-07-04 03:17:29,2011-07-04 03:36:47
+Case072,end,Role 3,2011-07-04 07:52:54,2011-07-04 08:18:02
+Case073,start,start,2011-07-04 07:52:54,2011-07-04 07:52:54
+Case073,Create Purchase Requisition,Role 1,2011-07-04 13:07:38,2011-07-04 13:30:42
+Case073,Create Request for Quotation,Role 1,2011-07-04 18:27:13,2011-07-04 18:48:50
+Case073,Analyze Request for Quotation,Role 3,2011-07-04 23:44:20,2011-07-05 00:03:43
+Case073,Amend Request for Quotation,end,2011-07-05 05:04:33,2011-07-05 05:22:10
+Case073,Analyze Request for Quotation,Role 3,2011-07-05 11:56:07,2011-07-05 12:11:10
+Case073,Send Request for Quotation to Supplier,Role 1,2011-07-05 19:15:34,2011-07-05 19:30:15
+Case073,Create Quotation comparison Map,Role 3,2011-07-06 02:55:58,2011-07-06 03:10:39
+Case073,Analyze Quotation Comparison Map,Role 1,2011-07-06 10:11:51,2011-07-06 10:27:57
+Case073,Choose best option,Role 1,2011-07-06 17:40:19,2011-07-06 17:56:04
+Case073,Settle Conditions With Supplier,Role 3,2011-07-07 01:24:18,2011-07-07 01:38:53
+Case073,Create Purchase Order,Role 3,2011-07-07 08:59:58,2011-07-07 09:13:48
+Case073,Confirm Purchase Order,Role 2,2011-07-07 16:38:29,2011-07-07 16:51:07
+Case073,Deliver Goods Services,Role 2,2011-07-08 00:21:54,2011-07-08 00:34:23
+Case073,Release Purchase Order,Role 1,2011-07-08 08:46:23,2011-07-08 09:03:41
+Case073,Approve Purchase Order for payment,Role 3,2011-07-08 17:34:26,2011-07-08 17:50:26
+Case073,Send Invoice,Role 2,2011-07-09 02:23:11,2011-07-09 02:38:02
+Case073,Release Supplier's Invoice,Role 5,2011-07-09 11:22:50,2011-07-09 11:38:45
+Case073,Authorize Supplier's Invoice payment,Role 5,2011-07-09 19:45:22,2011-07-09 19:58:46
+Case073,Pay Invoice,Role 5,2011-07-10 03:30:56,2011-07-10 03:42:46
+Case073,end,end,2011-07-10 11:28:43,2011-07-10 11:40:53
+Case074,start,start,2011-07-10 11:28:43,2011-07-10 11:28:43
+Case074,Create Purchase Requisition,Role 1,2011-07-10 18:23:20,2011-07-10 18:42:43
+Case074,Create Request for Quotation,Role 1,2011-07-11 01:35:40,2011-07-11 01:54:33
+Case074,Analyze Request for Quotation,Role 3,2011-07-11 06:24:53,2011-07-11 06:49:16
+Case074,Amend Request for Quotation,Role 3,2011-07-11 10:47:08,2011-07-11 11:11:12
+Case074,Analyze Request for Quotation,Role 3,2011-07-11 15:22:52,2011-07-11 15:44:52
+Case074,Send Request for Quotation to Supplier,Role 1,2011-07-11 20:33:24,2011-07-11 20:53:05
+Case074,Create Quotation comparison Map,Role 3,2011-07-12 02:25:28,2011-07-12 02:43:06
+Case074,Analyze Quotation Comparison Map,Role 1,2011-07-12 10:08:48,2011-07-12 10:23:05
+Case074,Choose best option,Role 1,2011-07-12 18:21:19,2011-07-12 18:34:07
+Case074,Settle Conditions With Supplier,Role 3,2011-07-13 02:12:24,2011-07-13 02:23:01
+Case074,Create Purchase Order,Role 3,2011-07-13 09:21:52,2011-07-13 09:33:05
+Case074,Confirm Purchase Order,Role 2,2011-07-13 15:57:05,2011-07-13 16:12:06
+Case074,Deliver Goods Services,Role 2,2011-07-13 23:14:44,2011-07-13 23:29:04
+Case074,Release Purchase Order,Role 1,2011-07-14 06:55:03,2011-07-14 07:09:30
+Case074,Approve Purchase Order for payment,Role 3,2011-07-14 14:25:57,2011-07-14 14:40:12
+Case074,Send Invoice,Role 2,2011-07-14 21:57:59,2011-07-14 22:11:40
+Case074,Release Supplier's Invoice,Role 5,2011-07-15 05:56:04,2011-07-15 06:12:17
+Case074,Authorize Supplier's Invoice payment,Role 5,2011-07-15 14:28:40,2011-07-15 14:45:09
+Case074,Pay Invoice,Role 5,2011-07-15 23:14:58,2011-07-15 23:30:17
+Case074,end,Role 5,2011-07-16 08:29:55,2011-07-16 08:45:50
+Case075,start,start,2011-07-16 08:29:55,2011-07-16 08:29:55
+Case075,Create Purchase Requisition,Role 1,2011-07-16 15:28:55,2011-07-16 15:48:03
+Case075,Analyze Purchase Requisition,Role 4,2011-07-16 22:37:00,2011-07-16 22:54:58
+Case075,Create Request for Quotation,end,2011-07-17 05:27:39,2011-07-17 05:45:04
+Case075,Analyze Request for Quotation,Role 3,2011-07-17 11:47:49,2011-07-17 12:06:40
+Case075,end,Role 3,2011-07-17 18:06:33,2011-07-17 18:25:31
+Case076,start,start,2011-07-17 18:06:33,2011-07-17 18:06:33
+Case076,Create Purchase Requisition,Role 1,2011-07-18 01:09:13,2011-07-18 01:28:00
+Case076,Analyze Purchase Requisition,Role 1,2011-07-18 06:18:29,2011-07-18 06:42:16
+Case076,Analyze Request for Quotation,Role 3,2011-07-18 10:59:32,2011-07-18 11:22:40
+Case076,end,end,2011-07-18 15:42:49,2011-07-18 16:03:54
+Case077,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case077,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case077,Create Request for Quotation,Role 4,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case077,Create Request for Quotation,Role 4,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case077,Analyze Request for Quotation,Role 3,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case077,Amend Request for Quotation,Role 1,2011-06-21 04:08:27,2011-06-21 04:24:54
+Case077,Analyze Request for Quotation,Role 3,2011-06-21 10:58:11,2011-06-21 11:12:30
+Case077,Amend Request for Quotation,Role 1,2011-06-21 18:14:34,2011-06-21 18:28:43
+Case077,Analyze Request for Quotation,Role 3,2011-06-22 01:47:27,2011-06-22 02:01:54
+Case077,Send Request for Quotation to Supplier,end,2011-06-22 08:44:24,2011-06-22 09:00:13
+Case077,Create Quotation comparison Map,Role 3,2011-06-22 15:42:02,2011-06-22 15:57:08
+Case077,Analyze Quotation Comparison Map,Role 1,2011-06-22 23:15:12,2011-06-22 23:29:30
+Case077,Choose best option,Role 1,2011-06-23 07:06:58,2011-06-23 07:21:13
+Case077,Settle Conditions With Supplier,Role 3,2011-06-23 14:43:24,2011-06-23 14:57:14
+Case077,Create Purchase Order,Role 3,2011-06-23 22:18:30,2011-06-23 22:31:49
+Case077,Confirm Purchase Order,Role 2,2011-06-24 06:23:08,2011-06-24 06:39:30
+Case077,Deliver Goods Services,Role 2,2011-06-24 14:56:32,2011-06-24 15:12:57
+Case077,Release Purchase Order,Role 1,2011-06-24 23:40:27,2011-06-24 23:55:41
+Case077,Settle Dispute With Supplier,Role 3,2011-06-25 08:52:31,2011-06-25 09:08:21
+Case077,Release Purchase Order,Role 2,2011-06-25 17:44:06,2011-06-25 17:58:48
+Case077,Approve Purchase Order for payment,Role 3,2011-06-26 01:50:03,2011-06-26 02:02:52
+Case077,Send Invoice,Role 2,2011-06-26 09:50:17,2011-06-26 10:02:35
+Case077,Release Supplier's Invoice,Role 5,2011-06-26 17:56:00,2011-06-26 18:07:53
+Case077,Authorize Supplier's Invoice payment,Role 5,2011-06-27 01:11:26,2011-06-27 01:21:03
+Case077,Pay Invoice,Role 5,2011-06-27 07:56:01,2011-06-27 08:06:08
+Case077,end,end,2011-06-27 14:46:16,2011-06-27 14:57:11
+Case078,start,start,2011-06-27 14:46:16,2011-06-27 14:46:16
+Case078,Create Purchase Requisition,Role 1,2011-06-27 20:16:03,2011-06-27 20:38:13
+Case078,Analyze Purchase Requisition,Role 1,2011-06-28 01:52:51,2011-06-28 02:13:39
+Case078,Analyze Request for Quotation,Role 3,2011-06-28 08:54:25,2011-06-28 09:11:50
+Case078,end,Role 3,2011-06-28 16:12:56,2011-06-28 16:29:25
+Case079,start,start,2011-06-28 16:12:56,2011-06-28 16:12:56
+Case079,Create Purchase Requisition,Role 1,2011-06-28 23:53:49,2011-06-29 00:12:20
+Case079,Create Request for Quotation,Role 4,2011-06-29 07:50:59,2011-06-29 08:09:20
+Case079,Create Request for Quotation,Role 1,2011-06-29 14:52:57,2011-06-29 15:14:06
+Case079,Analyze Request for Quotation,Role 3,2011-06-29 21:36:20,2011-06-29 21:58:31
+Case079,end,Role 3,2011-06-30 04:12:49,2011-06-30 04:35:32
+Case080,start,start,2011-06-30 04:12:49,2011-06-30 04:12:49
+Case080,Create Purchase Requisition,Role 1,2011-06-30 11:39:07,2011-06-30 11:59:10
+Case080,Analyze Purchase Requisition,Role 4,2011-06-30 19:46:40,2011-06-30 20:06:26
+Case080,end,end,2011-07-01 03:59:35,2011-07-01 04:19:10
+Case081,start,start,2011-07-01 03:59:35,2011-07-01 03:59:35
+Case081,Create Purchase Requisition,Role 1,2011-07-01 11:00:31,2011-07-01 11:21:04
+Case081,Create Request for Quotation,Role 1,2011-07-01 18:34:17,2011-07-01 18:54:13
+Case081,Analyze Request for Quotation,Role 3,2011-07-02 02:09:19,2011-07-02 02:28:57
+Case081,end,Role 1,2011-07-02 09:16:35,2011-07-02 09:37:01
+Case082,start,start,2011-07-02 09:16:35,2011-07-02 09:16:35
+Case082,Create Purchase Requisition,Role 1,2011-07-02 16:16:15,2011-07-02 16:35:19
+Case082,Analyze Purchase Requisition,Role 4,2011-07-02 23:24:34,2011-07-02 23:42:29
+Case082,Create Request for Quotation,end,2011-07-03 06:14:59,2011-07-03 06:32:22
+Case082,Analyze Request for Quotation,Role 3,2011-07-03 12:35:17,2011-07-03 12:54:06
+Case082,Send Request for Quotation to Supplier,Role 3,2011-07-03 18:54:11,2011-07-03 19:13:07
+Case082,Create Quotation comparison Map,Role 3,2011-07-04 01:19:57,2011-07-04 01:38:56
+Case082,Analyze Quotation Comparison Map,Role 1,2011-07-04 06:32:28,2011-07-04 06:57:30
+Case082,Choose best option,Role 1,2011-07-04 12:10:02,2011-07-04 12:35:13
+Case082,Settle Conditions With Supplier,Role 3,2011-07-04 19:01:19,2011-07-04 19:23:23
+Case082,Create Purchase Order,Role 3,2011-07-05 02:41:01,2011-07-05 02:56:43
+Case082,Confirm Purchase Order,Role 2,2011-07-05 11:08:48,2011-07-05 11:20:58
+Case082,Deliver Goods Services,Role 2,2011-07-05 19:25:15,2011-07-05 19:36:35
+Case082,Release Purchase Order,Role 1,2011-07-06 03:32:06,2011-07-06 03:43:22
+Case082,Approve Purchase Order for payment,Role 3,2011-07-06 11:10:21,2011-07-06 11:22:06
+Case082,Send Invoice,Role 2,2011-07-06 18:20:52,2011-07-06 18:32:38
+Case082,Release Supplier's Invoice,Role 5,2011-07-07 00:57:36,2011-07-07 01:12:50
+Case082,Authorize Supplier's Invoice payment,Role 5,2011-07-07 08:01:05,2011-07-07 08:15:52
+Case082,Pay Invoice,Role 5,2011-07-07 15:30:42,2011-07-07 15:44:29
+Case082,end,end,2011-07-07 23:12:39,2011-07-07 23:25:56
+Case083,start,start,2011-07-07 23:12:39,2011-07-07 23:12:39
+Case083,Create Purchase Requisition,Role 1,2011-07-08 06:56:11,2011-07-08 07:14:30
+Case083,Create Request for Quotation,Role 4,2011-07-08 14:40:21,2011-07-08 15:00:33
+Case083,Create Request for Quotation,Role 4,2011-07-08 22:25:03,2011-07-08 22:44:52
+Case083,Analyze Request for Quotation,Role 3,2011-07-09 06:07:40,2011-07-09 06:27:07
+Case083,Amend Request for Quotation,Role 1,2011-07-09 13:28:19,2011-07-09 13:47:57
+Case083,Analyze Request for Quotation,Role 3,2011-07-09 20:35:12,2011-07-09 20:52:44
+Case083,Send Request for Quotation to Supplier,end,2011-07-10 03:39:44,2011-07-10 03:54:32
+Case083,Create Quotation comparison Map,Role 3,2011-07-10 11:04:59,2011-07-10 11:18:10
+Case083,Analyze Quotation Comparison Map,Role 1,2011-07-10 18:18:12,2011-07-10 18:28:36
+Case083,Choose best option,Role 1,2011-07-11 01:01:35,2011-07-11 01:10:01
+Case083,Settle Conditions With Supplier,Role 3,2011-07-11 07:50:36,2011-07-11 08:00:59
+Case083,Create Purchase Order,Role 3,2011-07-11 14:42:40,2011-07-11 14:54:39
+Case083,Confirm Purchase Order,Role 2,2011-07-11 21:47:20,2011-07-11 22:00:24
+Case083,Deliver Goods Services,Role 2,2011-07-12 05:04:51,2011-07-12 05:20:12
+Case083,Release Purchase Order,Role 1,2011-07-12 13:26:29,2011-07-12 13:38:50
+Case083,Approve Purchase Order for payment,Role 3,2011-07-12 21:42:34,2011-07-12 21:54:13
+Case083,Send Invoice,Role 2,2011-07-13 05:49:02,2011-07-13 06:00:37
+Case083,Release Supplier's Invoice,Role 5,2011-07-13 13:32:56,2011-07-13 13:45:12
+Case083,Authorize Supplier's Invoice payment,Role 5,2011-07-13 20:50:27,2011-07-13 21:02:39
+Case083,Pay Invoice,Role 5,2011-07-14 03:45:30,2011-07-14 04:01:15
+Case083,end,end,2011-07-14 11:11:56,2011-07-14 11:27:13
+Case084,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case084,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case084,Analyze Purchase Requisition,Role 1,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case084,Analyze Request for Quotation,Role 3,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case084,Send Request for Quotation to Supplier,Role 3,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case084,Create Quotation comparison Map,Role 3,2011-06-21 04:08:27,2011-06-21 04:24:54
+Case084,Analyze Quotation Comparison Map,Role 1,2011-06-21 10:58:11,2011-06-21 11:12:30
+Case084,Choose best option,Role 1,2011-06-21 18:14:34,2011-06-21 18:28:43
+Case084,Settle Conditions With Supplier,Role 3,2011-06-22 01:47:27,2011-06-22 02:01:54
+Case084,Create Purchase Order,Role 3,2011-06-22 08:44:24,2011-06-22 09:00:13
+Case084,Confirm Purchase Order,Role 2,2011-06-22 15:42:02,2011-06-22 15:57:08
+Case084,Deliver Goods Services,Role 2,2011-06-22 23:15:12,2011-06-22 23:29:30
+Case084,Release Purchase Order,Role 1,2011-06-23 07:06:58,2011-06-23 07:21:13
+Case084,Approve Purchase Order for payment,Role 3,2011-06-23 14:43:24,2011-06-23 14:57:14
+Case084,Send Invoice,Role 2,2011-06-23 22:18:30,2011-06-23 22:31:49
+Case084,Release Supplier's Invoice,Role 5,2011-06-24 06:23:08,2011-06-24 06:39:30
+Case084,Authorize Supplier's Invoice payment,Role 5,2011-06-24 14:56:32,2011-06-24 15:12:57
+Case084,Pay Invoice,Role 5,2011-06-24 23:40:27,2011-06-24 23:55:41
+Case084,end,end,2011-06-25 08:52:31,2011-06-25 09:08:21
+Case085,start,start,2011-06-25 08:52:31,2011-06-25 08:52:31
+Case085,Create Purchase Requisition,Role 1,2011-06-25 15:51:50,2011-06-25 16:10:56
+Case085,Analyze Purchase Requisition,Role 4,2011-06-25 23:00:02,2011-06-25 23:17:58
+Case085,Create Request for Quotation,Role 4,2011-06-26 05:50:33,2011-06-26 06:07:57
+Case085,Analyze Request for Quotation,Role 3,2011-06-26 12:10:48,2011-06-26 12:29:38
+Case085,Send Request for Quotation to Supplier,end,2011-06-26 18:29:37,2011-06-26 18:48:34
+Case085,Create Quotation comparison Map,Role 3,2011-06-27 00:55:25,2011-06-27 01:14:25
+Case085,Analyze Quotation Comparison Map,Role 1,2011-06-27 06:06:32,2011-06-27 06:31:38
+Case085,Choose best option,Role 1,2011-06-27 11:41:50,2011-06-27 12:07:05
+Case085,Settle Conditions With Supplier,Role 3,2011-06-27 18:30:30,2011-06-27 18:52:36
+Case085,Create Purchase Order,Role 3,2011-06-28 02:08:06,2011-06-28 02:23:47
+Case085,Confirm Purchase Order,Role 2,2011-06-28 10:34:37,2011-06-28 10:46:46
+Case085,Deliver Goods Services,Role 2,2011-06-28 18:50:34,2011-06-28 19:01:54
+Case085,Release Purchase Order,Role 1,2011-06-29 02:56:39,2011-06-29 03:07:55
+Case085,Approve Purchase Order for payment,Role 3,2011-06-29 10:34:32,2011-06-29 10:46:21
+Case085,Send Invoice,Role 2,2011-06-29 17:43:56,2011-06-29 17:55:45
+Case085,Release Supplier's Invoice,Role 5,2011-06-30 00:15:26,2011-06-30 00:30:45
+Case085,Authorize Supplier's Invoice payment,Role 5,2011-06-30 07:15:06,2011-06-30 07:29:56
+Case085,Pay Invoice,Role 5,2011-06-30 14:42:59,2011-06-30 14:56:52
+Case085,end,end,2011-06-30 22:23:06,2011-06-30 22:36:27
+Case086,start,start,2011-06-30 22:23:06,2011-06-30 22:23:06
+Case086,Create Purchase Requisition,Role 1,2011-07-01 06:06:04,2011-07-01 06:24:27
+Case086,Analyze Purchase Requisition,Role 4,2011-07-01 13:49:20,2011-07-01 14:09:37
+Case086,Create Request for Quotation,Role 4,2011-07-01 21:33:18,2011-07-01 21:53:12
+Case086,Analyze Request for Quotation,Role 3,2011-07-02 05:15:41,2011-07-02 05:35:13
+Case086,Send Request for Quotation to Supplier,Role 1,2011-07-02 12:36:43,2011-07-02 12:56:26
+Case086,Create Quotation comparison Map,Role 3,2011-07-02 19:44:39,2011-07-02 20:02:15
+Case086,Analyze Quotation Comparison Map,Role 1,2011-07-03 02:50:36,2011-07-03 03:05:27
+Case086,Choose best option,Role 1,2011-07-03 10:16:29,2011-07-03 10:29:44
+Case086,Settle Conditions With Supplier,Role 3,2011-07-03 17:30:06,2011-07-03 17:40:32
+Case086,Create Purchase Order,Role 3,2011-07-04 00:13:06,2011-07-04 00:21:31
+Case086,Confirm Purchase Order,Role 2,2011-07-04 07:00:19,2011-07-04 07:10:43
+Case086,Deliver Goods Services,Role 2,2011-07-04 13:49:34,2011-07-04 14:01:32
+Case086,Release Purchase Order,Role 1,2011-07-04 20:51:44,2011-07-04 21:04:51
+Case086,Approve Purchase Order for payment,Role 3,2011-07-05 04:03:47,2011-07-05 04:19:03
+Case086,Send Invoice,Role 2,2011-07-05 12:23:13,2011-07-05 12:35:32
+Case086,Release Supplier's Invoice,Role 5,2011-07-05 20:38:41,2011-07-05 20:50:21
+Case086,Authorize Supplier's Invoice payment,Role 5,2011-07-06 04:43:14,2011-07-06 04:54:48
+Case086,Pay Invoice,Role 5,2011-07-06 12:25:52,2011-07-06 12:38:15
+Case086,end,end,2011-07-06 19:40:46,2011-07-06 19:53:03
+Case087,start,start,2011-07-06 19:40:46,2011-07-06 19:40:46
+Case087,Create Purchase Requisition,Role 1,2011-07-07 02:55:24,2011-07-07 03:14:44
+Case087,Analyze Purchase Requisition,Role 4,2011-07-07 10:29:05,2011-07-07 10:50:05
+Case087,Create Request for Quotation,Role 4,2011-07-07 18:12:47,2011-07-07 18:33:20
+Case087,Analyze Request for Quotation,Role 3,2011-07-08 01:53:48,2011-07-08 02:13:46
+Case087,end,Role 3,2011-07-08 09:18:58,2011-07-08 09:40:23
+Case088,start,start,2011-07-08 09:18:58,2011-07-08 09:18:58
+Case088,Create Purchase Requisition,Role 1,2011-07-08 16:26:21,2011-07-08 16:46:20
+Case088,Analyze Purchase Requisition,Role 1,2011-07-09 00:05:39,2011-07-09 00:25:00
+Case088,Analyze Request for Quotation,Role 3,2011-07-09 07:23:23,2011-07-09 07:43:29
+Case088,Send Request for Quotation to Supplier,Role 1,2011-07-09 14:20:52,2011-07-09 14:39:50
+Case088,Create Quotation comparison Map,Role 3,2011-07-09 21:10:08,2011-07-09 21:27:17
+Case088,Analyze Quotation Comparison Map,Role 1,2011-07-10 03:55:01,2011-07-10 04:10:12
+Case088,Choose best option,Role 1,2011-07-10 10:44:01,2011-07-10 10:58:25
+Case088,Settle Conditions With Supplier,Role 3,2011-07-10 17:39:10,2011-07-10 17:51:41
+Case088,Create Purchase Order,Role 3,2011-07-11 00:42:17,2011-07-11 00:53:38
+Case088,Confirm Purchase Order,Role 2,2011-07-11 07:24:40,2011-07-11 07:36:40
+Case088,Deliver Goods Services,Role 2,2011-07-11 14:05:27,2011-07-11 14:20:12
+Case088,Release Purchase Order,Role 1,2011-07-11 20:40:40,2011-07-11 20:58:19
+Case088,Settle Dispute With Supplier,Role 3,2011-07-12 04:06:09,2011-07-12 04:21:33
+Case088,Release Purchase Order,Role 1,2011-07-12 12:28:56,2011-07-12 12:41:13
+Case088,Approve Purchase Order for payment,Role 3,2011-07-12 20:44:53,2011-07-12 20:56:28
+Case088,Send Invoice,Role 2,2011-07-13 04:50:16,2011-07-13 05:01:46
+Case088,Release Supplier's Invoice,Role 5,2011-07-13 12:31:51,2011-07-13 12:44:04
+Case088,Authorize Supplier's Invoice payment,Role 5,2011-07-13 19:46:20,2011-07-13 19:58:29
+Case088,Pay Invoice,Role 5,2011-07-14 02:33:36,2011-07-14 02:49:14
+Case088,end,end,2011-07-14 09:53:03,2011-07-14 10:08:12
+Case089,start,start,2011-07-14 09:53:03,2011-07-14 09:53:03
+Case089,Create Purchase Requisition,Role 1,2011-07-14 17:25:40,2011-07-14 17:45:08
+Case089,Create Request for Quotation,Role 4,2011-07-15 01:36:11,2011-07-15 01:55:23
+Case089,end,Role 1,2011-07-15 09:17:42,2011-07-15 09:38:59
+Case090,start,start,2011-07-15 09:17:42,2011-07-15 09:17:42
+Case090,Create Purchase Requisition,Role 1,2011-07-15 16:25:03,2011-07-15 16:45:02
+Case090,Create Request for Quotation,Role 1,2011-07-16 00:04:19,2011-07-16 00:23:40
+Case090,Analyze Request for Quotation,Role 3,2011-07-16 07:22:02,2011-07-16 07:42:08
+Case090,Amend Request for Quotation,Role 1,2011-07-16 14:19:31,2011-07-16 14:38:30
+Case090,Analyze Request for Quotation,Role 3,2011-07-16 21:08:49,2011-07-16 21:25:58
+Case090,Send Request for Quotation to Supplier,Role 4,2011-07-17 03:53:44,2011-07-17 04:08:55
+Case090,Create Quotation comparison Map,Role 3,2011-07-17 10:42:44,2011-07-17 10:57:08
+Case090,Analyze Quotation Comparison Map,Role 1,2011-07-17 17:37:53,2011-07-17 17:50:24
+Case090,Choose best option,Role 1,2011-07-18 00:40:59,2011-07-18 00:52:20
+Case090,Settle Conditions With Supplier,Role 3,2011-07-18 07:23:18,2011-07-18 07:35:18
+Case090,Create Purchase Order,Role 3,2011-07-18 14:03:59,2011-07-18 14:18:44
+Case090,Confirm Purchase Order,Role 2,2011-07-18 20:38:59,2011-07-18 20:56:38
+Case090,Deliver Goods Services,Role 2,2011-07-19 04:04:20,2011-07-19 04:19:44
+Case090,Release Purchase Order,Role 1,2011-07-19 12:27:03,2011-07-19 12:39:20
+Case090,Approve Purchase Order for payment,Role 3,2011-07-19 20:42:59,2011-07-19 20:54:34
+Case090,Send Invoice,Role 2,2011-07-20 04:48:19,2011-07-20 04:59:49
+Case090,Release Supplier's Invoice,Role 5,2011-07-20 12:29:52,2011-07-20 12:42:05
+Case090,Authorize Supplier's Invoice payment,Role 5,2011-07-20 19:44:17,2011-07-20 19:56:26
+Case090,Pay Invoice,Role 5,2011-07-21 02:31:15,2011-07-21 02:46:53
+Case090,end,end,2011-07-21 09:50:31,2011-07-21 10:05:40
+Case091,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case091,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case091,Create Request for Quotation,Role 4,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case091,Create Request for Quotation,Role 4,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case091,Analyze Request for Quotation,Role 3,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case091,Send Request for Quotation to Supplier,Role 1,2011-06-21 04:08:27,2011-06-21 04:24:54
+Case091,Create Quotation comparison Map,Role 3,2011-06-21 10:58:11,2011-06-21 11:12:30
+Case091,Analyze Quotation Comparison Map,Role 1,2011-06-21 18:14:34,2011-06-21 18:28:43
+Case091,Choose best option,Role 1,2011-06-22 01:47:27,2011-06-22 02:01:54
+Case091,Settle Conditions With Supplier,Role 3,2011-06-22 08:44:24,2011-06-22 09:00:13
+Case091,Create Purchase Order,Role 3,2011-06-22 15:42:02,2011-06-22 15:57:08
+Case091,Confirm Purchase Order,Role 2,2011-06-22 23:15:12,2011-06-22 23:29:30
+Case091,Deliver Goods Services,Role 2,2011-06-23 07:06:58,2011-06-23 07:21:13
+Case091,Release Purchase Order,Role 1,2011-06-23 14:43:24,2011-06-23 14:57:14
+Case091,Approve Purchase Order for payment,Role 3,2011-06-23 22:18:30,2011-06-23 22:31:49
+Case091,Send Invoice,Role 2,2011-06-24 06:23:08,2011-06-24 06:39:30
+Case091,Release Supplier's Invoice,Role 5,2011-06-24 14:56:32,2011-06-24 15:12:57
+Case091,Settle Dispute With Supplier,Role 5,2011-06-24 23:40:27,2011-06-24 23:55:41
+Case091,Authorize Supplier's Invoice payment,Role 5,2011-06-25 08:52:31,2011-06-25 09:08:21
+Case091,Pay Invoice,Role 5,2011-06-25 17:44:06,2011-06-25 17:58:48
+Case091,end,end,2011-06-26 01:50:03,2011-06-26 02:02:52
+Case092,start,start,2011-06-26 01:50:03,2011-06-26 01:50:03
+Case092,Create Purchase Requisition,Role 1,2011-06-26 08:29:39,2011-06-26 08:50:06
+Case092,Analyze Purchase Requisition,Role 4,2011-06-26 15:27:40,2011-06-26 15:47:39
+Case092,Create Request for Quotation,Role 4,2011-06-26 22:21:10,2011-06-26 22:41:02
+Case092,Analyze Request for Quotation,Role 3,2011-06-27 05:11:27,2011-06-27 05:31:18
+Case092,Send Request for Quotation to Supplier,Role 1,2011-06-27 09:41:01,2011-06-27 10:07:12
+Case092,Create Quotation comparison Map,Role 3,2011-06-27 14:02:01,2011-06-27 14:28:27
+Case092,Analyze Quotation Comparison Map,Role 1,2011-06-27 19:11:39,2011-06-27 19:36:11
+Case092,Choose best option,Role 1,2011-06-28 01:26:01,2011-06-28 01:47:29
+Case092,Settle Conditions With Supplier,Role 3,2011-06-28 09:50:11,2011-06-28 10:05:55
+Case092,Create Purchase Order,Role 3,2011-06-28 17:57:36,2011-06-28 18:09:21
+Case092,Confirm Purchase Order,Role 2,2011-06-29 02:07:46,2011-06-29 02:18:54
+Case092,Deliver Goods Services,Role 2,2011-06-29 09:47:26,2011-06-29 09:58:43
+Case092,Release Purchase Order,Role 1,2011-06-29 17:03:39,2011-06-29 17:14:53
+Case092,Approve Purchase Order for payment,Role 3,2011-06-30 00:07:20,2011-06-30 00:21:46
+Case092,Send Invoice,Role 2,2011-06-30 07:19:27,2011-06-30 07:33:38
+Case092,Release Supplier's Invoice,Role 5,2011-06-30 14:46:09,2011-06-30 14:59:28
+Case092,Authorize Supplier's Invoice payment,Role 5,2011-06-30 22:21:28,2011-06-30 22:34:34
+Case092,Pay Invoice,end,2011-07-01 06:28:37,2011-07-01 06:44:11
+Case092,end,end,2011-07-01 15:18:47,2011-07-01 15:35:07
+Case093,start,start,2011-07-01 15:18:47,2011-07-01 15:18:47
+Case093,Create Purchase Requisition,Role 1,2011-07-01 22:32:41,2011-07-01 22:52:04
+Case093,Analyze Purchase Requisition,Role 1,2011-07-02 06:17:12,2011-07-02 06:35:59
+Case093,Analyze Request for Quotation,Role 3,2011-07-02 13:37:04,2011-07-02 13:56:37
+Case093,Amend Request for Quotation,Role 3,2011-07-02 20:32:32,2011-07-02 20:51:06
+Case093,Analyze Request for Quotation,Role 3,2011-07-03 03:13:37,2011-07-03 03:30:25
+Case093,Amend Request for Quotation,Role 1,2011-07-03 10:02:27,2011-07-03 10:18:49
+Case093,Analyze Request for Quotation,Role 3,2011-07-03 17:05:50,2011-07-03 17:20:09
+Case093,Send Request for Quotation to Supplier,Role 1,2011-07-04 00:19:25,2011-07-04 00:31:49
+Case093,Create Quotation comparison Map,Role 3,2011-07-04 07:21:10,2011-07-04 07:35:10
+Case093,Analyze Quotation Comparison Map,Role 1,2011-07-04 14:21:39,2011-07-04 14:33:51
+Case093,Choose best option,Role 1,2011-07-04 21:26:56,2011-07-04 21:39:55
+Case093,Settle Conditions With Supplier,Role 3,2011-07-05 04:44:22,2011-07-05 04:59:35
+Case093,Create Purchase Order,Role 3,2011-07-05 13:04:22,2011-07-05 13:16:34
+Case093,Confirm Purchase Order,Role 2,2011-07-05 21:17:47,2011-07-05 21:29:20
+Case093,Deliver Goods Services,Role 2,2011-07-06 05:19:35,2011-07-06 05:31:03
+Case093,Release Purchase Order,Role 1,2011-07-06 12:59:18,2011-07-06 13:11:34
+Case093,Approve Purchase Order for payment,Role 3,2011-07-06 20:12:37,2011-07-06 20:24:50
+Case093,Send Invoice,Role 2,2011-07-07 02:59:50,2011-07-07 03:15:32
+Case093,Release Supplier's Invoice,Role 5,2011-07-07 10:22:12,2011-07-07 10:37:27
+Case093,Settle Dispute With Supplier,Role 5,2011-07-07 18:04:18,2011-07-07 18:17:59
+Case093,Authorize Supplier's Invoice payment,Role 5,2011-07-08 01:54:23,2011-07-08 02:07:27
+Case093,Pay Invoice,Role 5,2011-07-08 10:26:12,2011-07-08 10:43:31
+Case093,end,end,2011-07-08 19:22:21,2011-07-08 19:38:16
+Case094,start,start,2011-07-08 19:22:21,2011-07-08 19:22:21
+Case094,Create Purchase Requisition,Role 1,2011-07-09 02:40:29,2011-07-09 02:59:29
+Case094,Analyze Purchase Requisition,Role 4,2011-07-09 10:00:45,2011-07-09 10:20:14
+Case094,Create Request for Quotation,Role 4,2011-07-09 17:04:54,2011-07-09 17:23:27
+Case094,Analyze Request for Quotation,Role 3,2011-07-09 23:53:13,2011-07-10 00:10:44
+Case094,Amend Request for Quotation,Role 3,2011-07-10 06:26:03,2011-07-10 06:42:26
+Case094,Analyze Request for Quotation,Role 3,2011-07-10 12:53:26,2011-07-10 13:10:05
+Case094,Send Request for Quotation to Supplier,Role 1,2011-07-10 19:32:54,2011-07-10 19:48:17
+Case094,Create Quotation comparison Map,Role 3,2011-07-11 02:27:56,2011-07-11 02:42:13
+Case094,Analyze Quotation Comparison Map,Role 1,2011-07-11 09:11:15,2011-07-11 09:28:24
+Case094,Choose best option,Role 1,2011-07-11 16:10:12,2011-07-11 16:24:48
+Case094,Settle Conditions With Supplier,Role 3,2011-07-11 23:07:05,2011-07-11 23:24:42
+Case094,Create Purchase Order,Role 3,2011-07-12 06:46:11,2011-07-12 07:01:41
+Case094,Confirm Purchase Order,Role 2,2011-07-12 15:16:38,2011-07-12 15:28:59
+Case094,Deliver Goods Services,Role 2,2011-07-12 23:34:32,2011-07-12 23:46:04
+Case094,Release Purchase Order,Role 1,2011-07-13 07:43:35,2011-07-13 07:55:04
+Case094,Approve Purchase Order for payment,Role 3,2011-07-13 15:24:46,2011-07-13 15:36:39
+Case094,Send Invoice,Role 2,2011-07-13 22:43:01,2011-07-13 22:54:57
+Case094,Release Supplier's Invoice,Role 5,2011-07-14 05:51:40,2011-07-14 06:07:07
+Case094,Authorize Supplier's Invoice payment,Role 5,2011-07-14 13:26:08,2011-07-14 13:41:11
+Case094,Pay Invoice,Role 5,2011-07-14 21:14:11,2011-07-14 21:27:36
+Case094,end,end,2011-07-15 05:09:34,2011-07-15 05:22:26
+Case095,start,start,2011-07-15 05:09:34,2011-07-15 05:09:34
+Case095,Create Purchase Requisition,Role 1,2011-07-15 12:11:58,2011-07-15 12:32:23
+Case095,Create Request for Quotation,Role 4,2011-07-15 19:47:00,2011-07-15 20:06:48
+Case095,end,Role 4,2011-07-16 03:22:51,2011-07-16 03:42:22
+Case096,start,start,2011-07-16 03:22:51,2011-07-16 03:22:51
+Case096,Create Purchase Requisition,Role 1,2011-07-16 10:17:19,2011-07-16 10:36:55
+Case096,Create Request for Quotation,Role 4,2011-07-16 17:22:46,2011-07-16 17:41:08
+Case096,Amend Purchase Requisition,Role 4,2011-07-17 00:14:40,2011-07-17 00:32:21
+Case096,Analyze Request for Quotation,Role 3,2011-07-17 06:32:51,2011-07-17 06:52:10
+Case096,Amend Request for Quotation,Role 3,2011-07-17 12:48:29,2011-07-17 13:07:59
+Case096,Analyze Request for Quotation,Role 3,2011-07-17 19:13:00,2011-07-17 19:32:37
+Case096,Amend Request for Quotation,Role 1,2011-07-18 01:53:52,2011-07-18 02:13:58
+Case096,Analyze Request for Quotation,Role 3,2011-07-18 07:15:31,2011-07-18 07:42:37
+Case096,end,Role 1,2011-07-18 13:07:11,2011-07-18 13:33:13
+Case097,start,start,2011-07-18 13:07:11,2011-07-18 13:07:11
+Case097,Create Purchase Requisition,Role 1,2011-07-18 18:33:30,2011-07-18 18:55:52
+Case097,Analyze Purchase Requisition,Role 1,2011-07-19 00:06:27,2011-07-19 00:27:26
+Case097,Analyze Request for Quotation,Role 3,2011-07-19 07:06:34,2011-07-19 07:24:05
+Case097,Send Request for Quotation to Supplier,Role 3,2011-07-19 14:24:06,2011-07-19 14:40:38
+Case097,Create Quotation comparison Map,Role 3,2011-07-19 21:52:02,2011-07-19 22:08:17
+Case097,Analyze Quotation Comparison Map,Role 1,2011-07-20 05:26:46,2011-07-20 05:43:04
+Case097,Choose best option,Role 1,2011-07-20 12:26:26,2011-07-20 12:44:29
+Case097,Settle Conditions With Supplier,Role 3,2011-07-20 19:31:32,2011-07-20 19:49:21
+Case097,Create Purchase Order,Role 3,2011-07-21 02:49:52,2011-07-21 03:06:33
+Case097,Confirm Purchase Order,Role 2,2011-07-21 10:13:49,2011-07-21 10:28:32
+Case097,Deliver Goods Services,Role 2,2011-07-21 17:40:22,2011-07-21 17:54:04
+Case097,Release Purchase Order,Role 1,2011-07-22 01:31:29,2011-07-22 01:47:19
+Case097,Approve Purchase Order for payment,Role 3,2011-07-22 10:12:34,2011-07-22 10:29:35
+Case097,Send Invoice,Role 2,2011-07-22 19:06:29,2011-07-22 19:22:04
+Case097,Release Supplier's Invoice,Role 5,2011-07-23 03:47:08,2011-07-23 04:01:10
+Case097,Authorize Supplier's Invoice payment,Role 5,2011-07-23 12:41:44,2011-07-23 12:56:57
+Case097,Pay Invoice,Role 5,2011-07-23 20:56:29,2011-07-23 21:09:29
+Case097,end,end,2011-07-24 04:36:27,2011-07-24 04:48:05
+Case098,start,start,2011-06-20 02:33:00,2011-06-20 02:33:00
+Case098,Create Purchase Requisition,Role 1,2011-06-20 07:35:15,2011-06-20 07:59:05
+Case098,Analyze Purchase Requisition,Role 1,2011-06-20 12:39:34,2011-06-20 13:01:56
+Case098,Analyze Request for Quotation,Role 3,2011-06-20 17:41:44,2011-06-20 18:01:40
+Case098,end,Role 1,2011-06-20 22:50:26,2011-06-20 23:08:17
+Case099,start,start,2011-06-20 22:50:26,2011-06-20 22:50:26
+Case099,Create Purchase Requisition,Role 1,2011-06-21 04:36:56,2011-06-21 04:58:09
+Case099,Analyze Purchase Requisition,Role 4,2011-06-21 12:01:14,2011-06-21 12:19:49
+Case099,Create Request for Quotation,Role 4,2011-06-21 19:31:14,2011-06-21 19:48:55
+Case099,Analyze Request for Quotation,Role 3,2011-06-22 03:00:08,2011-06-22 03:17:31
+Case099,Amend Request for Quotation,Role 3,2011-06-22 09:42:09,2011-06-22 10:01:49
+Case099,Analyze Request for Quotation,Role 3,2011-06-22 16:23:38,2011-06-22 16:44:01
+Case099,Amend Request for Quotation,Role 1,2011-06-22 23:21:43,2011-06-22 23:41:39
+Case099,Analyze Request for Quotation,Role 3,2011-06-23 06:44:11,2011-06-23 07:03:24
+Case099,Amend Request for Quotation,Role 1,2011-06-23 14:20:50,2011-06-23 14:38:19
+Case099,Analyze Request for Quotation,Role 3,2011-06-23 22:02:31,2011-06-23 22:15:51
+Case099,Send Request for Quotation to Supplier,Role 3,2011-06-24 06:08:07,2011-06-24 06:24:05
+Case099,Create Quotation comparison Map,Role 3,2011-06-24 14:41:26,2011-06-24 14:57:22
+Case099,Analyze Quotation Comparison Map,Role 1,2011-06-24 23:18:51,2011-06-24 23:33:29
+Case099,Choose best option,Role 1,2011-06-25 08:25:55,2011-06-25 08:41:16
+Case099,Settle Conditions With Supplier,Role 3,2011-06-25 17:12:18,2011-06-25 17:26:39
+Case099,Create Purchase Order,Role 3,2011-06-26 01:14:11,2011-06-26 01:26:46
+Case099,Confirm Purchase Order,Role 2,2011-06-26 09:11:11,2011-06-26 09:23:20
+Case099,Deliver Goods Services,Role 2,2011-06-26 17:15:16,2011-06-26 17:27:07
+Case099,Release Purchase Order,Role 1,2011-06-27 00:30:28,2011-06-27 00:40:06
+Case099,Approve Purchase Order for payment,Role 3,2011-06-27 07:15:14,2011-06-27 07:25:23
+Case099,Send Invoice,Role 2,2011-06-27 14:04:58,2011-06-27 14:15:55
+Case099,Release Supplier's Invoice,Role 5,2011-06-27 21:08:08,2011-06-27 21:19:46
+Case099,Settle Dispute With Supplier,Role 5,2011-06-28 04:18:56,2011-06-28 04:30:51
+Case099,Authorize Supplier's Invoice payment,Role 5,2011-06-28 12:27:51,2011-06-28 12:40:17
+Case099,end,Role 5,2011-06-28 20:39:23,2011-06-28 20:51:05
+Case100,start,start,2011-06-28 20:39:23,2011-06-28 20:39:23
+Case100,Create Purchase Requisition,Role 1,2011-06-29 04:22:46,2011-06-29 04:40:57
+Case100,Analyze Purchase Requisition,Role 4,2011-06-29 11:38:07,2011-06-29 11:59:07
+Case100,Create Request for Quotation,Role 4,2011-06-29 18:38:18,2011-06-29 19:00:16
+Case100,Analyze Request for Quotation,Role 3,2011-06-30 01:28:55,2011-06-30 01:51:29
+Case100,Send Request for Quotation to Supplier,Role 1,2011-06-30 08:06:42,2011-06-30 08:29:37
+Case100,Create Quotation comparison Map,Role 3,2011-06-30 15:09:14,2011-06-30 15:30:06
+Case100,Analyze Quotation Comparison Map,Role 1,2011-06-30 22:39:17,2011-06-30 22:58:24
+Case100,Choose best option,Role 1,2011-07-01 06:43:19,2011-07-01 07:01:01
+Case100,Settle Conditions With Supplier,Role 3,2011-07-01 15:33:35,2011-07-01 15:51:09
+Case100,Create Purchase Order,Role 3,2011-07-02 00:31:26,2011-07-02 00:46:03
+Case100,Confirm Purchase Order,Role 2,2011-07-02 09:34:32,2011-07-02 09:50:20
+Case100,Deliver Goods Services,Role 2,2011-07-02 18:09:36,2011-07-02 18:23:11
+Case100,Release Purchase Order,Role 1,2011-07-03 02:15:46,2011-07-03 02:28:07
+Case100,Settle Dispute With Supplier,Role 3,2011-07-03 10:53:46,2011-07-03 11:07:28
+Case100,Release Purchase Order,Role 1,2011-07-03 18:45:36,2011-07-03 18:56:53
+Case100,Approve Purchase Order for payment,Role 3,2011-07-04 01:52:30,2011-07-04 02:02:09
+Case100,Send Invoice,Role 2,2011-07-04 08:30:10,2011-07-04 08:40:54
+Case100,Release Supplier's Invoice,Role 5,2011-07-04 15:03:55,2011-07-04 15:16:00
+Case100,Authorize Supplier's Invoice payment,Role 5,2011-07-04 21:59:09,2011-07-04 22:12:50
+Case100,Pay Invoice,Role 5,2011-07-05 04:55:15,2011-07-05 05:10:35
+Case100,end,end,2011-07-05 13:10:51,2011-07-05 13:23:20

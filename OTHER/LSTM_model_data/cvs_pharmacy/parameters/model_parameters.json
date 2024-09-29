@@ -1,0 +1,50 @@
+{
+    "dense_act": "linear",
+    "index_ac": {
+        "0": "start",
+        "1": "Check DUR",
+        "2": "Check Insurance",
+        "3": "Check for Quality Assurance",
+        "4": "Check if refill is allowed",
+        "5": "Contact Doctor about refill",
+        "6": "Contact customer /  doctor",
+        "7": "EVENT 19 END ERROR",
+        "8": "Enter prescription details",
+        "9": "Pack the drugs (Production)",
+        "10": "Pick-up",
+        "11": "Prescription fulfilled",
+        "12": "Prescription received",
+        "13": "Process drop-off",
+        "14": "Resolve DUR manually",
+        "15": "Resolve insurance issues manually",
+        "16": "end"
+    },
+    "index_rl": {
+        "0": "start",
+        "1": "Role 1",
+        "2": "Role 2",
+        "3": "Role 3",
+        "4": "Role 4",
+        "5": "end"
+    },
+    "l_size": 50,
+    "loss": 1.1018821001052856,
+    "lstm_act": "selu",
+    "max_trace_size": 16,
+    "model_type": "concatenated_cx",
+    "n_size": 15,
+    "norm_method": "lognorm",
+    "optim": "Nadam",
+    "output": "output_files/20210208_215EA975_AB61_4418_9ED7_E414252D9ADB/20210208_70067DC5_4A22_40E6_A4A0_DABE4DA492DF",
+    "scale_args": {
+        "dur": {
+            "max_value": 12.304089241502265,
+            "min_value": 0.0
+        },
+        "wait": {
+            "max_value": 12.912964558000873,
+            "min_value": 0.0
+        }
+    },
+    "sim_metric": "val_loss"
+}

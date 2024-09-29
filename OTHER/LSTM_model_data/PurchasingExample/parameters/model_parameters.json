@@ -1,0 +1,52 @@
+{
+    "dense_act": "linear",
+    "index_ac": {
+        "0": "start",
+        "1": "Amend Purchase Requisition",
+        "2": "Amend Request for Quotation",
+        "3": "Analyze Purchase Requisition",
+        "4": "Analyze Quotation Comparison Map",
+        "5": "Analyze Request for Quotation",
+        "6": "Approve Purchase Order for payment",
+        "7": "Authorize Supplier's Invoice payment",
+        "8": "Choose best option",
+        "9": "Confirm Purchase Order",
+        "10": "Create Purchase Order",
+        "11": "Create Purchase Requisition",
+        "12": "Create Quotation comparison Map",
+        "13": "Create Request for Quotation",
+        "14": "Deliver Goods Services",
+        "15": "Pay Invoice",
+        "16": "Release Purchase Order",
+        "17": "Release Supplier's Invoice",
+        "18": "Send Invoice",
+        "19": "Send Request for Quotation to Supplier",
+        "20": "Settle Conditions With Supplier",
+        "21": "Settle Dispute With Supplier",
+        "22": "end"
+    },
+    "index_rl": {
+        "0": "start",
+        "1": "Role 1",
+        "2": "Role 2",
+        "3": "Role 3",
+        "4": "Role 4",
+        "5": "Role 5",
+        "6": "end"
+    },
+    "l_size": 100,
+    "lstm_act": "selu",
+    "max_trace_size": 44,
+    "model_type": "shared_cat_cx",
+    "n_size": 10,
+    "norm_method": "max",
+    "optim": "Nadam",
+    "scale_args": {
+        "dur": {
+            "max_value": 176640.0
+        },
+        "wait": {
+            "max_value": 7651440.0
+        }
+    }
+}

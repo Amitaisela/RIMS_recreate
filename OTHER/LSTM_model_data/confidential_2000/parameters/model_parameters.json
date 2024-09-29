@@ -1,0 +1,63 @@
+{
+    "dense_act": "linear",
+    "index_ac": {
+        "0": "start",
+        "1": "A",
+        "2": "AA",
+        "3": "B",
+        "4": "BB",
+        "5": "C",
+        "6": "CC",
+        "7": "D",
+        "8": "DD",
+        "9": "E",
+        "10": "F",
+        "11": "G",
+        "12": "H",
+        "13": "I",
+        "14": "J",
+        "15": "K",
+        "16": "L",
+        "17": "M",
+        "18": "N",
+        "19": "O",
+        "20": "P",
+        "21": "Q",
+        "22": "R",
+        "23": "S",
+        "24": "T",
+        "25": "U",
+        "26": "V",
+        "27": "X",
+        "28": "Y",
+        "29": "Z",
+        "30": "end"
+    },
+    "index_rl": {
+        "0": "start",
+        "1": "Role 1",
+        "2": "Role 2",
+        "3": "Role 3",
+        "4": "Role 4",
+        "5": "Role 5",
+        "6": "end"
+    },
+    "l_size": 50,
+    "loss": 0.4921041131019592,
+    "lstm_act": "selu",
+    "max_trace_size": 148,
+    "model_type": "concatenated_cx",
+    "n_size": 15,
+    "norm_method": "max",
+    "optim": "Nadam",
+    "output": "output_files/20210208_78C7B0FF_1AE9_442D_A859_B792FC4AF5A9/20210208_6C13D570_1443_46B3_ACAF_EDC7AAFE57F9",
+    "scale_args": {
+        "dur": {
+            "max_value": 208824.939
+        },
+        "wait": {
+            "max_value": 44180.48
+        }
+    },
+    "sim_metric": "val_loss"
+}

@@ -1,0 +1,43 @@
+{
+    "dense_act": "linear",
+    "index_ac": {
+        "0": "start",
+        "1": "W_Assess potential fraud",
+        "2": "W_Call after offers",
+        "3": "W_Call incomplete files",
+        "4": "W_Complete application",
+        "5": "W_Handle leads",
+        "6": "W_Personal Loan collection",
+        "7": "W_Shortened completion",
+        "8": "W_Validate application",
+        "9": "end"
+    },
+    "index_rl": {
+        "0": "start",
+        "1": "Role 1",
+        "2": "Role 2",
+        "3": "Role 3",
+        "4": "Role 4",
+        "5": "Role 5",
+        "6": "Role 6",
+        "7": "end"
+    },
+    "l_size": 50,
+    "loss": 1.55587637424469,
+    "lstm_act": "selu",
+    "max_trace_size": 65,
+    "model_type": "concatenated_cx",
+    "n_size": 5,
+    "norm_method": "max",
+    "optim": "Nadam",
+    "output": "output_files/20210208_4E5808CE_8BBA_409A_B9DD_1E0DE4817E74/20210209_F9029B0B_E2C0_4066_B6D4_36296271260E",
+    "scale_args": {
+        "dur": {
+            "max_value": 1297128.0
+        },
+        "wait": {
+            "max_value": 11916011.0
+        }
+    },
+    "sim_metric": "val_loss"
+}

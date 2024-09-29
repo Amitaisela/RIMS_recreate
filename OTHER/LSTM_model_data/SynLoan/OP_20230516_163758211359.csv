@@ -1,0 +1,2 @@
+loss,sim_metric,status,n_size,l_size,lstm_act,dense_act,optim,scale_args,output
+0.9963492751121521,val_loss,ok,15,50,selu,linear,Nadam,"{'dur': {'max_value': 37066.0}, 'wait': {'max_value': 361137.0}}",output_files/20230516_5B694FE8_2AA6_410B_869A_81F57E71FACD/20230516_0A3DD8DB_F9C6_4432_878A_B2E645DD0F10

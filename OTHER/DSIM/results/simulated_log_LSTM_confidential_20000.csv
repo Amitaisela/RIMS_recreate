@@ -1,0 +1,2 @@
+caseid,task,start:timestamp,time:timestamp,role,st_wip,st_tsk_wip,queue
+1,A,2021-01-20 11:56:54,2021-01-20 12:03:11,Role 5,4,1.0445657116871305,-1

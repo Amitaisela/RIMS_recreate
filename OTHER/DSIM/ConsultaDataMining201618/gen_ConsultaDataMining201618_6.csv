@@ -1,0 +1,735 @@
+caseid,task,resource,role,time:timestamp,pr_instances,tsk_start_inst,start:timestamp
+Case1,Traer informacion estudiante - banner,res_411926aa-3a3e-4d6c-a0b0-2729bb852f1d,Role 1,2016-05-18 22:38:14,43,0,2016-05-18 22:37:56
+Case2,Traer informacion estudiante - banner,res_6ac24bed-a8e2-4c99-86d5-e1c0d5464488,Role 1,2016-05-18 23:08:28,44,0,2016-05-18 23:08:10
+Case3,Traer informacion estudiante - banner,res_80a33b28-e607-4bc7-9490-9e85f66505a3,Role 1,2016-05-19 00:11:26,45,0,2016-05-19 00:10:56
+Case4,Traer informacion estudiante - banner,res_7ccaedcd-e85c-42ca-9907-24f64d1d20c9,Role 1,2016-05-19 00:56:49,46,0,2016-05-19 00:56:20
+Case1,Radicar Solicitud Homologacion,res_7ccaedcd-e85c-42ca-9907-24f64d1d20c9,Role 1,2016-05-19 00:57:48,45,0,2016-05-19 00:53:02
+Case2,Radicar Solicitud Homologacion,res_f7783968-0321-4b52-8916-76fbd7ddd829,Role 1,2016-05-19 01:26:23,46,0,2016-05-19 01:21:36
+Case5,Traer informacion estudiante - banner,res_7cbedc58-3cf7-4fb1-9040-5ecce4b2984b,Role 1,2016-05-19 03:45:10,47,0,2016-05-19 03:44:44
+Case6,Traer informacion estudiante - banner,res_05442fe8-2739-4ee5-b214-1f8ed4133154,Role 1,2016-05-19 04:17:13,48,0,2016-05-19 04:16:47
+Case7,Traer informacion estudiante - banner,res_a7fc0ed3-7bc8-415d-8d82-5ab4ea66f19e,Role 1,2016-05-19 05:07:16,49,0,2016-05-19 05:06:50
+Case1,Cancelar Solicitud,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-19 06:17:50,49,0,2016-05-19 06:15:41
+Case2,Cancelar Solicitud,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-19 06:41:49,49,0,2016-05-19 06:39:44
+Case3,Radicar Solicitud Homologacion,res_6ce3d034-fc1c-4728-b9cd-b514a81b171a,Role 1,2016-05-19 07:50:38,49,0,2016-05-19 07:41:28
+Case8,Traer informacion estudiante - banner,res_9efd533d-7eff-42de-b42b-c2ada7718c52,Role 1,2016-05-19 08:25:46,50,0,2016-05-19 08:25:22
+Case4,Radicar Solicitud Homologacion,res_9efd533d-7eff-42de-b42b-c2ada7718c52,Role 1,2016-05-19 08:31:40,49,0,2016-05-19 08:22:40
+Case9,Traer informacion estudiante - banner,res_dde7be97-02a2-4c0b-9f5a-7c94d9ad36f3,Role 1,2016-05-19 09:33:54,51,0,2016-05-19 09:33:31
+Case5,Radicar Solicitud Homologacion,res_bc363300-797e-4114-aa34-64fa2a6afc3f,Role 1,2016-05-19 11:13:21,51,0,2016-05-19 11:04:56
+Case6,Radicar Solicitud Homologacion,res_73fbd9bf-5ac9-4777-b54e-28ae380255e3,Role 1,2016-05-19 11:40:17,51,0,2016-05-19 11:31:55
+Case7,Radicar Solicitud Homologacion,res_30d5deea-e17e-4150-a798-b46567b4d0c5,Role 1,2016-05-19 12:25:13,51,0,2016-05-19 12:16:57
+Case10,Traer informacion estudiante - banner,res_178c6ee2-cb58-45b7-aa5b-d98a9c085fc1,Role 1,2016-05-19 13:53:01,52,0,2016-05-19 13:52:39
+Case11,Traer informacion estudiante - banner,res_e9295669-b6eb-44ee-8dd8-32dbf4272bd5,Role 1,2016-05-19 14:57:16,53,0,2016-05-19 14:56:54
+Case8,Radicar Solicitud Homologacion,res_fd7a64d7-012c-4fe5-bbad-5d568516ef54,Role 1,2016-05-19 15:39:05,53,0,2016-05-19 15:31:24
+Case12,Traer informacion estudiante - banner,res_edec542c-28f5-4711-bc5a-205300ce7c5a,Role 1,2016-05-19 16:07:43,54,0,2016-05-19 16:07:21
+Case9,Radicar Solicitud Homologacion,res_a390e1cd-30fe-43f1-bdef-2ef4759f374d,Role 1,2016-05-19 16:41:15,54,0,2016-05-19 16:33:40
+Case13,Traer informacion estudiante - banner,res_42b8ca67-038a-4944-bb02-bccb03fdd41a,Role 1,2016-05-19 17:38:29,55,0,2016-05-19 17:38:06
+Case14,Traer informacion estudiante - banner,res_17a3465d-a05d-40f4-906f-bea7e394ba33,Role 1,2016-05-19 18:05:07,56,0,2016-05-19 18:04:44
+Case15,Traer informacion estudiante - banner,res_272600b9-1a70-4bae-9efe-59b7490b6876,Role 1,2016-05-19 19:24:22,57,0,2016-05-19 19:23:59
+Case16,Traer informacion estudiante - banner,res_740da549-7436-46ae-aaf6-fccebf27a38c,Role 1,2016-05-19 19:56:44,58,0,2016-05-19 19:56:20
+Case10,Radicar Solicitud Homologacion,res_f7783968-0321-4b52-8916-76fbd7ddd829,Role 1,2016-05-19 20:54:56,58,0,2016-05-19 20:47:54
+Case17,Traer informacion estudiante - banner,res_bc5a623c-2683-42a2-9395-12af309acd82,Role 1,2016-05-19 21:15:01,59,0,2016-05-19 21:14:37
+Case11,Radicar Solicitud Homologacion,res_9455207f-4168-4304-b105-020ef0864287,Role 1,2016-05-19 21:54:16,59,0,2016-05-19 21:47:18
+Case18,Traer informacion estudiante - banner,res_05805556-d87b-44b1-b7c6-bc5351d232d4,Role 1,2016-05-19 22:39:08,60,0,2016-05-19 22:38:44
+Case12,Radicar Solicitud Homologacion,res_42b8ca67-038a-4944-bb02-bccb03fdd41a,Role 1,2016-05-19 22:59:50,60,0,2016-05-19 22:52:56
+Case19,Traer informacion estudiante - banner,res_4ec85aff-8040-4170-b847-e5886819ac0e,Role 1,2016-05-19 23:33:07,61,0,2016-05-19 23:32:42
+Case3,Cancelar Solicitud,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-05-20 00:13:30,61,0,2016-05-20 00:10:07
+Case13,Radicar Solicitud Homologacion,res_24c87bbc-89fb-4a61-84be-006eb85ce656,Role 1,2016-05-20 00:27:54,61,0,2016-05-20 00:18:57
+Case4,Cancelar Solicitud,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 2,2016-05-20 00:36:20,61,0,2016-05-20 00:33:07
+Case14,Radicar Solicitud Homologacion,res_9f6e6196-2b5c-4703-9b4c-56fa2796c51a,Role 1,2016-05-20 00:49:46,61,0,2016-05-20 00:40:51
+Case15,Radicar Solicitud Homologacion,res_72f6b9f4-cbf8-49e4-8250-5436d24edf7a,Role 1,2016-05-20 02:04:05,61,0,2016-05-20 01:55:26
+Case16,Radicar Solicitud Homologacion,res_19d7ea87-378b-41ca-acc8-a4b0f9bc1a88,Role 1,2016-05-20 02:31:45,61,0,2016-05-20 02:23:10
+Case5,Cancelar Solicitud,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-20 02:51:13,61,0,2016-05-20 02:48:38
+Case6,Cancelar Solicitud,res_30bdcab6-dc25-4b7d-bfde-ca6e8f41de18,Role 2,2016-05-20 03:06:14,61,0,2016-05-20 03:03:44
+Case1,Notificacion estudiante cancelacion soli,res_cdb8ea55-314b-495d-81db-a5cddb1b45c7,Role 2,2016-05-20 03:28:53,61,0,2016-05-20 03:28:53
+Case7,Cancelar Solicitud,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-20 03:39:15,60,0,2016-05-20 03:36:55
+Case17,Radicar Solicitud Homologacion,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 1,2016-05-20 03:45:09,60,0,2016-05-20 03:36:51
+Case2,Notificacion estudiante cancelacion soli,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-20 03:46:18,60,0,2016-05-20 03:46:18
+Case18,Radicar Solicitud Homologacion,res_9efd533d-7eff-42de-b42b-c2ada7718c52,Role 1,2016-05-20 05:04:25,59,0,2016-05-20 04:56:25
+Case19,Radicar Solicitud Homologacion,res_01c2d894-0e87-4225-ac5e-6390ba118b68,Role 1,2016-05-20 05:53:46,59,0,2016-05-20 05:45:54
+Case13,Cancelar Solicitud,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-20 05:58:28,59,0,2016-05-20 05:55:51
+Case14,Cancelar Solicitud,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-20 06:14:26,59,0,2016-05-20 06:11:54
+Case8,Cancelar Solicitud,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-20 06:25:39,59,0,2016-05-20 06:23:56
+Case9,Cancelar Solicitud,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-05-20 07:02:52,59,0,2016-05-20 07:01:17
+Case15,Cancelar Solicitud,res_3c10a86e-a59e-4471-807d-0daebd3ce83c,Role 2,2016-05-20 07:22:44,59,0,2016-05-20 07:20:28
+Case16,Cancelar Solicitud,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-20 07:44:37,59,0,2016-05-20 07:42:26
+Case17,Cancelar Solicitud,res_cdb8ea55-314b-495d-81db-a5cddb1b45c7,Role 2,2016-05-20 08:57:06,59,0,2016-05-20 08:55:11
+Case20,Traer informacion estudiante - banner,res_c6a494c8-63a7-430b-853a-bf8071b9ce87,Role 1,2016-05-20 09:55:27,60,0,2016-05-20 09:54:37
+Case18,Cancelar Solicitud,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-05-20 10:15:30,60,0,2016-05-20 10:13:49
+Case10,Cancelar Solicitud,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-05-20 10:28:04,60,0,2016-05-20 10:27:00
+Case19,Cancelar Solicitud,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 2,2016-05-20 10:59:05,60,0,2016-05-20 10:57:32
+Case11,Cancelar Solicitud,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-05-20 11:07:30,60,0,2016-05-20 11:06:32
+Case12,Cancelar Solicitud,res_cdb8ea55-314b-495d-81db-a5cddb1b45c7,Role 2,2016-05-20 11:53:28,60,0,2016-05-20 11:52:37
+Case20,Radicar Solicitud Homologacion,res_93c5de6f-71b0-4f67-b7c9-189504d9664b,Role 1,2016-05-20 12:33:44,60,0,2016-05-20 12:24:40
+Case21,Traer informacion estudiante - banner,res_03eba663-164f-4b31-a648-05cd653ee110,Role 1,2016-05-20 13:50:54,61,0,2016-05-20 13:50:07
+Case22,Traer informacion estudiante - banner,res_9455207f-4168-4304-b105-020ef0864287,Role 1,2016-05-20 13:58:06,62,0,2016-05-20 13:57:18
+Case20,Cancelar Solicitud,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-05-20 15:34:45,62,0,2016-05-20 15:33:23
+Case23,Traer informacion estudiante - banner,res_3a2e50df-4217-4bb9-a433-d1d72077a348,Role 1,2016-05-20 15:44:58,63,0,2016-05-20 15:44:11
+Case21,Radicar Solicitud Homologacion,res_7f79745e-f9be-40c8-bcdd-4394cd1dc621,Role 1,2016-05-20 16:26:16,63,0,2016-05-20 16:17:58
+Case22,Radicar Solicitud Homologacion,res_7f79745e-f9be-40c8-bcdd-4394cd1dc621,Role 1,2016-05-20 16:30:27,63,1,2016-05-20 16:23:02
+Case24,Traer informacion estudiante - banner,res_2c909113-bd87-438f-873f-8f71c6edfb95,Role 1,2016-05-20 18:14:28,64,0,2016-05-20 18:13:42
+Case23,Radicar Solicitud Homologacion,res_2c909113-bd87-438f-873f-8f71c6edfb95,Role 1,2016-05-20 18:15:48,63,0,2016-05-20 18:07:48
+Case21,Cancelar Solicitud,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-05-20 19:18:01,64,0,2016-05-20 19:17:04
+Case22,Cancelar Solicitud,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-05-20 19:19:01,64,0,2016-05-20 19:18:29
+Case25,Traer informacion estudiante - banner,res_78fc34ab-c3d8-4ff7-9a40-733fd4fd5f53,Role 1,2016-05-20 20:14:21,65,0,2016-05-20 20:13:36
+Case24,Radicar Solicitud Homologacion,res_9e551be7-cbd3-40e7-9c0f-14d22cfebee4,Role 1,2016-05-20 20:43:14,65,0,2016-05-20 20:35:39
+Case23,Cancelar Solicitud,res_30bdcab6-dc25-4b7d-bfde-ca6e8f41de18,Role 2,2016-05-20 21:00:12,65,0,2016-05-20 20:59:26
+Case26,Traer informacion estudiante - banner,res_6b3681db-727b-45f3-8869-dfd9db088ce1,Role 1,2016-05-20 21:49:56,66,0,2016-05-20 21:49:12
+Case27,Traer informacion estudiante - banner,res_05805556-d87b-44b1-b7c6-bc5351d232d4,Role 1,2016-05-20 22:25:50,67,0,2016-05-20 22:25:06
+Case25,Radicar Solicitud Homologacion,res_e3505f76-eba5-4dd3-93be-65ef6a4e44bb,Role 1,2016-05-20 22:40:22,67,0,2016-05-20 22:33:03
+Case28,Traer informacion estudiante - banner,res_104439db-f35b-49a5-ad59-60dd4d0c7f91,Role 1,2016-05-20 23:08:34,68,0,2016-05-20 23:07:50
+Case24,Cancelar Solicitud,res_d1b72a36-94be-4742-9093-62842d4f18c9,Role 2,2016-05-20 23:24:42,68,0,2016-05-20 23:24:08
+Case26,Radicar Solicitud Homologacion,res_5b0d39a1-a032-48e0-bc50-4489de1653d8,Role 1,2016-05-21 00:14:50,68,0,2016-05-21 00:06:36
+Case27,Radicar Solicitud Homologacion,res_dde7be97-02a2-4c0b-9f5a-7c94d9ad36f3,Role 1,2016-05-21 00:48:39,68,0,2016-05-21 00:40:30
+Case25,Cancelar Solicitud,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 2,2016-05-21 01:13:54,68,0,2016-05-21 01:13:18
+Case28,Radicar Solicitud Homologacion,res_331d4136-1e4e-4ea8-8a3b-0c5dff7718a0,Role 1,2016-05-21 01:29:18,68,0,2016-05-21 01:21:15
+Case3,Notificacion estudiante cancelacion soli,res_c665318f-d358-45e6-8539-47f27bbb8cfa,Role 2,2016-05-21 02:25:03,68,0,2016-05-21 02:25:03
+Case29,Traer informacion estudiante - banner,res_def079a5-e531-4069-bee8-b73686506496,Role 1,2016-05-21 02:28:39,68,0,2016-05-21 02:28:15
+Case4,Notificacion estudiante cancelacion soli,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-21 02:37:46,68,0,2016-05-21 02:37:46
+Case26,Cancelar Solicitud,res_674bf5ee-ae49-4df8-b0a1-5b083dc66e58,Role 2,2016-05-21 04:06:49,67,0,2016-05-21 04:06:32
+Case5,Notificacion estudiante cancelacion soli,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 2,2016-05-21 04:19:19,67,0,2016-05-21 04:19:19
+Case6,Notificacion estudiante cancelacion soli,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-05-21 04:25:24,66,0,2016-05-21 04:25:24
+Case27,Cancelar Solicitud,res_19d05a86-8c05-44fc-8de9-9427fd65df5a,Role 2,2016-05-21 04:38:18,65,0,2016-05-21 04:38:04
+Case30,Traer informacion estudiante - banner,res_21aed473-483a-446d-b34f-3ca3520d4591,Role 1,2016-05-21 04:57:13,66,0,2016-05-21 04:56:50
+Case7,Notificacion estudiante cancelacion soli,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-21 05:06:41,66,0,2016-05-21 05:06:41
+Case28,Cancelar Solicitud,res_cdb8ea55-314b-495d-81db-a5cddb1b45c7,Role 2,2016-05-21 05:16:40,65,0,2016-05-21 05:16:29
+Case31,Traer informacion estudiante - banner,res_edec542c-28f5-4711-bc5a-205300ce7c5a,Role 1,2016-05-21 06:35:49,66,0,2016-05-21 06:35:27
+Case29,Radicar Solicitud Homologacion,res_cc18262f-6d23-48e5-8a20-50b6eef7712a,Role 1,2016-05-21 07:19:12,66,0,2016-05-21 07:13:48
+Case13,Notificacion estudiante cancelacion soli,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-05-21 07:33:58,66,0,2016-05-21 07:33:58
+Case8,Notificacion estudiante cancelacion soli,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-21 07:41:57,65,0,2016-05-21 07:41:57
+Case9,Notificacion estudiante cancelacion soli,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-21 07:47:13,64,0,2016-05-21 07:47:13
+Case14,Notificacion estudiante cancelacion soli,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 2,2016-05-21 07:50:48,63,0,2016-05-21 07:50:48
+Case15,Notificacion estudiante cancelacion soli,res_3c10a86e-a59e-4471-807d-0daebd3ce83c,Role 2,2016-05-21 09:00:02,62,0,2016-05-21 09:00:02
+Case16,Notificacion estudiante cancelacion soli,res_d1b72a36-94be-4742-9093-62842d4f18c9,Role 2,2016-05-21 09:22:56,61,0,2016-05-21 09:22:56
+Case30,Radicar Solicitud Homologacion,res_1a1a1b8c-e5c8-4d0c-b48f-623fff774f93,Role 1,2016-05-21 09:55:03,60,0,2016-05-21 09:50:23
+Case10,Notificacion estudiante cancelacion soli,res_8c1a398e-1f3e-47b3-9bb3-19511aac6b88,Role 2,2016-05-21 10:05:53,60,0,2016-05-21 10:05:53
+Case11,Notificacion estudiante cancelacion soli,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-21 10:26:44,59,0,2016-05-21 10:26:44
+Case17,Notificacion estudiante cancelacion soli,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-21 10:39:57,58,0,2016-05-21 10:39:57
+Case12,Notificacion estudiante cancelacion soli,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-05-21 10:54:34,57,0,2016-05-21 10:54:34
+Case31,Radicar Solicitud Homologacion,res_a6279fb8-feb7-46ba-915e-60ce7708ed39,Role 1,2016-05-21 11:33:18,56,0,2016-05-21 11:28:59
+Case18,Notificacion estudiante cancelacion soli,res_d1b72a36-94be-4742-9093-62842d4f18c9,Role 2,2016-05-21 11:54:46,56,0,2016-05-21 11:54:46
+Case19,Notificacion estudiante cancelacion soli,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-21 12:39:30,55,0,2016-05-21 12:39:30
+Case32,Traer informacion estudiante - banner,res_5f38d92b-7790-4c4b-9b1e-f79483bc91fa,Role 1,2016-05-21 12:44:28,55,0,2016-05-21 12:44:08
+Case33,Traer informacion estudiante - banner,res_104439db-f35b-49a5-ad59-60dd4d0c7f91,Role 1,2016-05-21 13:21:18,56,0,2016-05-21 13:20:58
+Case29,Cancelar Solicitud,res_674bf5ee-ae49-4df8-b0a1-5b083dc66e58,Role 2,2016-05-21 15:01:46,56,0,2016-05-21 15:01:21
+Case34,Traer informacion estudiante - banner,res_5123d895-356a-4615-8d17-a9411c618c5e,Role 1,2016-05-21 15:55:09,57,0,2016-05-21 15:54:48
+Case35,Traer informacion estudiante - banner,res_b568ba63-74f8-4926-927c-5c1d86355a48,Role 1,2016-05-21 16:41:26,58,0,2016-05-21 16:41:05
+Case36,Traer informacion estudiante - banner,res_09759002-5da2-4531-9554-08639cdcc472,Role 1,2016-05-21 17:01:03,59,0,2016-05-21 17:00:42
+Case37,Traer informacion estudiante - banner,res_22e4c5fb-eb02-4cc5-8c2f-8330f6c32d6e,Role 1,2016-05-21 18:26:52,60,0,2016-05-21 18:26:31
+Case32,Radicar Solicitud Homologacion,res_22e4c5fb-eb02-4cc5-8c2f-8330f6c32d6e,Role 1,2016-05-21 18:27:35,59,0,2016-05-21 18:24:23
+Case30,Cancelar Solicitud,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-21 18:29:20,60,0,2016-05-21 18:29:10
+Case33,Radicar Solicitud Homologacion,res_87b127a8-7bc4-495f-8537-9c0eb9c56af2,Role 1,2016-05-21 18:59:59,60,0,2016-05-21 18:56:47
+Case38,Traer informacion estudiante - banner,res_2213fc29-252c-438c-9001-13c656bd72f6,Role 1,2016-05-21 19:24:20,61,0,2016-05-21 19:23:58
+Case39,Traer informacion estudiante - banner,res_f08c9c83-d2c4-434b-a519-4ee8347bba78,Role 1,2016-05-21 20:30:09,62,0,2016-05-21 20:29:47
+Case31,Cancelar Solicitud,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-21 20:36:23,62,0,2016-05-21 20:36:20
+Case34,Radicar Solicitud Homologacion,res_1a1a1b8c-e5c8-4d0c-b48f-623fff774f93,Role 1,2016-05-21 21:29:17,62,0,2016-05-21 21:26:14
+Case40,Traer informacion estudiante - banner,res_51c4f3c7-1801-46d6-9365-d1570cda5265,Role 1,2016-05-21 21:29:41,63,0,2016-05-21 21:29:19
+Case35,Radicar Solicitud Homologacion,res_104439db-f35b-49a5-ad59-60dd4d0c7f91,Role 1,2016-05-21 22:11:12,63,0,2016-05-21 22:08:09
+Case36,Radicar Solicitud Homologacion,res_d9dde81b-88d3-4c43-ac66-b39cf0a1c310,Role 1,2016-05-21 22:26:29,63,0,2016-05-21 22:23:26
+Case37,Radicar Solicitud Homologacion,res_10022f9d-ec01-45c9-9360-24aa35dafa01,Role 1,2016-05-21 23:48:23,63,0,2016-05-21 23:45:25
+Case41,Traer informacion estudiante - banner,res_2fdcf948-31f0-4842-ab3e-754bc973e001,Role 1,2016-05-22 00:42:28,64,0,2016-05-22 00:42:04
+Case38,Radicar Solicitud Homologacion,res_2fdcf948-31f0-4842-ab3e-754bc973e001,Role 1,2016-05-22 00:44:32,63,0,2016-05-22 00:38:11
+Case39,Radicar Solicitud Homologacion,res_2d5f786d-73b7-473f-a48f-6064c6e72ecb,Role 1,2016-05-22 01:46:03,64,0,2016-05-22 01:39:48
+Case41,Radicar Solicitud Homologacion,res_a390e1cd-30fe-43f1-bdef-2ef4759f374d,Role 1,2016-05-22 02:28:13,64,0,2016-05-22 02:13:08
+Case40,Radicar Solicitud Homologacion,res_e9295669-b6eb-44ee-8dd8-32dbf4272bd5,Role 1,2016-05-22 02:41:18,64,0,2016-05-22 02:35:09
+Case32,Cancelar Solicitud,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 2,2016-05-22 04:05:00,64,0,2016-05-22 04:04:36
+Case42,Traer informacion estudiante - banner,res_058dca7f-a855-4ebc-9c71-00b3484b7b5f,Role 1,2016-05-22 04:06:43,65,0,2016-05-22 04:06:21
+Case38,Cancelar Solicitud,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-22 04:10:43,65,0,2016-05-22 04:08:42
+Case33,Cancelar Solicitud,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 2,2016-05-22 04:31:21,65,0,2016-05-22 04:30:59
+Case39,Cancelar Solicitud,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-05-22 05:09:44,65,0,2016-05-22 05:07:55
+Case42,Radicar Solicitud Homologacion,res_edec542c-28f5-4711-bc5a-205300ce7c5a,Role 1,2016-05-22 05:50:13,65,0,2016-05-22 05:36:16
+Case41,Cancelar Solicitud,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-22 05:59:14,65,0,2016-05-22 05:53:34
+Case40,Cancelar Solicitud,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 2,2016-05-22 06:02:31,65,0,2016-05-22 06:00:54
+Case35,Validar solicitud,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 2,2016-05-22 06:39:08,65,0,2016-05-22 06:17:36
+Case34,Cancelar Solicitud,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-22 06:39:27,65,0,2016-05-22 06:39:15
+Case36,Cancelar Solicitud,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-22 07:17:42,65,0,2016-05-22 07:17:33
+Case37,Cancelar Solicitud,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-22 08:37:04,65,0,2016-05-22 08:36:59
+Case42,Cancelar Solicitud,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-05-22 09:23:02,65,0,2016-05-22 09:18:52
+Case43,Traer informacion estudiante - banner,res_32d16d16-d7ad-434b-acfb-e51c769b42fb,Role 1,2016-05-22 10:42:49,66,0,2016-05-22 10:42:29
+Case43,Radicar Solicitud Homologacion,res_bc363300-797e-4114-aa34-64fa2a6afc3f,Role 1,2016-05-22 12:23:24,66,0,2016-05-22 12:11:29
+Case35,Recepcion de documentos,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-05-22 12:44:29,66,0,2016-05-22 12:42:09
+Case44,Traer informacion estudiante - banner,res_9416f4d9-6709-4342-a885-31e04a91e87c,Role 1,2016-05-22 14:33:42,67,0,2016-05-22 14:33:23
+Case20,Notificacion estudiante cancelacion soli,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-05-22 14:43:50,67,0,2016-05-22 14:43:50
+Case43,Cancelar Solicitud,res_0199d070-eff2-41d2-ac2e-bc51afa2eea2,Role 2,2016-05-22 15:59:03,66,0,2016-05-22 15:56:54
+Case45,Traer informacion estudiante - banner,res_9f88a3b8-ef61-47bc-9ef6-1cb02b8595d9,Role 1,2016-05-22 16:05:05,67,0,2016-05-22 16:04:46
+Case44,Radicar Solicitud Homologacion,res_9f88a3b8-ef61-47bc-9ef6-1cb02b8595d9,Role 1,2016-05-22 16:12:27,66,0,2016-05-22 16:01:29
+Case45,Radicar Solicitud Homologacion,res_595fe90e-dbc8-44c1-ab9e-a47576962ab5,Role 1,2016-05-22 17:43:42,67,0,2016-05-22 17:33:05
+Case35,Homologacion por grupo de cursos,res_dd440909-b722-4eaf-85d4-a0b9cb894cb1,Role 3,2016-05-22 18:10:25,67,1,2016-05-22 18:07:31
+Case22,Notificacion estudiante cancelacion soli,res_674bf5ee-ae49-4df8-b0a1-5b083dc66e58,Role 2,2016-05-22 18:33:20,67,0,2016-05-22 18:33:20
+Case21,Notificacion estudiante cancelacion soli,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-22 18:38:31,66,0,2016-05-22 18:38:31
+Case44,Cancelar Solicitud,res_3c10a86e-a59e-4471-807d-0daebd3ce83c,Role 2,2016-05-22 19:52:14,65,0,2016-05-22 19:50:51
+Case23,Notificacion estudiante cancelacion soli,res_0199d070-eff2-41d2-ac2e-bc51afa2eea2,Role 2,2016-05-22 20:16:55,65,0,2016-05-22 20:16:55
+Case46,Traer informacion estudiante - banner,res_5b336891-0e93-4f2c-b843-5afc7e7ebabd,Role 1,2016-05-22 20:32:23,65,0,2016-05-22 20:32:04
+Case45,Cancelar Solicitud,res_c665318f-d358-45e6-8539-47f27bbb8cfa,Role 2,2016-05-22 21:24:51,65,0,2016-05-22 21:23:41
+Case47,Traer informacion estudiante - banner,res_5b336891-0e93-4f2c-b843-5afc7e7ebabd,Role 1,2016-05-22 21:26:19,66,0,2016-05-22 21:26:00
+Case46,Radicar Solicitud Homologacion,res_3fdc7eb4-8232-45d3-a997-c12edba06fd4,Role 1,2016-05-22 22:11:25,66,0,2016-05-22 22:01:56
+Case24,Notificacion estudiante cancelacion soli,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-22 22:48:19,66,0,2016-05-22 22:48:19
+Case47,Radicar Solicitud Homologacion,res_9e551be7-cbd3-40e7-9c0f-14d22cfebee4,Role 1,2016-05-22 23:04:22,65,0,2016-05-22 22:54:59
+Case48,Traer informacion estudiante - banner,res_0fe7c3e6-ac15-43e9-97bf-1100c4d7d66a,Role 1,2016-05-22 23:51:36,66,0,2016-05-22 23:51:16
+Case49,Traer informacion estudiante - banner,res_0fe7c3e6-ac15-43e9-97bf-1100c4d7d66a,Role 1,2016-05-23 00:52:11,67,0,2016-05-23 00:52:10
+Case48,Radicar Solicitud Homologacion,res_61b67927-ee40-49bc-9af1-184fae7e423c,Role 1,2016-05-23 01:36:22,67,0,2016-05-23 01:20:16
+Case50,Traer informacion estudiante - banner,res_4ec85aff-8040-4170-b847-e5886819ac0e,Role 1,2016-05-23 01:38:04,68,0,2016-05-23 01:38:02
+Case46,Cancelar Solicitud,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-23 01:47:07,68,0,2016-05-23 01:42:03
+Case49,Radicar Solicitud Homologacion,res_c51f811d-630b-4c9c-9f03-0277e57670bb,Role 1,2016-05-23 02:27:07,68,0,2016-05-23 02:20:17
+Case47,Cancelar Solicitud,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-05-23 02:40:38,68,0,2016-05-23 02:35:53
+Case50,Radicar Solicitud Homologacion,res_a3de499c-a16b-4474-82f7-24af7a5454eb,Role 1,2016-05-23 03:12:00,68,0,2016-05-23 03:05:12
+Case49,Cancelar Solicitud,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-23 03:46:01,68,0,2016-05-23 03:42:40
+Case50,Cancelar Solicitud,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-23 04:30:37,68,0,2016-05-23 04:27:26
+Case51,Traer informacion estudiante - banner,res_bacffb42-a4ea-4229-abb7-3b642a2906ae,Role 1,2016-05-23 04:47:29,69,0,2016-05-23 04:47:26
+Case48,Cancelar Solicitud,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-05-23 05:23:10,69,0,2016-05-23 05:22:18
+Case51,Radicar Solicitud Homologacion,res_7f79745e-f9be-40c8-bcdd-4394cd1dc621,Role 1,2016-05-23 06:20:08,69,0,2016-05-23 06:13:39
+Case51,Cancelar Solicitud,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-23 07:38:00,69,0,2016-05-23 07:35:19
+Case49,Notificacion estudiante cancelacion soli,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-23 09:36:09,69,0,2016-05-23 09:36:01
+Case50,Notificacion estudiante cancelacion soli,res_30bdcab6-dc25-4b7d-bfde-ca6e8f41de18,Role 2,2016-05-23 10:22:55,68,0,2016-05-23 10:22:48
+Case52,Traer informacion estudiante - banner,res_a6279fb8-feb7-46ba-915e-60ce7708ed39,Role 1,2016-05-23 10:23:05,68,0,2016-05-23 10:22:59
+Case53,Traer informacion estudiante - banner,res_e898428f-458d-4470-8f85-003c04097b67,Role 1,2016-05-23 11:43:00,69,0,2016-05-23 11:42:53
+Case52,Radicar Solicitud Homologacion,res_edec542c-28f5-4711-bc5a-205300ce7c5a,Role 1,2016-05-23 11:55:55,69,0,2016-05-23 11:50:13
+Case54,Traer informacion estudiante - banner,res_edec542c-28f5-4711-bc5a-205300ce7c5a,Role 1,2016-05-23 12:55:21,70,0,2016-05-23 12:55:14
+Case52,Cancelar Solicitud,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-23 13:13:09,70,0,2016-05-23 13:11:12
+Case53,Radicar Solicitud Homologacion,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 1,2016-05-23 13:14:50,70,0,2016-05-23 13:09:10
+Case51,Notificacion estudiante cancelacion soli,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-23 13:35:00,70,0,2016-05-23 13:34:55
+Case35,Cancelar curso,res_88381a4a-7d06-4c27-926c-83a08f092ae7,Role 1,2016-05-23 14:14:38,69,0,2016-05-23 14:11:56
+Case54,Radicar Solicitud Homologacion,res_0fe7c3e6-ac15-43e9-97bf-1100c4d7d66a,Role 1,2016-05-23 14:26:08,69,0,2016-05-23 14:20:35
+Case53,Cancelar Solicitud,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-05-23 14:31:40,69,0,2016-05-23 14:29:52
+Case55,Traer informacion estudiante - banner,res_3bb603c8-511c-419b-8854-283831b0fcce,Role 1,2016-05-23 14:35:14,70,0,2016-05-23 14:35:06
+Case56,Traer informacion estudiante - banner,res_5e40b466-b503-4fde-ba36-062825aa3ac8,Role 1,2016-05-23 15:11:36,71,0,2016-05-23 15:11:27
+Case54,Cancelar Solicitud,res_0199d070-eff2-41d2-ac2e-bc51afa2eea2,Role 2,2016-05-23 15:42:56,71,0,2016-05-23 15:41:14
+Case57,Traer informacion estudiante - banner,res_ea33a6bf-5850-4945-985b-f868e05ed872,Role 1,2016-05-23 16:01:10,72,0,2016-05-23 16:01:01
+Case55,Radicar Solicitud Homologacion,res_ea33a6bf-5850-4945-985b-f868e05ed872,Role 1,2016-05-23 16:05:57,71,0,2016-05-23 16:00:28
+Case56,Radicar Solicitud Homologacion,res_1934efe4-afbb-408f-ad1e-55dd7b400d45,Role 1,2016-05-23 16:41:27,72,0,2016-05-23 16:35:54
+Case55,Cancelar Solicitud,res_3c10a86e-a59e-4471-807d-0daebd3ce83c,Role 2,2016-05-23 17:22:16,72,0,2016-05-23 17:20:39
+Case57,Radicar Solicitud Homologacion,res_51c4f3c7-1801-46d6-9365-d1570cda5265,Role 1,2016-05-23 17:30:20,72,0,2016-05-23 17:24:49
+Case56,Cancelar Solicitud,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-05-23 17:57:40,72,0,2016-05-23 17:56:05
+Case58,Traer informacion estudiante - banner,res_d66e12f0-bca0-4347-8c44-c5cd2c759993,Role 1,2016-05-23 18:32:47,73,0,2016-05-23 18:32:36
+Case57,Cancelar Solicitud,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-23 18:46:55,73,0,2016-05-23 18:45:24
+Case52,Notificacion estudiante cancelacion soli,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-23 19:09:47,73,0,2016-05-23 19:09:44
+Case59,Traer informacion estudiante - banner,res_8d8a88bf-6ad3-4212-ba3b-5aa75a54a4ff,Role 1,2016-05-23 19:21:10,73,0,2016-05-23 19:20:59
+Case58,Radicar Solicitud Homologacion,res_ca871a39-c3c7-465c-8ae1-5b5ec160f8cb,Role 1,2016-05-23 20:00:38,73,0,2016-05-23 19:55:15
+Case53,Notificacion estudiante cancelacion soli,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-23 20:30:29,73,0,2016-05-23 20:30:27
+Case60,Traer informacion estudiante - banner,res_9455207f-4168-4304-b105-020ef0864287,Role 1,2016-05-23 20:45:02,73,0,2016-05-23 20:44:50
+Case59,Radicar Solicitud Homologacion,res_9455207f-4168-4304-b105-020ef0864287,Role 1,2016-05-23 20:48:54,72,0,2016-05-23 20:43:38
+Case61,Traer informacion estudiante - banner,res_32263471-47cc-4978-993f-fbab0f5181b3,Role 1,2016-05-23 20:58:17,74,0,2016-05-23 20:58:05
+Case58,Cancelar Solicitud,res_cdb8ea55-314b-495d-81db-a5cddb1b45c7,Role 2,2016-05-23 21:16:25,74,0,2016-05-23 21:15:04
+Case54,Notificacion estudiante cancelacion soli,res_d1b72a36-94be-4742-9093-62842d4f18c9,Role 2,2016-05-23 21:43:31,74,0,2016-05-23 21:43:29
+Case62,Traer informacion estudiante - banner,res_dde7be97-02a2-4c0b-9f5a-7c94d9ad36f3,Role 1,2016-05-23 21:58:40,74,0,2016-05-23 21:58:28
+Case59,Cancelar Solicitud,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-23 22:04:37,74,0,2016-05-23 22:03:20
+Case60,Radicar Solicitud Homologacion,res_22e4c5fb-eb02-4cc5-8c2f-8330f6c32d6e,Role 1,2016-05-23 22:13:00,74,0,2016-05-23 22:07:47
+Case61,Radicar Solicitud Homologacion,res_30d5deea-e17e-4150-a798-b46567b4d0c5,Role 1,2016-05-23 22:25:08,74,0,2016-05-23 22:19:52
+Case62,Radicar Solicitud Homologacion,res_bbbd2b27-2e3b-4ea8-8973-199fa2a92f76,Role 1,2016-05-23 23:25:26,74,0,2016-05-23 23:20:15
+Case60,Cancelar Solicitud,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-23 23:29:02,74,0,2016-05-23 23:27:49
+Case55,Notificacion estudiante cancelacion soli,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-05-23 23:29:19,74,0,2016-05-23 23:29:17
+Case61,Cancelar Solicitud,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-23 23:40:38,73,0,2016-05-23 23:39:26
+Case63,Traer informacion estudiante - banner,res_87b127a8-7bc4-495f-8537-9c0eb9c56af2,Role 1,2016-05-23 23:49:54,74,0,2016-05-23 23:49:41
+Case56,Notificacion estudiante cancelacion soli,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-24 00:07:25,74,0,2016-05-24 00:07:00
+Case64,Traer informacion estudiante - banner,res_7a7bd5d5-5ecb-4399-9dff-583873c3d240,Role 1,2016-05-24 00:41:47,74,0,2016-05-24 00:40:20
+Case62,Cancelar Solicitud,res_7a7bd5d5-5ecb-4399-9dff-583873c3d240,Role 2,2016-05-24 00:44:21,73,0,2016-05-24 00:39:44
+Case65,Traer informacion estudiante - banner,res_9efd533d-7eff-42de-b42b-c2ada7718c52,Role 1,2016-05-24 01:02:14,75,0,2016-05-24 01:00:54
+Case57,Notificacion estudiante cancelacion soli,res_30bdcab6-dc25-4b7d-bfde-ca6e8f41de18,Role 2,2016-05-24 01:02:51,75,0,2016-05-24 01:02:29
+Case63,Radicar Solicitud Homologacion,res_2fa2e4a3-d43d-47d4-ab22-a0230fb40cdb,Role 1,2016-05-24 01:27:10,74,0,2016-05-24 01:11:29
+Case64,Radicar Solicitud Homologacion,res_6807cb54-78bc-4e88-98e4-7c3b1f4dd82b,Role 1,2016-05-24 01:51:50,74,1,2016-05-24 01:26:52
+Case65,Radicar Solicitud Homologacion,res_6807cb54-78bc-4e88-98e4-7c3b1f4dd82b,Role 1,2016-05-24 02:12:28,74,1,2016-05-24 01:47:12
+Case63,Cancelar Solicitud,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-05-24 02:31:58,74,0,2016-05-24 02:22:11
+Case66,Traer informacion estudiante - banner,res_73e113aa-a413-430b-9092-6ef06d054f05,Role 1,2016-05-24 03:20:27,75,0,2016-05-24 03:19:12
+Case58,Notificacion estudiante cancelacion soli,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-24 03:34:11,75,0,2016-05-24 03:33:56
+Case59,Notificacion estudiante cancelacion soli,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-24 04:22:20,74,0,2016-05-24 04:22:08
+Case66,Radicar Solicitud Homologacion,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 1,2016-05-24 04:31:22,74,0,2016-05-24 04:05:25
+Case64,Cancelar Solicitud,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-05-24 05:21:09,73,0,2016-05-24 05:14:55
+Case60,Notificacion estudiante cancelacion soli,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-24 05:51:57,73,0,2016-05-24 05:51:47
+Case65,Cancelar Solicitud,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-24 05:52:42,73,0,2016-05-24 05:46:40
+Case61,Notificacion estudiante cancelacion soli,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-24 06:01:53,72,0,2016-05-24 06:01:45
+Case67,Traer informacion estudiante - banner,res_4bd25357-7cdb-4974-94f1-2a73a38ec405,Role 1,2016-05-24 07:37:44,72,0,2016-05-24 07:36:40
+Case25,Notificacion estudiante cancelacion soli,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-24 07:49:27,72,0,2016-05-24 07:49:27
+Case66,Cancelar Solicitud,res_d1b72a36-94be-4742-9093-62842d4f18c9,Role 2,2016-05-24 08:12:25,71,0,2016-05-24 08:04:35
+Case67,Radicar Solicitud Homologacion,res_b5a1f1f4-e8bf-4bd0-a43b-9d0dd3ecf70c,Role 1,2016-05-24 08:47:37,71,0,2016-05-24 08:25:00
+Case68,Traer informacion estudiante - banner,res_300f4613-1485-4255-a5ed-b52a5048f1cc,Role 1,2016-05-24 10:42:51,72,0,2016-05-24 10:41:52
+Case69,Radicar Solicitud Homologacion,res_d9dde81b-88d3-4c43-ac66-b39cf0a1c310,Role 1,2016-05-24 11:25:35,73,0,2016-05-24 11:24:32
+Case68,Radicar Solicitud Homologacion,res_3c4cbb89-445c-49e5-862e-ceddd304c7eb,Role 1,2016-05-24 11:51:19,73,0,2016-05-24 11:30:07
+Case67,Cancelar Solicitud,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-24 12:15:02,73,0,2016-05-24 12:09:19
+Case69,Cancelar Solicitud,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-24 12:21:38,73,1,2016-05-24 12:10:07
+Case70,Traer informacion estudiante - banner,res_e7a04879-24d2-4d75-b453-8b64b9085b7d,Role 1,2016-05-24 12:58:54,74,0,2016-05-24 12:57:56
+Case48,Notificacion estudiante cancelacion soli,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-05-24 13:20:06,74,0,2016-05-24 13:19:43
+Case26,Notificacion estudiante cancelacion soli,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-24 13:50:04,73,0,2016-05-24 13:50:03
+Case70,Radicar Solicitud Homologacion,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 1,2016-05-24 14:05:00,73,0,2016-05-24 13:44:37
+Case71,Traer informacion estudiante - banner,res_19d7ea87-378b-41ca-acc8-a4b0f9bc1a88,Role 1,2016-05-24 14:16:03,73,0,2016-05-24 14:15:07
+Case32,Notificacion estudiante cancelacion soli,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 2,2016-05-24 14:37:38,73,0,2016-05-24 14:37:36
+Case27,Notificacion estudiante cancelacion soli,res_d1b72a36-94be-4742-9093-62842d4f18c9,Role 2,2016-05-24 14:51:13,72,0,2016-05-24 14:51:13
+Case33,Notificacion estudiante cancelacion soli,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-24 15:01:03,71,0,2016-05-24 15:01:03
+Case72,Traer informacion estudiante - banner,res_509b253c-78a3-411b-8a79-38859dd130b2,Role 1,2016-05-24 15:06:36,71,0,2016-05-24 15:05:42
+Case68,Cancelar Solicitud,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-05-24 15:19:26,71,0,2016-05-24 15:14:50
+Case71,Radicar Solicitud Homologacion,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 1,2016-05-24 15:21:53,70,0,2016-05-24 15:02:32
+Case28,Notificacion estudiante cancelacion soli,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-05-24 15:39:27,71,0,2016-05-24 15:39:27
+Case72,Radicar Solicitud Homologacion,res_fc40fe4f-b94d-4c9d-af1d-782c3dcf76e0,Role 1,2016-05-24 16:13:23,70,0,2016-05-24 15:54:45
+Case73,Traer informacion estudiante - banner,res_935773a3-64bf-46c8-8593-645d37ad2fd9,Role 1,2016-05-24 16:40:32,71,0,2016-05-24 16:39:40
+Case34,Notificacion estudiante cancelacion soli,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-05-24 17:08:19,71,0,2016-05-24 17:08:19
+Case74,Traer informacion estudiante - banner,res_509b253c-78a3-411b-8a79-38859dd130b2,Role 1,2016-05-24 17:27:21,71,0,2016-05-24 17:26:29
+Case70,Cancelar Solicitud,res_30bdcab6-dc25-4b7d-bfde-ca6e8f41de18,Role 2,2016-05-24 17:37:52,71,0,2016-05-24 17:34:00
+Case62,Notificacion estudiante cancelacion soli,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-24 17:43:16,71,0,2016-05-24 17:42:52
+Case73,Radicar Solicitud Homologacion,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 1,2016-05-24 17:46:39,71,0,2016-05-24 17:28:35
+Case36,Notificacion estudiante cancelacion soli,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-24 17:53:54,70,0,2016-05-24 17:53:54
+Case38,Notificacion estudiante cancelacion soli,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 2,2016-05-24 18:19:11,69,0,2016-05-24 18:18:47
+Case74,Radicar Solicitud Homologacion,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 1,2016-05-24 18:32:58,69,0,2016-05-24 18:15:24
+Case71,Cancelar Solicitud,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-05-24 18:50:02,68,0,2016-05-24 18:46:45
+Case75,Traer informacion estudiante - banner,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 1,2016-05-24 18:50:58,69,0,2016-05-24 18:50:08
+Case73,Validar solicitud,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-05-24 19:29:40,69,0,2016-05-24 18:50:13
+Case39,Notificacion estudiante cancelacion soli,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-05-24 19:30:47,69,0,2016-05-24 19:30:31
+Case37,Notificacion estudiante cancelacion soli,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-24 19:35:50,68,0,2016-05-24 19:35:50
+Case72,Cancelar Solicitud,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-24 19:36:12,68,0,2016-05-24 19:33:07
+Case75,Radicar Solicitud Homologacion,res_331d4136-1e4e-4ea8-8a3b-0c5dff7718a0,Role 1,2016-05-24 19:56:23,67,0,2016-05-24 19:39:49
+Case76,Traer informacion estudiante - banner,res_5405d6d5-5819-4a98-964a-b5c645071c72,Role 1,2016-05-24 20:19:31,68,0,2016-05-24 20:18:42
+Case40,Notificacion estudiante cancelacion soli,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-24 20:36:11,68,0,2016-05-24 20:36:03
+Case76,Radicar Solicitud Homologacion,res_104439db-f35b-49a5-ad59-60dd4d0c7f91,Role 1,2016-05-24 21:25:53,67,0,2016-05-24 21:10:01
+Case77,Traer informacion estudiante - banner,res_77a716f6-3095-4ccf-82bc-7bf497279f54,Role 1,2016-05-24 21:33:51,68,0,2016-05-24 21:33:03
+Case74,Cancelar Solicitud,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-24 21:51:31,68,0,2016-05-24 21:48:59
+Case77,Radicar Solicitud Homologacion,res_7f79745e-f9be-40c8-bcdd-4394cd1dc621,Role 1,2016-05-24 22:39:50,68,0,2016-05-24 22:24:21
+Case78,Traer informacion estudiante - banner,res_07db7329-7e4b-4baa-bc05-d2864c645efe,Role 1,2016-05-24 22:46:41,69,0,2016-05-24 22:45:53
+Case75,Cancelar Solicitud,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-24 22:59:37,69,0,2016-05-24 22:57:22
+Case79,Traer informacion estudiante - banner,res_98cbd353-8a08-443f-b913-8156afa3fcc4,Role 1,2016-05-24 23:30:57,70,0,2016-05-24 23:30:09
+Case78,Radicar Solicitud Homologacion,res_a3de499c-a16b-4474-82f7-24af7a5454eb,Role 1,2016-05-24 23:51:41,70,0,2016-05-24 23:36:21
+Case80,Traer informacion estudiante - banner,res_b76120ce-a553-4566-9313-aa3faf90ac5d,Role 1,2016-05-25 00:34:02,71,0,2016-05-25 00:33:50
+Case79,Radicar Solicitud Homologacion,res_b76120ce-a553-4566-9313-aa3faf90ac5d,Role 1,2016-05-25 00:34:55,70,0,2016-05-25 00:19:48
+Case76,Cancelar Solicitud,res_b76120ce-a553-4566-9313-aa3faf90ac5d,Role 2,2016-05-25 00:35:06,70,0,2016-05-25 00:32:08
+Case69,Notificacion estudiante cancelacion soli,res_8c1a398e-1f3e-47b3-9bb3-19511aac6b88,Role 2,2016-05-25 01:03:25,71,0,2016-05-25 01:02:59
+Case73,Recepcion de documentos,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-25 01:47:38,70,0,2016-05-25 01:42:04
+Case77,Cancelar Solicitud,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-25 01:49:47,70,0,2016-05-25 01:46:52
+Case29,Notificacion estudiante cancelacion soli,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-05-25 01:52:53,70,0,2016-05-25 01:52:53
+Case80,Radicar Solicitud Homologacion,res_24c87bbc-89fb-4a61-84be-006eb85ce656,Role 1,2016-05-25 02:11:47,69,0,2016-05-25 02:07:13
+Case79,Cancelar Solicitud,res_cdb8ea55-314b-495d-81db-a5cddb1b45c7,Role 2,2016-05-25 02:22:50,69,0,2016-05-25 02:22:13
+Case78,Cancelar Solicitud,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-25 03:05:53,69,0,2016-05-25 03:03:17
+Case80,Cancelar Solicitud,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 2,2016-05-25 03:14:22,69,0,2016-05-25 03:13:02
+Case81,Traer informacion estudiante - banner,res_5405d6d5-5819-4a98-964a-b5c645071c72,Role 1,2016-05-25 03:31:23,70,0,2016-05-25 03:31:13
+Case82,Traer informacion estudiante - banner,res_058dca7f-a855-4ebc-9c71-00b3484b7b5f,Role 1,2016-05-25 04:34:17,71,0,2016-05-25 04:34:06
+Case30,Notificacion estudiante cancelacion soli,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 2,2016-05-25 05:08:59,71,0,2016-05-25 05:08:59
+Case81,Radicar Solicitud Homologacion,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 1,2016-05-25 05:11:58,71,0,2016-05-25 05:07:39
+Case83,Traer informacion estudiante - banner,res_7a7bd5d5-5ecb-4399-9dff-583873c3d240,Role 1,2016-05-25 05:33:48,71,0,2016-05-25 05:33:37
+Case82,Radicar Solicitud Homologacion,res_21aed473-483a-446d-b34f-3ca3520d4591,Role 1,2016-05-25 06:13:36,71,0,2016-05-25 06:09:21
+Case81,Cancelar Solicitud,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-05-25 06:15:52,71,0,2016-05-25 06:14:47
+Case73,Homologacion por grupo de cursos,res_32deeb3d-1624-4dc5-b456-a235c33e9f6b,Role 3,2016-05-25 06:29:04,71,1,2016-05-25 06:28:38
+Case84,Traer informacion estudiante - banner,res_de035625-7c52-4c68-b820-25d6d1523f53,Role 1,2016-05-25 06:42:42,72,0,2016-05-25 06:42:31
+Case83,Radicar Solicitud Homologacion,res_462e9258-90d7-4366-9087-5d2e62501414,Role 1,2016-05-25 07:13:03,72,0,2016-05-25 07:08:52
+Case82,Cancelar Solicitud,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-25 07:15:28,72,0,2016-05-25 07:14:28
+Case31,Notificacion estudiante cancelacion soli,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-25 07:19:41,72,0,2016-05-25 07:19:41
+Case83,Cancelar Solicitud,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-25 08:13:52,71,0,2016-05-25 08:12:56
+Case84,Radicar Solicitud Homologacion,res_1afd3229-1673-498d-8385-2ae41b36f32a,Role 1,2016-05-25 08:20:40,71,0,2016-05-25 08:16:35
+Case85,Traer informacion estudiante - banner,res_4ad28584-97c6-4614-8cd5-a1014630a301,Role 1,2016-05-25 09:21:01,72,0,2016-05-25 09:20:49
+Case84,Cancelar Solicitud,res_4ad28584-97c6-4614-8cd5-a1014630a301,Role 2,2016-05-25 09:21:28,71,0,2016-05-25 09:20:37
+Case73,Cancelar curso,res_5f38d92b-7790-4c4b-9b1e-f79483bc91fa,Role 1,2016-05-25 10:11:40,72,0,2016-05-25 10:11:05
+Case80,Notificacion estudiante cancelacion soli,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-25 10:30:06,72,0,2016-05-25 10:30:06
+Case85,Radicar Solicitud Homologacion,res_c0d6e809-96ed-41f4-9d15-114ad728f905,Role 1,2016-05-25 10:56:34,71,0,2016-05-25 10:52:48
+Case85,Cancelar Solicitud,res_d1b72a36-94be-4742-9093-62842d4f18c9,Role 2,2016-05-25 11:55:10,71,0,2016-05-25 11:54:29
+Case86,Traer informacion estudiante - banner,res_5b0d39a1-a032-48e0-bc50-4489de1653d8,Role 1,2016-05-25 12:43:46,72,0,2016-05-25 12:43:33
+Case87,Traer informacion estudiante - banner,res_9f88a3b8-ef61-47bc-9ef6-1cb02b8595d9,Role 1,2016-05-25 13:16:21,73,0,2016-05-25 13:16:07
+Case81,Notificacion estudiante cancelacion soli,res_19d05a86-8c05-44fc-8de9-9427fd65df5a,Role 2,2016-05-25 13:33:57,73,0,2016-05-25 13:33:57
+Case86,Radicar Solicitud Homologacion,res_44e2a50d-a65a-4382-9751-9b64373bcc98,Role 1,2016-05-25 14:21:18,72,0,2016-05-25 14:17:39
+Case82,Notificacion estudiante cancelacion soli,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-05-25 14:34:03,72,0,2016-05-25 14:34:03
+Case87,Radicar Solicitud Homologacion,res_f88a8f91-0426-4c05-a221-487e35361500,Role 1,2016-05-25 14:52:41,71,0,2016-05-25 14:49:03
+Case86,Cancelar Solicitud,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-25 15:20:49,71,0,2016-05-25 15:20:16
+Case88,Traer informacion estudiante - banner,res_392b5852-7f2d-4909-89f3-fdaf9eed1bde,Role 1,2016-05-25 15:25:04,72,0,2016-05-25 15:24:49
+Case83,Notificacion estudiante cancelacion soli,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-05-25 15:34:38,72,0,2016-05-25 15:34:38
+Case87,Cancelar Solicitud,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-25 15:52:15,71,0,2016-05-25 15:51:43
+Case89,Traer informacion estudiante - banner,res_74151820-277f-4d73-b802-7bedf2899340,Role 1,2016-05-25 16:16:47,72,0,2016-05-25 16:16:32
+Case84,Notificacion estudiante cancelacion soli,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 2,2016-05-25 16:42:15,72,0,2016-05-25 16:42:15
+Case88,Radicar Solicitud Homologacion,res_947cbcee-2ecd-45cb-8602-e5911b7636b1,Role 1,2016-05-25 17:02:25,71,0,2016-05-25 16:58:57
+Case90,Traer informacion estudiante - banner,res_ac4fc0ff-9c5f-453f-b95d-3502c1833a94,Role 1,2016-05-25 17:27:46,72,0,2016-05-25 17:27:30
+Case89,Radicar Solicitud Homologacion,res_be9039ea-b880-44ba-a6b0-0286c47d6bec,Role 1,2016-05-25 17:54:07,72,0,2016-05-25 17:50:40
+Case88,Cancelar Solicitud,res_674bf5ee-ae49-4df8-b0a1-5b083dc66e58,Role 2,2016-05-25 18:02:50,72,0,2016-05-25 18:02:22
+Case73,Notificacion estudiante cancelacion soli,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-25 18:34:16,72,0,2016-05-25 18:33:52
+Case91,Traer informacion estudiante - banner,res_61f60cf5-ec9f-4157-8edb-055892ed3cb3,Role 1,2016-05-25 18:43:33,72,0,2016-05-25 18:43:17
+Case89,Cancelar Solicitud,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-05-25 18:53:32,72,0,2016-05-25 18:53:05
+Case90,Radicar Solicitud Homologacion,res_53e8273b-2f76-4abf-9ace-4915092cea50,Role 1,2016-05-25 19:05:03,72,0,2016-05-25 19:01:39
+Case85,Notificacion estudiante cancelacion soli,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-05-25 19:05:08,72,0,2016-05-25 19:05:08
+Case92,Traer informacion estudiante - banner,res_c4803a71-7f08-4740-8127-f81a263a3da8,Role 1,2016-05-25 19:28:08,72,0,2016-05-25 19:27:51
+Case90,Cancelar Solicitud,res_674bf5ee-ae49-4df8-b0a1-5b083dc66e58,Role 2,2016-05-25 20:04:26,72,0,2016-05-25 20:04:01
+Case91,Radicar Solicitud Homologacion,res_cf653cfe-8d4e-4400-9446-615f68d256ed,Role 1,2016-05-25 20:20:47,72,0,2016-05-25 20:17:26
+Case93,Traer informacion estudiante - banner,res_f08c9c83-d2c4-434b-a519-4ee8347bba78,Role 1,2016-05-25 20:27:35,73,0,2016-05-25 20:27:18
+Case94,Traer informacion estudiante - banner,res_411926aa-3a3e-4d6c-a0b0-2729bb852f1d,Role 1,2016-05-25 20:32:46,74,0,2016-05-25 20:32:28
+Case92,Radicar Solicitud Homologacion,res_f88a8f91-0426-4c05-a221-487e35361500,Role 1,2016-05-25 21:05:23,74,0,2016-05-25 21:02:01
+Case91,Validar solicitud,res_19d05a86-8c05-44fc-8de9-9427fd65df5a,Role 2,2016-05-25 21:28:22,74,0,2016-05-25 21:10:12
+Case95,Traer informacion estudiante - banner,res_f7783968-0321-4b52-8916-76fbd7ddd829,Role 1,2016-05-25 21:32:08,75,0,2016-05-25 21:31:50
+Case96,Traer informacion estudiante - banner,res_03e964ef-c5ea-47e4-a888-54a3e588c078,Role 1,2016-05-25 21:43:33,76,0,2016-05-25 21:43:14
+Case91,Recepcion de documentos,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-25 21:55:54,76,0,2016-05-25 21:55:20
+Case91,Homologacion por grupo de cursos,res_2f62150e-aff6-4aeb-bb4b-e3e7698c722f,Role 3,2016-05-25 21:57:42,76,1,2016-05-25 21:57:23
+Case91,Cancelar curso,res_8216f7d6-9693-497d-beb8-7c7584164e3a,Role 1,2016-05-25 21:57:47,76,0,2016-05-25 21:57:46
+Case91,Notificacion estudiante cancelacion soli,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-25 21:57:51,76,0,2016-05-25 21:57:51
+Case92,Cancelar Solicitud,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-25 22:02:49,75,0,2016-05-25 22:02:25
+Case93,Radicar Solicitud Homologacion,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 1,2016-05-25 22:03:40,75,0,2016-05-25 22:00:17
+Case94,Radicar Solicitud Homologacion,res_15e2ef88-df94-403d-9b8a-b70441815a4f,Role 1,2016-05-25 22:07:44,75,0,2016-05-25 22:04:19
+Case97,Traer informacion estudiante - banner,res_d84bc698-a8d4-4f21-8974-71e653493d2f,Role 1,2016-05-25 22:09:28,76,0,2016-05-25 22:09:09
+Case86,Notificacion estudiante cancelacion soli,res_674bf5ee-ae49-4df8-b0a1-5b083dc66e58,Role 2,2016-05-25 22:43:47,76,0,2016-05-25 22:43:47
+Case93,Cancelar Solicitud,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-25 22:59:15,75,0,2016-05-25 22:58:52
+Case94,Cancelar Solicitud,res_0199d070-eff2-41d2-ac2e-bc51afa2eea2,Role 2,2016-05-25 23:02:26,75,0,2016-05-25 23:02:04
+Case95,Radicar Solicitud Homologacion,res_14efd41d-2559-4eee-8e4f-60fa8a5665c0,Role 1,2016-05-25 23:05:57,75,0,2016-05-25 23:02:32
+Case98,Traer informacion estudiante - banner,res_3c4cbb89-445c-49e5-862e-ceddd304c7eb,Role 1,2016-05-25 23:14:15,76,0,2016-05-25 23:13:56
+Case96,Radicar Solicitud Homologacion,res_3c4cbb89-445c-49e5-862e-ceddd304c7eb,Role 1,2016-05-25 23:16:15,75,0,2016-05-25 23:12:49
+Case87,Notificacion estudiante cancelacion soli,res_cdb8ea55-314b-495d-81db-a5cddb1b45c7,Role 2,2016-05-25 23:17:08,76,0,2016-05-25 23:17:08
+Case41,Notificacion estudiante cancelacion soli,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 2,2016-05-25 23:36:56,75,0,2016-05-25 23:36:08
+Case97,Radicar Solicitud Homologacion,res_4bd25357-7cdb-4974-94f1-2a73a38ec405,Role 1,2016-05-25 23:42:09,74,0,2016-05-25 23:38:44
+Case79,Notificacion estudiante cancelacion soli,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-25 23:50:03,74,0,2016-05-25 23:50:03
+Case95,Cancelar Solicitud,res_19d05a86-8c05-44fc-8de9-9427fd65df5a,Role 2,2016-05-25 23:59:48,73,0,2016-05-25 23:59:26
+Case96,Cancelar Solicitud,res_30bdcab6-dc25-4b7d-bfde-ca6e8f41de18,Role 2,2016-05-26 00:08:59,73,0,2016-05-26 00:07:58
+Case99,Traer informacion estudiante - banner,res_dcf1df80-bd95-45ef-aee1-b5955da7bc11,Role 1,2016-05-26 00:29:35,74,0,2016-05-26 00:28:46
+Case97,Cancelar Solicitud,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-26 00:36:40,74,0,2016-05-26 00:35:42
+Case98,Radicar Solicitud Homologacion,res_4ec85aff-8040-4170-b847-e5886819ac0e,Role 1,2016-05-26 00:50:40,74,0,2016-05-26 00:43:45
+Case88,Notificacion estudiante cancelacion soli,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-26 01:23:37,74,0,2016-05-26 01:23:37
+Case100,Traer informacion estudiante - banner,res_5e40b466-b503-4fde-ba36-062825aa3ac8,Role 1,2016-05-26 01:38:12,74,0,2016-05-26 01:37:26
+Case89,Notificacion estudiante cancelacion soli,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-26 02:14:37,74,0,2016-05-26 02:14:37
+Case98,Cancelar Solicitud,res_3c10a86e-a59e-4471-807d-0daebd3ce83c,Role 2,2016-05-26 02:48:20,73,0,2016-05-26 02:45:45
+Case90,Notificacion estudiante cancelacion soli,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-05-26 03:25:31,73,0,2016-05-26 03:25:31
+Case42,Notificacion estudiante cancelacion soli,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-26 03:30:35,72,0,2016-05-26 03:28:23
+Case92,Notificacion estudiante cancelacion soli,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-26 05:20:48,71,0,2016-05-26 05:20:48
+Case46,Notificacion estudiante cancelacion soli,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-26 05:23:36,70,0,2016-05-26 05:23:36
+Case99,Radicar Solicitud Homologacion,res_619488ea-5dee-42cd-a347-9242d6c21d8b,Role 1,2016-05-26 05:59:51,69,0,2016-05-26 05:47:24
+Case93,Notificacion estudiante cancelacion soli,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-05-26 06:18:07,69,0,2016-05-26 06:18:07
+Case47,Notificacion estudiante cancelacion soli,res_674bf5ee-ae49-4df8-b0a1-5b083dc66e58,Role 2,2016-05-26 06:22:28,68,0,2016-05-26 06:22:28
+Case94,Notificacion estudiante cancelacion soli,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-26 06:23:36,67,0,2016-05-26 06:23:36
+Case101,Traer informacion estudiante - banner,res_05805556-d87b-44b1-b7c6-bc5351d232d4,Role 1,2016-05-26 06:29:56,67,0,2016-05-26 06:29:22
+Case100,Radicar Solicitud Homologacion,res_e898428f-458d-4470-8f85-003c04097b67,Role 1,2016-05-26 07:07:56,67,0,2016-05-26 06:56:01
+Case95,Notificacion estudiante cancelacion soli,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-05-26 07:26:56,67,0,2016-05-26 07:26:56
+Case96,Notificacion estudiante cancelacion soli,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-26 10:06:05,66,0,2016-05-26 10:06:05
+Case97,Notificacion estudiante cancelacion soli,res_674bf5ee-ae49-4df8-b0a1-5b083dc66e58,Role 2,2016-05-26 10:31:22,65,0,2016-05-26 10:31:22
+Case43,Notificacion estudiante cancelacion soli,res_19d05a86-8c05-44fc-8de9-9427fd65df5a,Role 2,2016-05-26 10:59:18,64,0,2016-05-26 10:58:35
+Case101,Radicar Solicitud Homologacion,res_51c4f3c7-1801-46d6-9365-d1570cda5265,Role 1,2016-05-26 12:26:02,63,0,2016-05-26 12:16:31
+Case102,Traer informacion estudiante - banner,res_def079a5-e531-4069-bee8-b73686506496,Role 1,2016-05-26 13:45:00,64,0,2016-05-26 13:44:33
+Case103,Traer informacion estudiante - banner,res_9efd533d-7eff-42de-b42b-c2ada7718c52,Role 1,2016-05-26 14:34:21,65,0,2016-05-26 14:33:54
+Case63,Notificacion estudiante cancelacion soli,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-26 14:37:11,65,0,2016-05-26 14:36:46
+Case99,Cancelar Solicitud,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-26 14:38:03,65,0,2016-05-26 14:34:56
+Case44,Notificacion estudiante cancelacion soli,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-05-26 15:26:23,64,0,2016-05-26 15:26:03
+Case104,Traer informacion estudiante - banner,res_947cbcee-2ecd-45cb-8602-e5911b7636b1,Role 1,2016-05-26 15:36:59,64,0,2016-05-26 15:36:33
+Case98,Notificacion estudiante cancelacion soli,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-05-26 15:43:14,64,0,2016-05-26 15:43:14
+Case100,Cancelar Solicitud,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 2,2016-05-26 15:59:37,63,0,2016-05-26 15:56:53
+Case105,Traer informacion estudiante - banner,res_61b67927-ee40-49bc-9af1-184fae7e423c,Role 1,2016-05-26 16:33:49,64,0,2016-05-26 16:33:23
+Case45,Notificacion estudiante cancelacion soli,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-26 17:14:58,64,0,2016-05-26 17:14:44
+Case106,Traer informacion estudiante - banner,res_37ecaef7-6bfd-480b-b9aa-9bb4093b021d,Role 1,2016-05-26 18:27:01,64,0,2016-05-26 18:26:36
+Case107,Traer informacion estudiante - banner,res_1934efe4-afbb-408f-ad1e-55dd7b400d45,Role 1,2016-05-26 19:17:26,65,0,2016-05-26 19:17:00
+Case102,Radicar Solicitud Homologacion,res_5b0d39a1-a032-48e0-bc50-4489de1653d8,Role 1,2016-05-26 19:52:16,65,0,2016-05-26 19:44:30
+Case103,Radicar Solicitud Homologacion,res_ca871a39-c3c7-465c-8ae1-5b5ec160f8cb,Role 1,2016-05-26 20:37:12,65,0,2016-05-26 20:29:30
+Case108,Traer informacion estudiante - banner,res_73fbd9bf-5ac9-4777-b54e-28ae380255e3,Role 1,2016-05-26 21:34:17,66,0,2016-05-26 21:33:51
+Case104,Radicar Solicitud Homologacion,res_9416f4d9-6709-4342-a885-31e04a91e87c,Role 1,2016-05-26 21:43:59,66,0,2016-05-26 21:36:29
+Case109,Traer informacion estudiante - banner,res_5717d2dd-11b0-4894-a17e-f0c9fe8ec827,Role 1,2016-05-26 22:12:54,67,0,2016-05-26 22:12:28
+Case105,Radicar Solicitud Homologacion,res_426cc7db-e5d8-4c9f-90a8-c7787e2b1903,Role 1,2016-05-26 22:40:41,67,0,2016-05-26 22:33:19
+Case101,Cancelar Solicitud,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-05-26 22:47:23,67,0,2016-05-26 22:45:47
+Case110,Traer informacion estudiante - banner,res_066f78e2-6846-48d0-9977-a5ef0f91837d,Role 1,2016-05-26 23:06:03,68,0,2016-05-26 23:05:36
+Case106,Radicar Solicitud Homologacion,res_cc18262f-6d23-48e5-8a20-50b6eef7712a,Role 1,2016-05-27 00:36:19,68,0,2016-05-27 00:26:31
+Case111,Traer informacion estudiante - banner,res_4cf1ad09-26f8-4b91-9c45-19140c232e60,Role 1,2016-05-27 01:07:55,69,0,2016-05-27 01:06:47
+Case107,Radicar Solicitud Homologacion,res_98b9280c-17bb-4ca9-9fef-2540a83255ec,Role 1,2016-05-27 01:22:17,69,0,2016-05-27 01:12:35
+Case111,Radicar Solicitud Homologacion,res_e9295669-b6eb-44ee-8dd8-32dbf4272bd5,Role 1,2016-05-27 03:31:26,69,0,2016-05-27 03:18:38
+Case108,Radicar Solicitud Homologacion,res_e9295669-b6eb-44ee-8dd8-32dbf4272bd5,Role 1,2016-05-27 03:33:15,69,1,2016-05-27 03:25:08
+Case109,Radicar Solicitud Homologacion,res_462e9258-90d7-4366-9087-5d2e62501414,Role 1,2016-05-27 04:08:33,69,0,2016-05-27 03:59:29
+Case35,Notificacion estudiante cancelacion soli,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-27 04:17:44,69,0,2016-05-27 04:17:20
+Case106,Cancelar Solicitud,res_0199d070-eff2-41d2-ac2e-bc51afa2eea2,Role 2,2016-05-27 04:44:48,68,0,2016-05-27 04:41:48
+Case112,Traer informacion estudiante - banner,res_7f091bab-052f-44a0-a663-b27a08ba792b,Role 1,2016-05-27 04:56:16,69,0,2016-05-27 04:55:14
+Case110,Radicar Solicitud Homologacion,res_7f091bab-052f-44a0-a663-b27a08ba792b,Role 1,2016-05-27 04:57:17,68,0,2016-05-27 04:48:24
+Case107,Cancelar Solicitud,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-05-27 05:21:17,69,0,2016-05-27 05:18:24
+Case111,Cancelar Solicitud,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-05-27 05:57:08,69,0,2016-05-27 05:53:45
+Case102,Cancelar Solicitud,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-05-27 06:25:58,69,0,2016-05-27 06:24:23
+Case103,Cancelar Solicitud,res_8c1a398e-1f3e-47b3-9bb3-19511aac6b88,Role 2,2016-05-27 07:01:30,69,0,2016-05-27 07:00:02
+Case112,Radicar Solicitud Homologacion,res_88381a4a-7d06-4c27-926c-83a08f092ae7,Role 1,2016-05-27 07:18:56,69,0,2016-05-27 07:07:24
+Case108,Cancelar Solicitud,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-27 07:26:03,69,0,2016-05-27 07:24:27
+Case109,Cancelar Solicitud,res_cdb8ea55-314b-495d-81db-a5cddb1b45c7,Role 2,2016-05-27 07:57:11,69,0,2016-05-27 07:54:54
+Case104,Cancelar Solicitud,res_c665318f-d358-45e6-8539-47f27bbb8cfa,Role 2,2016-05-27 08:09:42,69,0,2016-05-27 08:08:23
+Case76,Notificacion estudiante cancelacion soli,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-27 08:24:07,69,0,2016-05-27 08:24:07
+Case110,Cancelar Solicitud,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-27 08:40:56,68,0,2016-05-27 08:38:51
+Case113,Radicar Solicitud Homologacion,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 1,2016-05-27 08:57:51,69,0,2016-05-27 08:56:52
+Case105,Cancelar Solicitud,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-05-27 08:58:36,69,0,2016-05-27 08:57:24
+Case112,Cancelar Solicitud,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-27 09:44:34,69,0,2016-05-27 09:42:02
+Case77,Notificacion estudiante cancelacion soli,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-27 09:49:30,69,0,2016-05-27 09:49:30
+Case114,Traer informacion estudiante - banner,res_03e964ef-c5ea-47e4-a888-54a3e588c078,Role 1,2016-05-27 10:24:42,69,0,2016-05-27 10:23:47
+Case115,Traer informacion estudiante - banner,res_467f20cb-bc7a-4637-aeb2-32430485a3c7,Role 1,2016-05-27 11:07:06,70,0,2016-05-27 11:06:12
+Case78,Notificacion estudiante cancelacion soli,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-27 11:42:19,70,0,2016-05-27 11:42:19
+Case113,Cancelar Solicitud,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-27 11:48:00,70,0,2016-05-27 11:42:01
+Case116,Traer informacion estudiante - banner,res_087db2a1-2419-40c7-b53c-e5d1ce30ea73,Role 1,2016-05-27 12:34:56,70,0,2016-05-27 12:34:03
+Case114,Radicar Solicitud Homologacion,res_8216f7d6-9693-497d-beb8-7c7584164e3a,Role 1,2016-05-27 12:45:26,70,0,2016-05-27 12:35:25
+Case115,Radicar Solicitud Homologacion,res_9f6e6196-2b5c-4703-9b4c-56fa2796c51a,Role 1,2016-05-27 13:25:47,70,0,2016-05-27 13:15:53
+Case116,Radicar Solicitud Homologacion,res_fc4544e1-556b-45ca-81e8-97ae38a7a57d,Role 1,2016-05-27 14:53:13,70,0,2016-05-27 14:43:43
+Case117,Traer informacion estudiante - banner,res_fc4544e1-556b-45ca-81e8-97ae38a7a57d,Role 1,2016-05-27 14:53:49,71,0,2016-05-27 14:52:58
+Case114,Cancelar Solicitud,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-05-27 15:06:35,71,0,2016-05-27 15:04:56
+Case115,Cancelar Solicitud,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-05-27 15:45:13,71,0,2016-05-27 15:43:40
+Case118,Traer informacion estudiante - banner,res_44e2a50d-a65a-4382-9751-9b64373bcc98,Role 1,2016-05-27 15:52:49,72,0,2016-05-27 15:51:58
+Case119,Traer informacion estudiante - banner,res_44e2a50d-a65a-4382-9751-9b64373bcc98,Role 1,2016-05-27 16:35:14,73,0,2016-05-27 16:34:23
+Case117,Radicar Solicitud Homologacion,res_3c10a86e-a59e-4471-807d-0daebd3ce83c,Role 1,2016-05-27 17:09:48,73,0,2016-05-27 17:00:42
+Case116,Cancelar Solicitud,res_3c10a86e-a59e-4471-807d-0daebd3ce83c,Role 2,2016-05-27 17:11:08,73,0,2016-05-27 17:09:45
+Case113,Notificacion estudiante cancelacion soli,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-05-27 17:30:37,73,0,2016-05-27 17:30:08
+Case99,Notificacion estudiante cancelacion soli,res_8c1a398e-1f3e-47b3-9bb3-19511aac6b88,Role 2,2016-05-27 17:46:44,72,0,2016-05-27 17:46:44
+Case118,Radicar Solicitud Homologacion,res_2213fc29-252c-438c-9001-13c656bd72f6,Role 1,2016-05-27 18:06:40,71,0,2016-05-27 17:57:48
+Case120,Traer informacion estudiante - banner,res_b54635ae-2923-46b3-b809-9af0a2f11fa7,Role 1,2016-05-27 18:07:51,72,0,2016-05-27 18:07:02
+Case119,Radicar Solicitud Homologacion,res_edec542c-28f5-4711-bc5a-205300ce7c5a,Role 1,2016-05-27 18:47:10,72,0,2016-05-27 18:38:22
+Case117,Cancelar Solicitud,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-27 19:14:27,72,0,2016-05-27 19:13:19
+Case100,Notificacion estudiante cancelacion soli,res_0199d070-eff2-41d2-ac2e-bc51afa2eea2,Role 2,2016-05-27 19:50:14,72,0,2016-05-27 19:50:14
+Case121,Traer informacion estudiante - banner,res_58f82224-e155-4fde-bef6-7979d5b412f3,Role 1,2016-05-27 20:03:29,72,0,2016-05-27 20:02:42
+Case118,Cancelar Solicitud,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-27 20:20:22,72,0,2016-05-27 20:19:23
+Case120,Radicar Solicitud Homologacion,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 1,2016-05-27 20:21:13,72,0,2016-05-27 20:12:50
+Case119,Cancelar Solicitud,res_d1b72a36-94be-4742-9093-62842d4f18c9,Role 2,2016-05-27 20:57:19,72,0,2016-05-27 20:56:24
+Case122,Traer informacion estudiante - banner,res_d20a6025-6a66-493f-8cda-ef61e327dbb6,Role 1,2016-05-27 22:12:35,73,0,2016-05-27 22:11:48
+Case121,Radicar Solicitud Homologacion,res_d20a6025-6a66-493f-8cda-ef61e327dbb6,Role 1,2016-05-27 22:16:25,72,0,2016-05-27 22:08:28
+Case120,Cancelar Solicitud,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-05-27 22:32:42,73,0,2016-05-27 22:31:56
+Case123,Traer informacion estudiante - banner,res_289d8f9a-9942-4fb4-a2da-43311c8a4573,Role 1,2016-05-27 23:25:32,74,0,2016-05-27 23:24:46
+Case122,Radicar Solicitud Homologacion,res_24102f9a-5522-4655-95d4-80921c13e9f8,Role 1,2016-05-28 00:25:02,74,0,2016-05-28 00:16:06
+Case121,Cancelar Solicitud,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-28 00:25:55,74,0,2016-05-28 00:25:10
+Case124,Traer informacion estudiante - banner,res_5717d2dd-11b0-4894-a17e-f0c9fe8ec827,Role 1,2016-05-28 00:33:33,75,0,2016-05-28 00:33:06
+Case123,Radicar Solicitud Homologacion,res_80a33b28-e607-4bc7-9490-9e85f66505a3,Role 1,2016-05-28 01:35:35,75,0,2016-05-28 01:26:49
+Case102,Notificacion estudiante cancelacion soli,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-05-28 01:54:46,75,0,2016-05-28 01:54:46
+Case125,Traer informacion estudiante - banner,res_619488ea-5dee-42cd-a347-9242d6c21d8b,Role 1,2016-05-28 02:08:39,75,0,2016-05-28 02:08:13
+Case103,Notificacion estudiante cancelacion soli,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-05-28 02:25:18,75,0,2016-05-28 02:25:18
+Case104,Notificacion estudiante cancelacion soli,res_8c1a398e-1f3e-47b3-9bb3-19511aac6b88,Role 2,2016-05-28 03:30:05,74,0,2016-05-28 03:30:05
+Case122,Cancelar Solicitud,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-28 03:43:07,73,0,2016-05-28 03:42:46
+Case101,Notificacion estudiante cancelacion soli,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-28 03:55:31,73,0,2016-05-28 03:55:31
+Case105,Notificacion estudiante cancelacion soli,res_cdb8ea55-314b-495d-81db-a5cddb1b45c7,Role 2,2016-05-28 04:10:40,72,0,2016-05-28 04:10:40
+Case123,Cancelar Solicitud,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 2,2016-05-28 04:46:12,71,0,2016-05-28 04:45:56
+Case124,Radicar Solicitud Homologacion,res_be9039ea-b880-44ba-a6b0-0286c47d6bec,Role 1,2016-05-28 04:58:14,71,0,2016-05-28 04:51:46
+Case106,Notificacion estudiante cancelacion soli,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-28 05:05:21,71,0,2016-05-28 05:05:21
+Case107,Notificacion estudiante cancelacion soli,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-28 05:35:07,70,0,2016-05-28 05:35:07
+Case125,Radicar Solicitud Homologacion,res_3c4cbb89-445c-49e5-862e-ceddd304c7eb,Role 1,2016-05-28 06:32:55,69,0,2016-05-28 06:26:52
+Case126,Traer informacion estudiante - banner,res_832ac89d-c48a-40bd-999a-bb0606a02bba,Role 1,2016-05-28 07:25:09,70,0,2016-05-28 07:24:46
+Case108,Notificacion estudiante cancelacion soli,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-28 07:42:23,70,0,2016-05-28 07:42:23
+Case109,Notificacion estudiante cancelacion soli,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-28 08:16:05,69,0,2016-05-28 08:16:05
+Case110,Notificacion estudiante cancelacion soli,res_8c1a398e-1f3e-47b3-9bb3-19511aac6b88,Role 2,2016-05-28 09:09:22,68,0,2016-05-28 09:09:22
+Case124,Cancelar Solicitud,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-05-28 11:36:22,67,0,2016-05-28 11:35:35
+Case126,Radicar Solicitud Homologacion,res_426cc7db-e5d8-4c9f-90a8-c7787e2b1903,Role 1,2016-05-28 12:07:09,67,0,2016-05-28 12:02:26
+Case125,Cancelar Solicitud,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-05-28 13:23:20,67,0,2016-05-28 13:22:45
+Case127,Traer informacion estudiante - banner,res_d66e12f0-bca0-4347-8c44-c5cd2c759993,Role 1,2016-05-28 15:39:13,68,0,2016-05-28 15:38:51
+Case128,Traer informacion estudiante - banner,res_c51f811d-630b-4c9c-9f03-0277e57670bb,Role 1,2016-05-28 16:55:06,69,0,2016-05-28 16:54:44
+Case129,Traer informacion estudiante - banner,res_4be5687d-4bd2-4167-8109-5bad02334c07,Role 1,2016-05-28 17:23:08,70,0,2016-05-28 17:22:46
+Case130,Traer informacion estudiante - banner,res_f08c9c83-d2c4-434b-a519-4ee8347bba78,Role 1,2016-05-28 18:37:49,71,0,2016-05-28 18:37:26
+Case126,Cancelar Solicitud,res_674bf5ee-ae49-4df8-b0a1-5b083dc66e58,Role 2,2016-05-28 19:33:01,71,0,2016-05-28 19:32:52
+Case131,Traer informacion estudiante - banner,res_def079a5-e531-4069-bee8-b73686506496,Role 1,2016-05-28 19:35:27,72,0,2016-05-28 19:35:04
+Case127,Radicar Solicitud Homologacion,res_ca871a39-c3c7-465c-8ae1-5b5ec160f8cb,Role 1,2016-05-28 20:28:04,72,0,2016-05-28 20:24:22
+Case132,Traer informacion estudiante - banner,res_19a9a08c-5949-4939-843a-76371eace563,Role 1,2016-05-28 20:49:03,73,0,2016-05-28 20:48:40
+Case128,Radicar Solicitud Homologacion,res_7993370c-5272-4ade-baac-4866e4004305,Role 1,2016-05-28 21:39:56,73,0,2016-05-28 21:36:18
+Case133,Traer informacion estudiante - banner,res_72008234-b30f-41ec-a69c-cd616ecf4e8d,Role 1,2016-05-28 21:56:10,74,0,2016-05-28 21:55:47
+Case129,Radicar Solicitud Homologacion,res_a6279fb8-feb7-46ba-915e-60ce7708ed39,Role 1,2016-05-28 22:04:04,74,0,2016-05-28 22:00:25
+Case130,Radicar Solicitud Homologacion,res_7cbedc58-3cf7-4fb1-9040-5ecce4b2984b,Role 1,2016-05-28 23:14:47,74,0,2016-05-28 23:11:13
+Case134,Traer informacion estudiante - banner,res_0bb2b3aa-9612-4377-a8f7-24ed29c3d6dd,Role 1,2016-05-28 23:20:13,75,0,2016-05-28 23:19:50
+Case131,Radicar Solicitud Homologacion,res_73936321-6d26-4f17-b062-040a4e4efbac,Role 1,2016-05-29 00:12:43,75,0,2016-05-29 00:05:00
+Case135,Traer informacion estudiante - banner,res_0eb2ac6b-1365-48a8-aaa8-719acf2bf2ec,Role 1,2016-05-29 00:33:58,76,0,2016-05-29 00:33:30
+Case64,Notificacion estudiante cancelacion soli,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-29 00:49:55,76,0,2016-05-29 00:49:55
+Case132,Radicar Solicitud Homologacion,res_e5e675a2-78a4-4735-a8a5-86c984628d25,Role 1,2016-05-29 01:22:18,75,0,2016-05-29 01:14:47
+Case135,Radicar Solicitud Homologacion,res_24c87bbc-89fb-4a61-84be-006eb85ce656,Role 1,2016-05-29 02:12:13,75,0,2016-05-29 01:54:30
+Case133,Radicar Solicitud Homologacion,res_74471a1e-760e-4418-a67c-d5aa8dc18d47,Role 1,2016-05-29 02:25:28,75,0,2016-05-29 02:18:07
+Case65,Notificacion estudiante cancelacion soli,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-05-29 02:40:09,75,0,2016-05-29 02:40:09
+Case131,Cancelar Solicitud,res_8c1a398e-1f3e-47b3-9bb3-19511aac6b88,Role 2,2016-05-29 02:54:00,74,0,2016-05-29 02:51:24
+Case127,Cancelar Solicitud,res_30bdcab6-dc25-4b7d-bfde-ca6e8f41de18,Role 2,2016-05-29 03:30:58,74,0,2016-05-29 03:30:33
+Case134,Radicar Solicitud Homologacion,res_ce1626ab-5c29-40d5-bfab-3ceb967553e7,Role 1,2016-05-29 03:45:31,74,0,2016-05-29 03:38:26
+Case132,Cancelar Solicitud,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-29 04:01:38,74,0,2016-05-29 03:59:21
+Case128,Cancelar Solicitud,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-29 04:31:42,74,0,2016-05-29 04:31:22
+Case129,Cancelar Solicitud,res_674bf5ee-ae49-4df8-b0a1-5b083dc66e58,Role 2,2016-05-29 04:44:58,74,0,2016-05-29 04:44:39
+Case66,Notificacion estudiante cancelacion soli,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-29 04:47:31,74,0,2016-05-29 04:47:31
+Case133,Cancelar Solicitud,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-05-29 05:02:55,73,0,2016-05-29 05:00:54
+Case130,Cancelar Solicitud,res_0199d070-eff2-41d2-ac2e-bc51afa2eea2,Role 2,2016-05-29 05:51:08,73,0,2016-05-29 05:50:55
+Case111,Notificacion estudiante cancelacion soli,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-05-29 05:58:08,73,0,2016-05-29 05:57:52
+Case67,Notificacion estudiante cancelacion soli,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-05-29 06:05:23,72,0,2016-05-29 06:05:23
+Case134,Cancelar Solicitud,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 2,2016-05-29 06:22:52,71,0,2016-05-29 06:21:12
+Case135,Cancelar Solicitud,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 2,2016-05-29 06:40:49,71,0,2016-05-29 06:34:29
+Case112,Notificacion estudiante cancelacion soli,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-29 09:49:06,71,0,2016-05-29 09:49:02
+Case136,Traer informacion estudiante - banner,res_4bd25357-7cdb-4974-94f1-2a73a38ec405,Role 1,2016-05-29 10:25:54,71,0,2016-05-29 10:25:33
+Case68,Notificacion estudiante cancelacion soli,res_c665318f-d358-45e6-8539-47f27bbb8cfa,Role 2,2016-05-29 10:54:35,71,0,2016-05-29 10:54:35
+Case137,Traer informacion estudiante - banner,res_19a9a08c-5949-4939-843a-76371eace563,Role 1,2016-05-29 11:50:47,71,0,2016-05-29 11:50:26
+Case136,Radicar Solicitud Homologacion,res_19a9a08c-5949-4939-843a-76371eace563,Role 1,2016-05-29 12:03:08,70,0,2016-05-29 11:50:20
+Case137,Radicar Solicitud Homologacion,res_7ccaedcd-e85c-42ca-9907-24f64d1d20c9,Role 1,2016-05-29 13:27:48,71,0,2016-05-29 13:15:25
+Case70,Notificacion estudiante cancelacion soli,res_30bdcab6-dc25-4b7d-bfde-ca6e8f41de18,Role 2,2016-05-29 13:45:52,71,0,2016-05-29 13:45:52
+Case71,Notificacion estudiante cancelacion soli,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-29 14:15:01,70,0,2016-05-29 14:15:01
+Case72,Notificacion estudiante cancelacion soli,res_8c1a398e-1f3e-47b3-9bb3-19511aac6b88,Role 2,2016-05-29 14:25:53,69,0,2016-05-29 14:25:53
+Case114,Notificacion estudiante cancelacion soli,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-05-29 14:42:15,68,0,2016-05-29 14:42:15
+Case75,Notificacion estudiante cancelacion soli,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-29 14:43:38,67,0,2016-05-29 14:43:38
+Case115,Notificacion estudiante cancelacion soli,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-29 15:29:08,66,0,2016-05-29 15:29:08
+Case74,Notificacion estudiante cancelacion soli,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-29 15:51:17,65,0,2016-05-29 15:51:17
+Case136,Cancelar Solicitud,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-29 16:03:47,64,0,2016-05-29 16:01:32
+Case138,Traer informacion estudiante - banner,res_9e551be7-cbd3-40e7-9c0f-14d22cfebee4,Role 1,2016-05-29 16:54:02,65,0,2016-05-29 16:53:43
+Case116,Notificacion estudiante cancelacion soli,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-29 16:58:15,65,0,2016-05-29 16:58:15
+Case137,Cancelar Solicitud,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-05-29 17:29:49,64,0,2016-05-29 17:27:53
+Case117,Notificacion estudiante cancelacion soli,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-29 17:50:07,64,0,2016-05-29 17:50:07
+Case139,Traer informacion estudiante - banner,res_b54635ae-2923-46b3-b809-9af0a2f11fa7,Role 1,2016-05-29 17:53:44,64,0,2016-05-29 17:53:25
+Case138,Radicar Solicitud Homologacion,res_947cbcee-2ecd-45cb-8602-e5911b7636b1,Role 1,2016-05-29 18:33:44,64,0,2016-05-29 18:23:35
+Case140,Traer informacion estudiante - banner,res_8d8a88bf-6ad3-4212-ba3b-5aa75a54a4ff,Role 1,2016-05-29 18:56:00,65,0,2016-05-29 18:55:41
+Case139,Radicar Solicitud Homologacion,res_a3802a4e-9575-4897-8e43-2dec2755635e,Role 1,2016-05-29 19:34:04,65,0,2016-05-29 19:24:11
+Case118,Notificacion estudiante cancelacion soli,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-29 20:23:36,65,0,2016-05-29 20:23:36
+Case140,Radicar Solicitud Homologacion,res_740da549-7436-46ae-aaf6-fccebf27a38c,Role 1,2016-05-29 20:35:16,64,0,2016-05-29 20:25:33
+Case141,Traer informacion estudiante - banner,res_c7c7c96c-d0f4-4451-9804-86a040a02bfc,Role 1,2016-05-29 20:48:07,65,0,2016-05-29 20:47:48
+Case119,Notificacion estudiante cancelacion soli,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-29 21:03:54,65,0,2016-05-29 21:03:54
+Case142,Traer informacion estudiante - banner,res_10b86e51-ef4e-46cd-bee4-f5d0c04d917e,Role 1,2016-05-29 21:50:48,65,0,2016-05-29 21:50:29
+Case138,Cancelar Solicitud,res_674bf5ee-ae49-4df8-b0a1-5b083dc66e58,Role 2,2016-05-29 22:01:27,65,0,2016-05-29 22:00:24
+Case120,Notificacion estudiante cancelacion soli,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 2,2016-05-29 22:24:35,65,0,2016-05-29 22:24:35
+Case141,Radicar Solicitud Homologacion,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 1,2016-05-29 22:27:04,65,0,2016-05-29 22:17:40
+Case139,Cancelar Solicitud,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-05-29 23:00:49,64,0,2016-05-29 22:59:52
+Case142,Radicar Solicitud Homologacion,res_98b9280c-17bb-4ca9-9fef-2540a83255ec,Role 1,2016-05-29 23:29:33,64,0,2016-05-29 23:20:21
+Case140,Cancelar Solicitud,res_cdb8ea55-314b-495d-81db-a5cddb1b45c7,Role 2,2016-05-30 00:07:17,64,0,2016-05-30 00:01:56
+Case141,Cancelar Solicitud,res_8c1a398e-1f3e-47b3-9bb3-19511aac6b88,Role 2,2016-05-30 01:58:35,64,0,2016-05-30 01:53:44
+Case143,Traer informacion estudiante - banner,res_72f6b9f4-cbf8-49e4-8250-5436d24edf7a,Role 1,2016-05-30 02:49:39,65,0,2016-05-30 02:49:38
+Case142,Cancelar Solicitud,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-30 03:00:46,65,0,2016-05-30 02:56:13
+Case144,Traer informacion estudiante - banner,res_32d16d16-d7ad-434b-acfb-e51c769b42fb,Role 1,2016-05-30 03:07:04,66,0,2016-05-30 03:07:02
+Case143,Radicar Solicitud Homologacion,res_dde7be97-02a2-4c0b-9f5a-7c94d9ad36f3,Role 1,2016-05-30 04:25:59,66,0,2016-05-30 04:19:45
+Case144,Radicar Solicitud Homologacion,res_5717d2dd-11b0-4894-a17e-f0c9fe8ec827,Role 1,2016-05-30 04:42:26,66,0,2016-05-30 04:36:10
+Case143,Cancelar Solicitud,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 2,2016-05-30 05:44:57,66,0,2016-05-30 05:42:08
+Case145,Traer informacion estudiante - banner,res_de035625-7c52-4c68-b820-25d6d1523f53,Role 1,2016-05-30 05:55:23,67,0,2016-05-30 05:55:20
+Case144,Cancelar Solicitud,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 2,2016-05-30 06:01:15,67,0,2016-05-30 05:58:27
+Case145,Radicar Solicitud Homologacion,res_40ebd00f-9889-40c0-9b5a-44c5b1631fba,Role 1,2016-05-30 07:29:31,67,0,2016-05-30 07:23:29
+Case146,Traer informacion estudiante - banner,res_ecfa042b-5dae-493b-a56a-612837ff67db,Role 1,2016-05-30 08:19:51,68,0,2016-05-30 08:19:46
+Case145,Cancelar Solicitud,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-30 08:47:39,68,0,2016-05-30 08:45:14
+Case146,Radicar Solicitud Homologacion,res_94947069-93fa-40b7-8de5-a12b8bd2e17f,Role 1,2016-05-30 09:52:52,68,0,2016-05-30 09:46:59
+Case146,Cancelar Solicitud,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-30 11:10:25,68,0,2016-05-30 11:08:18
+Case143,Notificacion estudiante cancelacion soli,res_8c1a398e-1f3e-47b3-9bb3-19511aac6b88,Role 2,2016-05-30 11:25:56,68,0,2016-05-30 11:25:50
+Case144,Notificacion estudiante cancelacion soli,res_30bdcab6-dc25-4b7d-bfde-ca6e8f41de18,Role 2,2016-05-30 11:44:58,67,0,2016-05-30 11:44:52
+Case147,Traer informacion estudiante - banner,res_a7fc0ed3-7bc8-415d-8d82-5ab4ea66f19e,Role 1,2016-05-30 14:16:29,67,0,2016-05-30 14:16:21
+Case145,Notificacion estudiante cancelacion soli,res_c665318f-d358-45e6-8539-47f27bbb8cfa,Role 2,2016-05-30 14:35:55,67,0,2016-05-30 14:35:51
+Case147,Radicar Solicitud Homologacion,res_8d8a88bf-6ad3-4212-ba3b-5aa75a54a4ff,Role 1,2016-05-30 15:49:39,66,0,2016-05-30 15:44:35
+Case148,Traer informacion estudiante - banner,res_d2ae0b7e-64b4-4508-9cb9-40fbc52d472c,Role 1,2016-05-30 15:51:15,67,0,2016-05-30 15:51:07
+Case149,Traer informacion estudiante - banner,res_72f6b9f4-cbf8-49e4-8250-5436d24edf7a,Role 1,2016-05-30 16:30:46,68,0,2016-05-30 16:30:37
+Case146,Notificacion estudiante cancelacion soli,res_30bdcab6-dc25-4b7d-bfde-ca6e8f41de18,Role 2,2016-05-30 17:02:39,68,0,2016-05-30 17:02:36
+Case147,Cancelar Solicitud,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-05-30 17:06:59,67,0,2016-05-30 17:05:32
+Case150,Traer informacion estudiante - banner,res_42b8ca67-038a-4944-bb02-bccb03fdd41a,Role 1,2016-05-30 17:24:04,68,0,2016-05-30 17:23:55
+Case148,Radicar Solicitud Homologacion,res_42b8ca67-038a-4944-bb02-bccb03fdd41a,Role 1,2016-05-30 17:24:19,67,0,2016-05-30 17:19:21
+Case149,Radicar Solicitud Homologacion,res_d159825d-d001-41b1-82de-8d995aed6c46,Role 1,2016-05-30 18:02:55,68,0,2016-05-30 17:57:54
+Case148,Cancelar Solicitud,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-30 18:41:13,68,0,2016-05-30 18:39:52
+Case150,Radicar Solicitud Homologacion,res_832ac89d-c48a-40bd-999a-bb0606a02bba,Role 1,2016-05-30 18:56:25,68,0,2016-05-30 18:51:29
+Case149,Cancelar Solicitud,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 2,2016-05-30 19:19:41,68,0,2016-05-30 19:18:21
+Case151,Traer informacion estudiante - banner,res_40ebd00f-9889-40c0-9b5a-44c5b1631fba,Role 1,2016-05-30 19:51:27,69,0,2016-05-30 19:51:16
+Case150,Cancelar Solicitud,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-30 20:13:38,69,0,2016-05-30 20:12:21
+Case152,Traer informacion estudiante - banner,res_6796ac5d-393b-464e-a352-c44b0e9f57e2,Role 1,2016-05-30 20:17:31,70,0,2016-05-30 20:17:20
+Case151,Radicar Solicitud Homologacion,res_230831ef-6b85-4437-a0f0-f40e9ccdec45,Role 1,2016-05-30 21:22:30,70,0,2016-05-30 21:17:37
+Case153,Traer informacion estudiante - banner,res_b568ba63-74f8-4926-927c-5c1d86355a48,Role 1,2016-05-30 21:36:37,71,0,2016-05-30 21:36:25
+Case152,Radicar Solicitud Homologacion,res_98cbd353-8a08-443f-b913-8156afa3fcc4,Role 1,2016-05-30 21:47:42,71,0,2016-05-30 21:42:45
+Case151,Cancelar Solicitud,res_2f3e7587-762b-4f94-b4e6-b62c8f93e521,Role 2,2016-05-30 22:38:43,71,0,2016-05-30 22:37:32
+Case147,Notificacion estudiante cancelacion soli,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-30 22:52:45,71,0,2016-05-30 22:52:44
+Case154,Traer informacion estudiante - banner,res_32d16d16-d7ad-434b-acfb-e51c769b42fb,Role 1,2016-05-30 23:03:10,71,0,2016-05-30 23:02:57
+Case152,Cancelar Solicitud,res_32d16d16-d7ad-434b-acfb-e51c769b42fb,Role 2,2016-05-30 23:03:42,70,0,2016-05-30 23:02:32
+Case153,Radicar Solicitud Homologacion,res_32d16d16-d7ad-434b-acfb-e51c769b42fb,Role 1,2016-05-30 23:05:47,70,0,2016-05-30 23:00:55
+Case155,Traer informacion estudiante - banner,res_c1b9255b-9080-4e67-9d7d-51da261dbafa,Role 1,2016-05-31 00:15:29,72,0,2016-05-31 00:14:10
+Case153,Cancelar Solicitud,res_d1b72a36-94be-4742-9093-62842d4f18c9,Role 2,2016-05-31 00:25:00,72,0,2016-05-31 00:20:32
+Case148,Notificacion estudiante cancelacion soli,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 2,2016-05-31 00:31:32,72,0,2016-05-31 00:31:13
+Case154,Radicar Solicitud Homologacion,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 1,2016-05-31 00:40:58,72,0,2016-05-31 00:25:53
+Case149,Notificacion estudiante cancelacion soli,res_19d05a86-8c05-44fc-8de9-9427fd65df5a,Role 2,2016-05-31 01:12:09,71,0,2016-05-31 01:11:52
+Case156,Traer informacion estudiante - banner,res_595fe90e-dbc8-44c1-ab9e-a47576962ab5,Role 1,2016-05-31 01:19:12,71,0,2016-05-31 01:17:56
+Case155,Radicar Solicitud Homologacion,res_595fe90e-dbc8-44c1-ab9e-a47576962ab5,Role 1,2016-05-31 01:29:47,71,0,2016-05-31 01:02:45
+Case154,Cancelar Solicitud,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-31 01:43:50,71,0,2016-05-31 01:33:55
+Case150,Notificacion estudiante cancelacion soli,res_c665318f-d358-45e6-8539-47f27bbb8cfa,Role 2,2016-05-31 02:09:43,71,0,2016-05-31 02:09:28
+Case156,Radicar Solicitud Homologacion,res_c665318f-d358-45e6-8539-47f27bbb8cfa,Role 1,2016-05-31 02:33:28,71,0,2016-05-31 02:07:21
+Case157,Traer informacion estudiante - banner,res_222e23e9-9ed0-4ad6-adb2-a65135df25e5,Role 1,2016-05-31 03:25:43,71,0,2016-05-31 03:24:33
+Case157,Radicar Solicitud Homologacion,res_d9dde81b-88d3-4c43-ac66-b39cf0a1c310,Role 1,2016-05-31 04:38:37,71,0,2016-05-31 04:13:46
+Case151,Notificacion estudiante cancelacion soli,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-31 04:39:04,71,0,2016-05-31 04:38:55
+Case155,Cancelar Solicitud,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-05-31 05:00:52,70,0,2016-05-31 04:51:29
+Case152,Notificacion estudiante cancelacion soli,res_c665318f-d358-45e6-8539-47f27bbb8cfa,Role 2,2016-05-31 05:09:25,70,0,2016-05-31 05:09:18
+Case156,Cancelar Solicitud,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 2,2016-05-31 06:01:52,69,0,2016-05-31 05:53:12
+Case158,Traer informacion estudiante - banner,res_12af48e2-cd85-457c-8b68-9d903e052a27,Role 1,2016-05-31 06:30:01,70,0,2016-05-31 06:28:57
+Case158,Radicar Solicitud Homologacion,res_6ac24bed-a8e2-4c99-86d5-e1c0d5464488,Role 1,2016-05-31 07:41:40,70,0,2016-05-31 07:18:52
+Case121,Notificacion estudiante cancelacion soli,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-31 08:00:46,70,0,2016-05-31 08:00:46
+Case157,Cancelar Solicitud,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-31 08:04:46,70,0,2016-05-31 07:57:12
+Case159,Traer informacion estudiante - banner,res_289d8f9a-9942-4fb4-a2da-43311c8a4573,Role 1,2016-05-31 09:07:13,70,0,2016-05-31 09:06:13
+Case159,Radicar Solicitud Homologacion,res_05805556-d87b-44b1-b7c6-bc5351d232d4,Role 1,2016-05-31 10:17:28,70,0,2016-05-31 09:56:04
+Case160,Traer informacion estudiante - banner,res_8216f7d6-9693-497d-beb8-7c7584164e3a,Role 1,2016-05-31 10:45:54,71,0,2016-05-31 10:44:56
+Case161,Traer informacion estudiante - banner,res_21af34e5-bc00-4635-b711-7d3460c7bcb8,Role 1,2016-05-31 11:00:57,72,0,2016-05-31 10:59:54
+Case158,Cancelar Solicitud,res_21af34e5-bc00-4635-b711-7d3460c7bcb8,Role 2,2016-05-31 11:02:22,71,0,2016-05-31 10:56:18
+Case160,Radicar Solicitud Homologacion,res_ea33a6bf-5850-4945-985b-f868e05ed872,Role 1,2016-05-31 11:54:52,72,0,2016-05-31 11:33:57
+Case161,Radicar Solicitud Homologacion,res_ea33a6bf-5850-4945-985b-f868e05ed872,Role 1,2016-05-31 12:06:15,72,1,2016-05-31 11:47:30
+Case162,Traer informacion estudiante - banner,res_05805556-d87b-44b1-b7c6-bc5351d232d4,Role 1,2016-05-31 13:07:20,73,0,2016-05-31 13:06:23
+Case159,Cancelar Solicitud,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-05-31 13:37:12,73,0,2016-05-31 13:32:06
+Case127,Notificacion estudiante cancelacion soli,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-05-31 13:38:42,73,0,2016-05-31 13:38:37
+Case122,Notificacion estudiante cancelacion soli,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-05-31 13:53:05,72,0,2016-05-31 13:53:00
+Case162,Radicar Solicitud Homologacion,res_869406f0-0ff9-4df3-8d54-9f437712834a,Role 1,2016-05-31 14:13:48,71,0,2016-05-31 13:53:49
+Case128,Notificacion estudiante cancelacion soli,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-05-31 14:44:20,71,0,2016-05-31 14:44:20
+Case129,Notificacion estudiante cancelacion soli,res_d1b72a36-94be-4742-9093-62842d4f18c9,Role 2,2016-05-31 15:02:47,70,0,2016-05-31 15:02:47
+Case123,Notificacion estudiante cancelacion soli,res_cdb8ea55-314b-495d-81db-a5cddb1b45c7,Role 2,2016-05-31 15:04:58,69,0,2016-05-31 15:04:57
+Case160,Cancelar Solicitud,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-05-31 15:19:41,68,0,2016-05-31 15:15:16
+Case161,Cancelar Solicitud,res_30bdcab6-dc25-4b7d-bfde-ca6e8f41de18,Role 2,2016-05-31 15:22:46,68,0,2016-05-31 15:20:18
+Case130,Notificacion estudiante cancelacion soli,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 2,2016-05-31 16:21:36,68,0,2016-05-31 16:21:36
+Case153,Notificacion estudiante cancelacion soli,res_3a6ffe79-f47f-4b73-8484-25e81d18e7d6,Role 2,2016-05-31 16:32:43,67,0,2016-05-31 16:32:19
+Case163,Traer informacion estudiante - banner,res_178c6ee2-cb58-45b7-aa5b-d98a9c085fc1,Role 1,2016-05-31 16:47:37,67,0,2016-05-31 16:46:47
+Case162,Cancelar Solicitud,res_05442fe8-2739-4ee5-b214-1f8ed4133154,Role 2,2016-05-31 17:42:16,67,0,2016-05-31 17:38:40
+Case164,Traer informacion estudiante - banner,res_3bb603c8-511c-419b-8854-283831b0fcce,Role 1,2016-05-31 17:55:47,68,0,2016-05-31 17:54:57
+Case163,Radicar Solicitud Homologacion,res_3bb603c8-511c-419b-8854-283831b0fcce,Role 1,2016-05-31 17:56:42,67,0,2016-05-31 17:38:57
+Case165,Traer informacion estudiante - banner,res_a390e1cd-30fe-43f1-bdef-2ef4759f374d,Role 1,2016-05-31 18:49:34,69,0,2016-05-31 18:48:44
+Case164,Radicar Solicitud Homologacion,res_a390e1cd-30fe-43f1-bdef-2ef4759f374d,Role 1,2016-05-31 19:03:13,68,0,2016-05-31 18:46:23
+Case166,Traer informacion estudiante - banner,res_51da0bb8-d91b-4ba4-9099-e94dbf8ea883,Role 1,2016-05-31 19:22:08,70,0,2016-05-31 19:21:18
+Case124,Notificacion estudiante cancelacion soli,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-31 19:55:39,70,0,2016-05-31 19:55:36
+Case165,Radicar Solicitud Homologacion,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 1,2016-05-31 19:56:07,70,0,2016-05-31 19:39:20
+Case166,Radicar Solicitud Homologacion,res_4be5687d-4bd2-4167-8109-5bad02334c07,Role 1,2016-05-31 20:27:38,69,0,2016-05-31 20:10:59
+Case167,Traer informacion estudiante - banner,res_5f38d92b-7790-4c4b-9b1e-f79483bc91fa,Role 1,2016-05-31 20:42:28,70,0,2016-05-31 20:41:39
+Case163,Cancelar Solicitud,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-31 21:03:19,70,0,2016-05-31 21:00:49
+Case131,Notificacion estudiante cancelacion soli,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-05-31 21:09:39,70,0,2016-05-31 21:09:09
+Case168,Traer informacion estudiante - banner,res_a6279fb8-feb7-46ba-915e-60ce7708ed39,Role 1,2016-05-31 21:41:18,70,0,2016-05-31 21:40:29
+Case167,Radicar Solicitud Homologacion,res_a6279fb8-feb7-46ba-915e-60ce7708ed39,Role 1,2016-05-31 21:47:27,69,0,2016-05-31 21:31:19
+Case125,Notificacion estudiante cancelacion soli,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-05-31 21:54:33,70,0,2016-05-31 21:54:33
+Case164,Cancelar Solicitud,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-05-31 22:15:24,69,0,2016-05-31 22:12:58
+Case132,Notificacion estudiante cancelacion soli,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-05-31 22:30:42,69,0,2016-05-31 22:30:22
+Case168,Radicar Solicitud Homologacion,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 1,2016-05-31 22:46:00,69,0,2016-05-31 22:30:15
+Case169,Traer informacion estudiante - banner,res_331d4136-1e4e-4ea8-8a3b-0c5dff7718a0,Role 1,2016-05-31 23:07:23,69,0,2016-05-31 23:06:35
+Case165,Cancelar Solicitud,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-31 23:11:12,69,0,2016-05-31 23:08:52
+Case166,Cancelar Solicitud,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-31 23:43:38,69,0,2016-05-31 23:41:26
+Case133,Notificacion estudiante cancelacion soli,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-05-31 23:43:42,69,0,2016-05-31 23:43:28
+Case169,Radicar Solicitud Homologacion,res_935773a3-64bf-46c8-8593-645d37ad2fd9,Role 1,2016-06-01 00:12:07,68,0,2016-05-31 23:57:03
+Case170,Traer informacion estudiante - banner,res_a390e1cd-30fe-43f1-bdef-2ef4759f374d,Role 1,2016-06-01 00:40:25,69,0,2016-06-01 00:40:15
+Case167,Cancelar Solicitud,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-06-01 01:05:00,69,0,2016-06-01 01:02:05
+Case134,Notificacion estudiante cancelacion soli,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-06-01 01:05:29,69,0,2016-06-01 01:04:58
+Case171,Traer informacion estudiante - banner,res_de035625-7c52-4c68-b820-25d6d1523f53,Role 1,2016-06-01 01:46:52,69,0,2016-06-01 01:46:42
+Case168,Cancelar Solicitud,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 2,2016-06-01 02:03:42,69,0,2016-06-01 02:00:58
+Case169,Cancelar Solicitud,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 2,2016-06-01 02:03:54,69,1,2016-06-01 02:02:07
+Case170,Radicar Solicitud Homologacion,res_d66e12f0-bca0-4347-8c44-c5cd2c759993,Role 1,2016-06-01 02:22:26,69,0,2016-06-01 02:17:54
+Case172,Traer informacion estudiante - banner,res_c8e0d56d-4de6-4d43-ac8d-5cf76e8b4542,Role 1,2016-06-01 02:44:13,70,0,2016-06-01 02:44:03
+Case126,Notificacion estudiante cancelacion soli,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-06-01 03:15:02,70,0,2016-06-01 03:15:02
+Case173,Traer informacion estudiante - banner,res_d50e7770-0b30-4571-a398-412e20031f60,Role 1,2016-06-01 03:28:07,70,0,2016-06-01 03:27:56
+Case170,Cancelar Solicitud,res_d50e7770-0b30-4571-a398-412e20031f60,Role 2,2016-06-01 03:28:34,69,0,2016-06-01 03:27:14
+Case171,Radicar Solicitud Homologacion,res_d50e7770-0b30-4571-a398-412e20031f60,Role 1,2016-06-01 03:28:44,69,0,2016-06-01 03:24:21
+Case172,Radicar Solicitud Homologacion,res_22e4c5fb-eb02-4cc5-8c2f-8330f6c32d6e,Role 1,2016-06-01 04:24:51,70,0,2016-06-01 04:20:29
+Case171,Cancelar Solicitud,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-06-01 04:33:43,70,0,2016-06-01 04:32:30
+Case173,Radicar Solicitud Homologacion,res_21aed473-483a-446d-b34f-3ca3520d4591,Role 1,2016-06-01 05:06:39,70,0,2016-06-01 05:02:28
+Case172,Cancelar Solicitud,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-06-01 05:28:49,70,0,2016-06-01 05:27:40
+Case174,Traer informacion estudiante - banner,res_73e113aa-a413-430b-9092-6ef06d054f05,Role 1,2016-06-01 05:49:23,71,0,2016-06-01 05:49:12
+Case173,Cancelar Solicitud,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-06-01 06:08:54,71,0,2016-06-01 06:07:50
+Case175,Traer informacion estudiante - banner,res_be9039ea-b880-44ba-a6b0-0286c47d6bec,Role 1,2016-06-01 06:49:22,72,0,2016-06-01 06:49:11
+Case174,Radicar Solicitud Homologacion,res_6ce3d034-fc1c-4728-b9cd-b514a81b171a,Role 1,2016-06-01 07:28:36,72,0,2016-06-01 07:24:27
+Case175,Radicar Solicitud Homologacion,res_56ab75e4-b6bf-4690-b1e1-9853fdd9bd92,Role 1,2016-06-01 08:27:21,72,0,2016-06-01 08:23:15
+Case174,Cancelar Solicitud,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-06-01 08:29:24,72,0,2016-06-01 08:28:29
+Case175,Cancelar Solicitud,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-06-01 09:27:10,72,0,2016-06-01 09:26:19
+Case170,Notificacion estudiante cancelacion soli,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-06-01 10:47:59,72,0,2016-06-01 10:47:59
+Case176,Traer informacion estudiante - banner,res_3fef16fd-918d-44c8-bdd6-129d4dd56026,Role 1,2016-06-01 10:50:13,72,0,2016-06-01 10:50:00
+Case171,Notificacion estudiante cancelacion soli,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 2,2016-06-01 11:51:36,72,0,2016-06-01 11:51:36
+Case176,Radicar Solicitud Homologacion,res_a6279fb8-feb7-46ba-915e-60ce7708ed39,Role 1,2016-06-01 12:27:51,71,0,2016-06-01 12:24:06
+Case172,Notificacion estudiante cancelacion soli,res_0199d070-eff2-41d2-ac2e-bc51afa2eea2,Role 2,2016-06-01 12:48:49,71,0,2016-06-01 12:48:49
+Case173,Notificacion estudiante cancelacion soli,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-06-01 13:18:56,70,0,2016-06-01 13:18:56
+Case176,Validar solicitud,res_67b72480-d1b8-4315-a0e7-7f8ed12e447e,Role 2,2016-06-01 13:37:04,70,0,2016-06-01 13:17:53
+Case176,Recepcion de documentos,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-06-01 14:07:21,69,0,2016-06-01 14:06:32
+Case176,Homologacion por grupo de cursos,res_7820f387-c023-4178-8f58-568c844a33bb,Role 3,2016-06-01 14:14:28,69,1,2016-06-01 14:14:07
+Case176,Cancelar curso,res_73e113aa-a413-430b-9092-6ef06d054f05,Role 1,2016-06-01 14:14:36,69,0,2016-06-01 14:14:32
+Case176,Notificacion estudiante cancelacion soli,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-06-01 14:14:40,69,0,2016-06-01 14:14:40
+Case177,Traer informacion estudiante - banner,res_2fa2e4a3-d43d-47d4-ab22-a0230fb40cdb,Role 1,2016-06-01 15:28:49,69,0,2016-06-01 15:28:35
+Case174,Notificacion estudiante cancelacion soli,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-06-01 15:48:17,69,0,2016-06-01 15:48:17
+Case178,Traer informacion estudiante - banner,res_462e9258-90d7-4366-9087-5d2e62501414,Role 1,2016-06-01 15:57:55,69,0,2016-06-01 15:57:41
+Case175,Notificacion estudiante cancelacion soli,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-06-01 16:48:15,69,0,2016-06-01 16:48:15
+Case177,Radicar Solicitud Homologacion,res_d159825d-d001-41b1-82de-8d995aed6c46,Role 1,2016-06-01 17:09:36,68,0,2016-06-01 17:06:18
+Case179,Traer informacion estudiante - banner,res_aa7ef423-aab3-4099-a163-8aa71a61b3b2,Role 1,2016-06-01 17:21:36,69,0,2016-06-01 17:21:21
+Case178,Radicar Solicitud Homologacion,res_83549226-076e-44a9-91f5-05bd8ab48d9c,Role 1,2016-06-01 17:38:42,69,0,2016-06-01 17:35:24
+Case177,Cancelar Solicitud,res_851fd581-bf5d-407d-a64e-87ca4cb3e73d,Role 2,2016-06-01 18:15:53,69,0,2016-06-01 18:15:26
+Case178,Cancelar Solicitud,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-06-01 18:43:57,69,0,2016-06-01 18:43:30
+Case179,Radicar Solicitud Homologacion,res_edec542c-28f5-4711-bc5a-205300ce7c5a,Role 1,2016-06-01 19:02:20,69,0,2016-06-01 18:59:05
+Case180,Traer informacion estudiante - banner,res_98b9280c-17bb-4ca9-9fef-2540a83255ec,Role 1,2016-06-01 19:50:35,70,0,2016-06-01 19:50:18
+Case179,Cancelar Solicitud,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-06-01 20:07:33,70,0,2016-06-01 20:07:08
+Case181,Traer informacion estudiante - banner,res_58f82224-e155-4fde-bef6-7979d5b412f3,Role 1,2016-06-01 20:54:05,71,0,2016-06-01 20:53:48
+Case180,Radicar Solicitud Homologacion,res_17a3465d-a05d-40f4-906f-bea7e394ba33,Role 1,2016-06-01 21:30:05,71,0,2016-06-01 21:26:51
+Case180,Cancelar Solicitud,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 2,2016-06-01 22:32:16,71,0,2016-06-01 22:31:53
+Case181,Radicar Solicitud Homologacion,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 1,2016-06-01 22:32:24,71,0,2016-06-01 22:29:09
+Case181,Cancelar Solicitud,res_738cf660-7856-4745-86c6-0e4e26ae1b59,Role 2,2016-06-01 23:33:38,71,0,2016-06-01 23:33:16
+Case169,Notificacion estudiante cancelacion soli,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-06-01 23:45:56,71,0,2016-06-01 23:45:56
+Case177,Notificacion estudiante cancelacion soli,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-06-02 01:35:20,70,0,2016-06-02 01:35:20
+Case178,Notificacion estudiante cancelacion soli,res_7bc49a5c-acd8-4505-b0d8-d0738404f97f,Role 2,2016-06-02 02:03:35,69,0,2016-06-02 02:03:35
+Case140,Notificacion estudiante cancelacion soli,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-06-02 02:49:14,68,0,2016-06-02 02:49:14
+Case179,Notificacion estudiante cancelacion soli,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-06-02 03:25:14,67,0,2016-06-02 03:25:14
+Case141,Notificacion estudiante cancelacion soli,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 2,2016-06-02 04:40:32,66,0,2016-06-02 04:40:32
+Case142,Notificacion estudiante cancelacion soli,res_674bf5ee-ae49-4df8-b0a1-5b083dc66e58,Role 2,2016-06-02 05:48:44,65,0,2016-06-02 05:48:44
+Case180,Notificacion estudiante cancelacion soli,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 2,2016-06-02 05:52:21,64,0,2016-06-02 05:52:21
+Case181,Notificacion estudiante cancelacion soli,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-06-02 06:54:08,63,0,2016-06-02 06:54:08
+Case135,Notificacion estudiante cancelacion soli,res_0199d070-eff2-41d2-ac2e-bc51afa2eea2,Role 2,2016-06-02 09:29:25,62,0,2016-06-02 09:27:08
+Case154,Notificacion estudiante cancelacion soli,res_6df54485-9724-4b5d-8287-963ffea60bcc,Role 2,2016-06-02 11:00:08,61,0,2016-06-02 10:59:39
+Case136,Notificacion estudiante cancelacion soli,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-06-02 14:24:39,60,0,2016-06-02 14:24:04
+Case138,Notificacion estudiante cancelacion soli,res_b11d317e-aae2-4e25-802c-a7d5e9640fca,Role 2,2016-06-02 15:48:46,59,0,2016-06-02 15:48:22
+Case137,Notificacion estudiante cancelacion soli,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 2,2016-06-02 16:06:50,58,0,2016-06-02 16:06:23
+Case139,Notificacion estudiante cancelacion soli,res_72537c9f-49f1-4bf5-97cb-b9cb3dbe2cd9,Role 2,2016-06-02 16:30:38,57,0,2016-06-02 16:30:13
+Case167,Notificacion estudiante cancelacion soli,res_147b46a1-7cfe-435c-a6c1-7c70e0975484,Role 2,2016-06-03 08:48:10,56,0,2016-06-03 08:48:10
+Case168,Notificacion estudiante cancelacion soli,res_0b311457-ad24-441f-89e0-92244ad8efa1,Role 2,2016-06-03 09:48:56,55,0,2016-06-03 09:48:56
+Case155,Notificacion estudiante cancelacion soli,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-06-05 00:02:04,54,0,2016-06-05 00:02:00
+Case156,Notificacion estudiante cancelacion soli,res_1d31bf1b-6cd5-43e1-9087-bbf66ece0c49,Role 2,2016-06-05 00:50:41,53,0,2016-06-05 00:50:41
+Case157,Notificacion estudiante cancelacion soli,res_1bcfc55c-70c6-4c72-ad8b-9cf1f3d5df6e,Role 2,2016-06-05 02:43:16,52,0,2016-06-05 02:43:16
+Case158,Notificacion estudiante cancelacion soli,res_f524461c-e97c-487b-a589-c509101bcac3,Role 2,2016-06-05 05:03:31,51,0,2016-06-05 05:03:31
+Case159,Notificacion estudiante cancelacion soli,res_49fd7864-f7cb-45cd-af4a-aaac1d606ced,Role 2,2016-06-05 07:37:59,50,0,2016-06-05 07:37:59
+Case161,Notificacion estudiante cancelacion soli,res_10e4f2f1-659c-4ea4-b362-3eda24ebe2e0,Role 2,2016-06-05 09:23:15,49,0,2016-06-05 09:23:15
+Case160,Notificacion estudiante cancelacion soli,res_5f268bf6-5fee-4446-9ba7-bacd93de9587,Role 2,2016-06-05 10:29:31,48,0,2016-06-05 10:29:31
+Case162,Notificacion estudiante cancelacion soli,res_19d05a86-8c05-44fc-8de9-9427fd65df5a,Role 2,2016-06-05 13:16:15,47,0,2016-06-05 13:16:15
+Case163,Notificacion estudiante cancelacion soli,res_0199d070-eff2-41d2-ac2e-bc51afa2eea2,Role 2,2016-06-05 13:29:01,46,0,2016-06-05 13:29:01
+Case164,Notificacion estudiante cancelacion soli,res_cdb8ea55-314b-495d-81db-a5cddb1b45c7,Role 2,2016-06-05 15:41:29,45,0,2016-06-05 15:41:29
+Case166,Notificacion estudiante cancelacion soli,res_76fa9889-cd4b-4f83-a818-16419d14967b,Role 2,2016-06-05 16:22:35,44,0,2016-06-05 16:22:35
+Case165,Notificacion estudiante cancelacion soli,res_9ec5ae9e-d422-4e0d-8089-ba1282d38ade,Role 2,2016-06-05 17:00:34,43,0,2016-06-05 17:00:34

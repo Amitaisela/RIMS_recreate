@@ -1,0 +1,3 @@
+caseid,task,start:timestamp,time:timestamp,role,st_wip,st_tsk_wip,queue
+1,Prescription received,2019-05-14 09:32:45.254000,2019-05-14 09:34:16.254000,Role 1,568,2.0,-1
+2,Prescription received,2019-05-14 09:32:45.254000,2019-05-14 09:34:16.254000,Role 1,569,2.0,-1

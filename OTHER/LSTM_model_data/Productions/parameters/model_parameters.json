@@ -1,0 +1,64 @@
+{
+    "dense_act": "linear",
+    "index_ac": {
+        "0": "start",
+        "1": "Change Version",
+        "2": "Final Inspection",
+        "3": "Final Inspection Q.C.",
+        "4": "Fix",
+        "5": "Flat Grinding",
+        "6": "Grinding Rework",
+        "7": "Lapping",
+        "8": "Laser Marking",
+        "9": "Milling",
+        "10": "Milling Q.C.",
+        "11": "Nitration Q.C.",
+        "12": "Packing",
+        "13": "Rework Milling",
+        "14": "Round  Q.C.",
+        "15": "Round Grinding",
+        "16": "SETUP     Turning & Milling",
+        "17": "Setup",
+        "18": "Stress Relief",
+        "19": "Turn & Mill. & Screw Assem",
+        "20": "Turning",
+        "21": "Turning & Milling",
+        "22": "Turning & Milling Q.C.",
+        "23": "Turning Q.C.",
+        "24": "Turning Rework",
+        "25": "end"
+    },
+    "index_rl": {
+        "0": "start",
+        "1": "Role 1",
+        "2": "Role 10",
+        "3": "Role 11",
+        "4": "Role 12",
+        "5": "Role 13",
+        "6": "Role 14",
+        "7": "Role 2",
+        "8": "Role 3",
+        "9": "Role 4",
+        "10": "Role 5",
+        "11": "Role 6",
+        "12": "Role 7",
+        "13": "Role 8",
+        "14": "Role 9",
+        "15": "end"
+    },
+    "l_size": 50,
+    "lstm_act": "selu",
+    "max_trace_size": 175,
+    "model_type": "concatenated",
+    "n_size": 5,
+    "norm_method": "max",
+    "optim": "Nadam",
+    "scale_args": {
+        "dur": {
+            "max_value": 82800.0
+        },
+        "wait": {
+            "max_value": 4942440.0
+        }
+    }
+}

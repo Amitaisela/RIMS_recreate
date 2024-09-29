@@ -1,0 +1,127 @@
+{
+    "ac_index": {
+        "Check DUR": 5,
+        "Check Insurance": 6,
+        "Check for Quality Assurance": 8,
+        "Check if refill is allowed": 4,
+        "Contact Doctor about refill": 12,
+        "Contact customer /  doctor": 14,
+        "EVENT 19 END ERROR": 15,
+        "End": 16,
+        "Enter prescription details": 3,
+        "Pack the drugs (Production)": 7,
+        "Pick-up": 9,
+        "Prescription fulfilled": 11,
+        "Prescription received": 2,
+        "Process drop-off": 1,
+        "Resolve DUR manually": 10,
+        "Resolve insurance issues manually": 13,
+        "Start": 0
+    },
+    "dense_act": "linear",
+    "generated_at": "25/05/2021 15:24:21",
+    "inter_mean_states": {
+        "tasks": {
+            "Check DUR": 0.0,
+            "Check Insurance": 0.0,
+            "Check for Quality Assurance": 0.2407745373581049,
+            "Check if refill is allowed": 0.0,
+            "Contact Doctor about refill": 0.10395298755338175,
+            "Contact customer /  doctor": 0.011059605066248129,
+            "EVENT 19 END ERROR": 0.0,
+            "End": 0.0,
+            "Enter prescription details": 0.48153082454283314,
+            "Pack the drugs (Production)": 0.5660838777968391,
+            "Pick-up": 0.4510895353505858,
+            "Prescription fulfilled": 0.0,
+            "Prescription received": 0.0,
+            "Process drop-off": 0.3384859656166734,
+            "Resolve DUR manually": 0.037376355075373215,
+            "Resolve insurance issues manually": 0.06440486184618754,
+            "Start": 0.0
+        },
+        "wip": 566.9188232288207
+    },
+    "l_size": 100,
+    "loss": 0.0435012313246261,
+    "lstm_act": "tanh",
+    "n_size": 10,
+    "optim": "Nadam",
+    "output": "output_files/20210525_A84E58C7_5B2D_4DF4_AE96_7A710D7E8498/20210525_6119D987_6F7E_425D_B0C5_3C20407974B1",
+    "roles": {
+        "Role 1": [
+            "Technician-000002",
+            "Technician-000003",
+            "Technician-000001"
+        ],
+        "Role 2": [
+            "Pharmacy System-000001"
+        ],
+        "Role 3": [
+            "Pharmacist-000001"
+        ]
+    },
+    "roles_table": [
+        {
+            "role": "Role 3",
+            "task": "Contact customer /  doctor"
+        },
+        {
+            "role": "Role 1",
+            "task": "Contact Doctor about refill"
+        },
+        {
+            "role": "Role 1",
+            "task": "Resolve insurance issues manually"
+        },
+        {
+            "role": "Role 3",
+            "task": "Resolve DUR manually"
+        },
+        {
+            "role": "Role 2",
+            "task": "Check DUR"
+        },
+        {
+            "role": "Role 2",
+            "task": "Check Insurance"
+        },
+        {
+            "role": "Role 1",
+            "task": "Pick-up"
+        },
+        {
+            "role": "Role 2",
+            "task": "Check if refill is allowed"
+        },
+        {
+            "role": "Role 1",
+            "task": "Enter prescription details"
+        },
+        {
+            "role": "Role 1",
+            "task": "Process drop-off"
+        },
+        {
+            "role": "Role 3",
+            "task": "Check for Quality Assurance"
+        },
+        {
+            "role": "Role 1",
+            "task": "Pack the drugs (Production)"
+        },
+        {
+            "role": "Role 1",
+            "task": "Prescription received"
+        },
+        {
+            "role": "Role 1",
+            "task": "Prescription fulfilled"
+        },
+        {
+            "role": "Role 1",
+            "task": "EVENT 19 END ERROR"
+        }
+    ],
+    "sim_metric": "val_loss"
+}

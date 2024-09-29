@@ -1,0 +1,26 @@
+caseid,task,start:timestamp,time:timestamp,role,st_wip,st_tsk_wip,queue
+1,Traer informacion estudiante - banner,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 1,43,2.0,-1
+2,Traer informacion estudiante - banner,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 1,44,3.0,-1
+3,Traer informacion estudiante - banner,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 1,45,2.0,-1
+1,Radicar Solicitud Homologacion,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 1,45,2.102318548387097,-1
+2,Radicar Solicitud Homologacion,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 1,45,3.102318548387097,-1
+3,Radicar Solicitud Homologacion,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 1,45,2.102318548387097,-1
+1,Cancelar Solicitud,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 2,45,2.265372983870968,-1
+2,Cancelar Solicitud,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 2,45,2.265372983870968,-1
+3,Validar solicitud,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 2,45,1.2416834677419355,-1
+1,Notificacion estudiante cancelacion soli,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 2,45,2.0,-1
+2,Notificacion estudiante cancelacion soli,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 2,45,2.0,-1
+3,Recepcion de documentos,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 2,45,1.0148689516129032,-1
+3,Homologacion por grupo de cursos,2016-05-18 21:56:02,2016-05-18 21:56:02,Role 3,43,1.5632560483870968,-1
+4,Traer informacion estudiante - banner,2016-05-18 22:02:25.036000,2016-05-18 22:02:25.036000,Role 1,43,2.0,-1
+5,Traer informacion estudiante - banner,2016-05-18 22:02:25.036000,2016-05-18 22:02:25.036000,Role 1,44,3.0,-1
+6,Traer informacion estudiante - banner,2016-05-18 22:02:25.036000,2016-05-18 22:02:25.036000,Role 1,45,2.0,-1
+4,Radicar Solicitud Homologacion,2016-05-18 22:02:25.036000,2016-05-18 22:02:25.036000,Role 1,45,2.102318548387097,-1
+5,Radicar Solicitud Homologacion,2016-05-18 22:02:25.036000,2016-05-18 22:02:25.036000,Role 1,45,3.102318548387097,-1
+6,Radicar Solicitud Homologacion,2016-05-18 22:02:25.036000,2016-05-18 22:02:25.036000,Role 1,45,2.102318548387097,-1
+4,Validar solicitud,2016-05-18 22:02:25.036000,2016-05-18 22:02:25.036000,Role 2,45,1.2416834677419355,-1
+5,Cancelar Solicitud,2016-05-18 22:02:25.036000,2016-05-18 22:02:25.036000,Role 2,45,2.265372983870968,-1
+6,Cancelar Solicitud,2016-05-18 22:02:25.036000,2016-05-18 22:02:25.036000,Role 2,45,2.265372983870968,-1
+4,Homologacion por grupo de cursos,2016-05-18 22:02:25.036000,2016-05-18 22:02:25.036000,Role 3,45,1.5632560483870968,-1
+5,Notificacion estudiante cancelacion soli,2016-05-18 22:02:25.036000,2016-05-18 22:02:25.036000,Role 2,45,2.0,-1
+6,Notificacion estudiante cancelacion soli,2016-05-18 22:02:25.036000,2016-05-18 22:02:25.036000,Role 2,45,2.0,-1

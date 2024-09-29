@@ -1,0 +1,4 @@
+caseid,task,start:timestamp,time:timestamp,role,st_wip,st_tsk_wip,queue
+2,W_Handle leads,2016-10-22 11:37:20,2016-10-22 11:37:33,Role 1,1031,1.0447971031033731,-1
+1,W_Complete application,2016-10-22 11:37:20,2016-10-22 11:39:36,Role 1,1030,2.498928708536092,-1
+2,W_Complete application,2016-10-22 11:37:52,2016-10-22 11:40:11,Role 1,1031,3.498928708536092,-1

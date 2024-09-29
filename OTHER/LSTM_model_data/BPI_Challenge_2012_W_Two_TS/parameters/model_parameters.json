@@ -1,0 +1,42 @@
+{
+    "dense_act": "linear",
+    "index_ac": {
+        "0": "start",
+        "1": "W_Afhandelen leads",
+        "2": "W_Beoordelen fraude",
+        "3": "W_Completeren aanvraag",
+        "4": "W_Nabellen incomplete dossiers",
+        "5": "W_Nabellen offertes",
+        "6": "W_Valideren aanvraag",
+        "7": "end"
+    },
+    "index_rl": {
+        "0": "start",
+        "1": "Role 1",
+        "2": "Role 2",
+        "3": "Role 3",
+        "4": "Role 4",
+        "5": "Role 5",
+        "6": "Role 6",
+        "7": "Role 7",
+        "8": "end"
+    },
+    "l_size": 50,
+    "loss": 2.7661068439483643,
+    "lstm_act": "selu",
+    "max_trace_size": 74,
+    "model_type": "concatenated",
+    "n_size": 15,
+    "norm_method": "max",
+    "optim": "Nadam",
+    "output": "output_files/20210208_3D109004_337F_4211_925A_D9014A0BA780/20210208_730B8DFC_346F_4552_9952_7E8271969F41",
+    "scale_args": {
+        "dur": {
+            "max_value": 243191.216
+        },
+        "wait": {
+            "max_value": 2572740.107
+        }
+    },
+    "sim_metric": "val_loss"
+}
