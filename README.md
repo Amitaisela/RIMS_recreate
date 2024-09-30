@@ -4,7 +4,7 @@ This repository contains the recreated results for the paper _Runtime Integratio
 
 ### Known Issues:
 
-We encountered the following errors while running the LSTM and DSIM models on certain datasets:
+We encountered errors while running the LSTM and DSIM models on certain datasets:
 
 - **BPI_Challenge_2012_W_Two_TS**:
   - Error running LSTM
@@ -16,6 +16,8 @@ We encountered the following errors while running the LSTM and DSIM models on ce
   - Error running LSTM
   - Error running DSIM
 
+We think this is due to the data rather then out code, since it works for everything else.
+
 ### Repository Structure:
 
 The code is divided into two sections:
@@ -26,6 +28,7 @@ The code is divided into two sections:
 ### Before running
 
 Notice that due to github size limit, we had to remove the Logs folder from the OTHER directory. it can be found here:
+
 https://drive.google.com/drive/folders/1gmO8ULxtBxqShXnBeEUhBLOy97KYlVI2
 
 Just download and copy and paste the Log folder into OTHER/
