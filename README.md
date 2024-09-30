@@ -9,6 +9,9 @@ We encountered errors while running the LSTM and DSIM models on certain datasets
 - **BPI_Challenge_2012_W_Two_TS**:
   - Error running LSTM
   - Error running DSIM
+- **BPI_Challenge_2012_W_Two_TS_2**:
+  - Error running LSTM
+  - Error running DSIM
 - **PurchasingExample**:
   - Error running LSTM
   - Error running DSIM
@@ -31,7 +34,9 @@ Notice that due to github size limit, we had to remove the Logs folder from the 
 
 https://drive.google.com/drive/folders/1gmO8ULxtBxqShXnBeEUhBLOy97KYlVI2
 
-Just download and copy and paste the Log folder into OTHER/
+unfortunately, the data wasnt structred well - we would reccomend to use the data in our repository, and not try to redownload it since we have made some changes to the names - for instance, we named BPI_Challenge_2012_W_Two_TS* BPI_Challenge_2012_W_Two_TS_2.
+
+To use the Logs, download them from the link, and copy and paste BPI_Challenge_2012_W_Two_TS, calling the copy BPI_Challenge_2012_W_Two_TS_2
 
 ### Running the Models:
 
