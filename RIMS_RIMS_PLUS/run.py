@@ -33,6 +33,7 @@ def main(argv):
 
     return MAE, EMD_normalize, ln
 
+
 def setup(env: simpy.Environment, NAME_EXPERIMENT, params, i, type):
     simulation_process = SimulationProcess(env=env, params=params)
 
@@ -58,6 +59,7 @@ def setup(env: simpy.Environment, NAME_EXPERIMENT, params, i, type):
         env.process(Token(i, params, simulation_process,
                     params).simulation(env, writer, type))
 
+
 def run_simulation(NAME_EXPERIMENT, N_SIMULATION, type):
     path_model = NAME_EXPERIMENT + '/' + type + '/' + NAME_EXPERIMENT
     if exists(path_model + '_diapr_meta.json'):
@@ -65,12 +67,14 @@ def run_simulation(NAME_EXPERIMENT, N_SIMULATION, type):
     elif exists(path_model + '_dispr_meta.json'):
         FEATURE_ROLE = 'no_all_role'
     else:
-        raise ValueError(f'LSTM models do not exist in the right folder\n{path_model}_dispr_meta.json')
+        raise ValueError(
+            f'LSTM models do not exist in the right folder\n{path_model}_dispr_meta.json')
     for i in range(0, N_SIMULATION):
         params = Parameters(NAME_EXPERIMENT, FEATURE_ROLE, i, type)
         env = simpy.Environment()
-        env.process(setup(env,NAME_EXPERIMENT, params, i, type))
+        env.process(setup(env, NAME_EXPERIMENT, params, i, type))
         env.run(until=params.SIM_TIME)
+
 
 def CI(data):
     n = len(data)
@@ -87,21 +91,23 @@ def CI(data):
 
     return ci_lower, ci_upper
 
+
 # conda activate azureml_py310_sdkv2
 if __name__ == "__main__":
-    dataset_list_RIMS = ["BPI_Challenge_2012_W_Two_TS","BPI_Challenge_2017_W_Two_TS","confidential_2000",
-                         "SynLoan", "confidential_1000","ConsultaDataMining201618", "cvs_pharmacy",
+    dataset_list_RIMS = ["BPI_Challenge_2012_W_Two_TS", "BPI_Challenge_2012_W_Two_TS_2", "BPI_Challenge_2017_W_Two_TS", "confidential_2000",
+                         "SynLoan", "confidential_1000", "ConsultaDataMining201618", "cvs_pharmacy",
                          "Productions", "PurchasingExample"]
-     
-    dataset_list_RIMS_plus = ["BPI_Challenge_2012_W_Two_TS","BPI_Challenge_2017_W_Two_TS", 
-                    "confidential_1000", "cvs_pharmacy", "SynLoan"]
+
+    dataset_list_RIMS_plus = ["BPI_Challenge_2012_W_Two_TS", "BPI_Challenge_2012_W_Two_TS_2", "BPI_Challenge_2017_W_Two_TS",
+                              "confidential_1000", "cvs_pharmacy", "SynLoan"]
     iteration = 1
     for dataset_name in dataset_list_RIMS:
         warnings.filterwarnings("ignore")
-        
+
         # Run the main function with provided arguments
-        mean_absolute_error, normalized_emd, length = main(["-t", "rims", "-l", dataset_name, "-n", str(iteration)])
-        
+        mean_absolute_error, normalized_emd, length = main(
+            ["-t", "rims", "-l", dataset_name, "-n", str(iteration)])
+
         # If length is greater than 4, calculate confidence intervals
         if length > 4:
             ci_lower_mae, ci_upper_mae = CI(list(mean_absolute_error.values()))
@@ -112,26 +118,31 @@ if __name__ == "__main__":
 
         with open("RIMS.csv", "a") as file:
             writer = csv.writer(file)
-            
+
             # Write the header if the file is empty
             if file.tell() == 0:
-                writer.writerow(["Dataset", "Iteration", "MAE", "CI_Lower_MAE", "CI_Upper_MAE", "EMD", "CI_Lower_EMD", "CI_Upper_EMD"])
-            
+                writer.writerow(["Dataset", "Iteration", "MAE", "CI_Lower_MAE",
+                                "CI_Upper_MAE", "EMD", "CI_Lower_EMD", "CI_Upper_EMD"])
+
             writer.writerow([
                 dataset_name, iteration,
-                np.mean(list(mean_absolute_error.values())), ci_lower_mae, ci_upper_mae,
-                np.mean(list(normalized_emd.values())), ci_lower_emd, ci_upper_emd
+                np.mean(list(mean_absolute_error.values())
+                        ), ci_lower_mae, ci_upper_mae,
+                np.mean(list(normalized_emd.values())
+                        ), ci_lower_emd, ci_upper_emd
             ])
-        
+
         if dataset_name in dataset_list_RIMS_plus:
             warnings.filterwarnings("ignore")
-            
+
             # Run the main function with provided arguments
-            mean_absolute_error, normalized_emd, length = main(["-t", "rims_plus", "-l", dataset_name, "-n", str(iteration)])
-            
+            mean_absolute_error, normalized_emd, length = main(
+                ["-t", "rims_plus", "-l", dataset_name, "-n", str(iteration)])
+
             # If length is greater than 4, calculate confidence intervals
             if length > 4:
-                ci_lower_mae, ci_upper_mae = CI(list(mean_absolute_error.values()))
+                ci_lower_mae, ci_upper_mae = CI(
+                    list(mean_absolute_error.values()))
                 ci_lower_emd, ci_upper_emd = CI(list(normalized_emd.values()))
             else:
                 ci_lower_mae, ci_upper_mae = None, None
@@ -139,16 +150,18 @@ if __name__ == "__main__":
 
             with open("RIMS_PLUS.csv", "a") as file:
                 writer = csv.writer(file)
-                
+
                 # Write the header if the file is empty
                 if file.tell() == 0:
-                    writer.writerow(["Dataset", "Iteration", "MAE", "CI_Lower_MAE", "CI_Upper_MAE", "EMD", "CI_Lower_EMD", "CI_Upper_EMD"])
-                
+                    writer.writerow(["Dataset", "Iteration", "MAE", "CI_Lower_MAE",
+                                    "CI_Upper_MAE", "EMD", "CI_Lower_EMD", "CI_Upper_EMD"])
+
                 writer.writerow([
                     dataset_name, iteration,
-                    np.mean(list(mean_absolute_error.values())), ci_lower_mae, ci_upper_mae,
-                    np.mean(list(normalized_emd.values())), ci_lower_emd, ci_upper_emd
+                    np.mean(list(mean_absolute_error.values())
+                            ), ci_lower_mae, ci_upper_mae,
+                    np.mean(list(normalized_emd.values())
+                            ), ci_lower_emd, ci_upper_emd
                 ])
-                
-            print(f"Completed processing for {dataset_name}")
 
+            print(f"Completed processing for {dataset_name}")

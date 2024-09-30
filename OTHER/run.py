@@ -1,7 +1,7 @@
 import subprocess
 
 # run python main.py -t DDPS -l confidential_2000 -n 1
-datasets = ["BPI_Challenge_2012_W_Two_TS","ConsultaDataMining201618","PurchasingExample","confidential_1000",
+datasets = ["BPI_Challenge_2012_W_Two_TS","BPI_Challenge_2012_W_Two_TS_2","ConsultaDataMining201618","PurchasingExample","confidential_1000",
             "cvs_pharmacy","BPI_Challenge_2017_W_Two_TS", "Productions", "SynLoan", "confidential_2000"]
 
 models = ["DDPS", "LSTM", "DSIM"]
